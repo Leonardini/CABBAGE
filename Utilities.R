@@ -5,7 +5,6 @@ library(AMR)
 library(ggplot2)
 library(xml2)
 library(rvest)
-library(SRAdb)
 
 PMID_prefix = "www.ncbi.nlm.nih.gov/pubmed/?term="
 NCBI_prefix = "https://www.ncbi.nlm.nih.gov/bioproject/?term="
