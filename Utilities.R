@@ -52,6 +52,7 @@ FIELDS = c(
 
 WORKING_DIR = "~/Downloads/AMR/AMRDataTables/"
 
+### Reverses the characters of a string x element-wise.
 str_reverse = function(x) {
   str_split(x, "") %>% 
     unlist %>% 
@@ -144,6 +145,9 @@ findAccessions = function(Table, cName = NULL, types = "RUN", minFrac = MIN_FRAC
   output
 }
 
+### Reads all CSV files in Dir and collects accession numbers from each file,
+### returning a tibble with columns fname (source filename) and accession.
+### cName, if specified, is passed directly to findAccessions as the accession column.
 getAccessions = function(Dir, cName = NULL) {
   initDir = getwd()
   setwd(Dir)
@@ -160,6 +164,9 @@ getAccessions = function(Dir, cName = NULL) {
   fullTab
 }
 
+### Aggregates accessions from all files under DATABASE_DIR into AllAccessions.csv,
+### with an added DB column derived from the source filename. Returns the count of
+### distinct accessions across all database files.
 joinAllAccessions = function() {
   X = getAccessions(DATABASE_DIR, cName = "accession")
   X1 = X %>% 
@@ -169,6 +176,9 @@ joinAllAccessions = function() {
   X2
 }
 
+### Row-binds multiple CSV files into a single table and writes it to outFilename.
+### When a shared column name has mismatched types across files, the column is coerced
+### to the type from the first file so that bind_rows does not fail.
 concatenateFiles = function(inFilenames, outFilename) {
   Tab = read_csv(inFilenames[1], guess_max = Inf)
   cnames = colnames(Tab)
@@ -193,6 +203,10 @@ concatenateFiles = function(inFilenames, outFilename) {
   Tab
 }
 
+### Joins a genotype CSV (genoFilename) and a phenotype CSV (phenoFilename) on a shared
+### isolate identifier, renaming the genotype key column to match phenoID before joining.
+### Uses an inner join by default; if defaultPheno is supplied, uses a left join instead
+### and fills all unmatched phenotype entries in the last column with defaultPheno.
 joinGenoPheno = function(genoFilename, phenoFilename, genoID, phenoID, defaultPheno = NULL, outFilename = NULL) {
   gList = c("c") %>%
     set_names(genoID)
@@ -229,6 +243,11 @@ joinGenoPheno = function(genoFilename, phenoFilename, genoID, phenoID, defaultPh
   fullTab
 }
 
+### Expands a single comma-separated resistance-profile column (Col) into one binary
+### column per drug: "R" if that drug appears in the profile for a given row, "S" otherwise.
+### Entries matching default (e.g. "susceptible") are treated as the baseline and excluded
+### from the new column set. extraSymbol, if supplied, is stripped from the profile values
+### before splitting.
 splitResistance = function(fname, Col = "Resistance profile", default = "susceptible", extraSymbol = NULL) {
   Tab = read_csv(fname, guess_max = Inf)
   splitCol = Tab %>%
@@ -260,6 +279,12 @@ splitResistance = function(fname, Col = "Resistance profile", default = "suscept
   Tab
 }
 
+### Pivots a long-format resistance table (one row per isolate-drug combination) to wide
+### format (one row per isolate, one column group per drug). repColumns are the isolate
+### identifier columns carried through unchanged; pivotColumn supplies the new column names
+### (drug names); splitColumns hold the values to spread (e.g. status, MIC, method).
+### If dropColumns is TRUE, all columns not in repColumns, pivotColumn, or splitColumns
+### are dropped before pivoting.
 widenResistance = function(fname, repColumns = c(1,2), pivotColumn = 3, splitColumns = 4:8, dropColumns = TRUE) {
   Tab = read_csv(fname, guess_max = Inf)
   cnames = colnames(Tab)
@@ -277,6 +302,11 @@ widenResistance = function(fname, repColumns = c(1,2), pivotColumn = 3, splitCol
   Tab
 }
 
+### Queries the EBI ENA Portal API for run-level metadata associated with studyID.
+### If short is TRUE, only the run_accession field is requested and the studyID is prepended
+### as an ID column; if FALSE, all EBI_FIELDS are requested.
+### Returns a tibble of run details, or NULL (with a warning) if the query fails.
+### If writeResponse is TRUE, the result is written to <prefix><studyID>_Details.csv.
 downloadStudyDetails = function(studyID, prefix = "", short = FALSE, writeResponse = TRUE) {
   URL = paste0(QUERY_EBI, studyID, ifelse(short, CONVERSION_EBI_SHORT, CONVERSION_EBI_LONG))
   result = try(read_html(URL) %>% 
@@ -297,6 +327,8 @@ downloadStudyDetails = function(studyID, prefix = "", short = FALSE, writeRespon
   result
 }
 
+### Calls downloadStudyDetails for each accession in accessionList, combining the results
+### into a single tibble. Progress is printed to the console every 10 entries.
 extractRunsFromSamples = function(accessionList, short = TRUE) {
   L = length(accessionList)
   Tab = tibble()
@@ -311,6 +343,13 @@ extractRunsFromSamples = function(accessionList, short = TRUE) {
   Tab
 }
 
+### Resolves sample-level accessions in column cName of fname to run-level accessions
+### via the EBI API, writes the mapping table to Mappings/, and writes a joined output
+### (original rows augmented with run metadata) alongside the input file.
+### If previousMappingsFile is supplied, only accessions not already present there are
+### fetched; the cached results are merged in before joining.
+### When short is FALSE, both sample_accession and secondary_sample_accession are tried
+### as join keys, and all EBI metadata fields are included in the output.
 convertAccessions = function(fname, cName = "sample_name", short = TRUE, previousMappingsFile = NULL) {
   initTab = read_csv(fname, guess_max = Inf)
   accessions = initTab %>%

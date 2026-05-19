@@ -1,3 +1,7 @@
+### Batch-runs getGenotypes on every *_Processed.csv file in Dir, writing one
+### *_Extracted_Genotypes.csv per file into AllExtractedGenotypes/. Files originating
+### from a database directory (not starting with PMID or DOI) receive a directory-name
+### prefix in the output filename to avoid collisions across sources.
 getAllGenotypes = function(Dir) {
   initDir = getwd()
   setwd(Dir)
@@ -19,6 +23,12 @@ getAllGenotypes = function(Dir) {
   setwd(initDir)
 }
 
+### Reads all extracted genotype files from AllExtractedGenotypes/ (produced by
+### getAllGenotypes) and additionally processes the three large mixed-species database
+### files (PATRIC, CDC, COMPARE-ML), filtering those to GOOD_GENERA and GOOD_SPECIES.
+### Returns a named list: fullList (accession IDs with source file) for the per-species
+### files, and extraList (accession IDs with source file and species label) for the
+### database files.
 countGenotypes = function() {
   setwd(paste0(WORKING_DIR, "AllExtractedGenotypes/"))
   LF = list.files()
@@ -63,6 +73,12 @@ countGenotypes = function() {
   output
 }
 
+### Infers a species label for each accession in fullList by matching its source
+### filename against GOOD_GENERA and GOOD_SPECIES (both full genus and abbreviated
+### genus+species forms). For accessions that remain unlabelled, falls back to
+### FinalDatasets.csv PMID-to-species mappings, but only for PMIDs with a single
+### associated species to avoid ambiguous assignments. Writes the labelled table to
+### ExtractedGenotypesWithSpecies.csv and returns it.
 breakUpGenotypesBySpecies = function(fullList, extraList) {
   fullList %<>%
     mutate(Species = NA)
@@ -120,6 +136,10 @@ breakUpGenotypesBySpecies = function(fullList, extraList) {
   fullList
 }
 
+### Orchestrates the full genotype-counting pipeline: calls countGenotypes, passes the
+### result to breakUpGenotypesBySpecies, combines fullList and extraList, normalises
+### species names to sentence case and canonical GOOD_GENERA / GOOD_SPECIES values,
+### and writes the final combined table to AllGenotypesAndSpecies.csv.
 tabulateGenotypesAndSpecies = function() {
   output = countGenotypes()
   fullList = output[[1]]
@@ -140,6 +160,10 @@ tabulateGenotypesAndSpecies = function() {
   finalList
 }
 
+### Reads AllGenotypesAndSpecies.csv and generates a stacked bar chart (Figure 2)
+### of unique sample counts per species, coloured by source: "DB" (databases only),
+### "Paper" (literature only), or "Both" (present in both). Total counts are
+### annotated above each bar. The chart is written to fname as a PDF.
 makeFigure = function(fname = "Figure2.pdf") {
   Tab1 = read_csv("AllGenotypesAndSpecies.csv", show_col_types = FALSE) %>%
     mutate(DB = !(str_detect(file, "PMID") | str_detect(file, "doi"))) %>%
@@ -170,6 +194,10 @@ makeFigure = function(fname = "Figure2.pdf") {
   Tab1
 }
 
+### Like getAllGenotypes, but extracts RUN, SAMPLE, and BIOSAMPLE accessions
+### simultaneously (full = TRUE, badTypes = NULL) for every *_Processed.csv in Dir.
+### All per-file results are combined into a single mapping table and written to
+### Mappings/AllMappings<DirName>.csv, where DirName is the last component of Dir.
 getAllMappings = function(Dir) {
   initDir = getwd()
   setwd(Dir)

@@ -1,6 +1,9 @@
 DATABASE_DIR = paste0(WORKING_DIR, "Databases")
 setwd(DATABASE_DIR)
 
+### Traverses the two-level COMPARE_ML_AMR folder hierarchy (top-level study folders,
+### each containing one subfolder per isolate with a single TSV file), reads the first
+### MAX_COLS columns of each TSV, and writes one concatenated *_Processed.csv per study.
 processCompareML = function(MAX_COLS = 11) {
   initDir = getwd()
   setwd("COMPARE_ML_AMR/")
@@ -30,6 +33,10 @@ processCompareML = function(MAX_COLS = 11) {
   setwd(initDir)
 }
 
+### Post-processes the per-study CSVs produced by processCompareML: normalises antibiotic
+### names to title case, removes any drug with conflicting (duplicate) records per isolate
+### and writes a _Corrected version, widens each file to per-drug columns via
+### widenResistance, and concatenates all widened files into AllAntibiograms_WidenedRes_Processed.csv.
 processCompareMLFull = function() {
   LF = list.files(pattern = '.csv')
   for (fname in LF) {
@@ -67,6 +74,8 @@ processCompareMLFull = function() {
   fullTab
 }
 
+### Reads each NARMS Excel file, filters to rows where both WGS.ID and
+### NCBI.Accession.Number are present, and writes a CSV alongside the original Excel file.
 processNARMS = function() {
   initDir = getwd()
   setwd("NARMS/")
@@ -82,6 +91,9 @@ processNARMS = function() {
   setwd(initDir)
 }
 
+### Collects NCBI accessions from all NARMS CSV files, adds a species column derived
+### from the filename prefix, writes NARMSAccessions.csv, and returns per-species
+### distinct accession counts.
 processNARMSFull = function() {
   U = getAccessions("NARMS/", cName = "NCBI.Accession.Number")
   U1 = U %>% 
@@ -95,6 +107,11 @@ processNARMSFull = function() {
   U2
 }
 
+### Reads NDARO TSV files and writes filtered CSVs, keeping only rows with both a
+### Run accession and AST phenotype data. As a special step, the combined
+### EscherichiaColiShigella file is first split into separate E. coli and Shigella files
+### (the original combined file should then be excluded from further processing).
+### Returns a named integer vector of retained row counts per species.
 processNDARO = function() {
   initDir = getwd()
   setwd("NDARO")
@@ -127,6 +144,9 @@ processNDARO = function() {
   Cnts
 }
 
+### Collects accessions from all filtered NDARO CSVs, adds a species column derived
+### from the filename prefix, writes NDAROAccessions.csv, and returns per-species
+### distinct accession counts.
 processNDAROFull = function() {
   W = getAccessions("NDARO/")
   W1 = W %>% 
@@ -140,6 +160,9 @@ processNDAROFull = function() {
   W2
 }
 
+### Joins the PATRIC AMR table (PATRIC_genomes_AMR.tsv) with the genome metadata table
+### (genome_metadata.tsv), filters to organisms in GOOD_GENERA or GOOD_SPECIES, and
+### writes the reduced combined file to PATRIC/PATRIC_genomes_AMR_Reduced.csv.
 processPATRIC = function() {
   Tab = read_tsv("PATRIC/PATRIC_genomes_AMR.tsv", guess_max = Inf)
   TabR = Tab %>% 
@@ -165,6 +188,8 @@ processPATRIC = function() {
   write_csv(TabT, file = "PATRIC/PATRIC_genomes_AMR_Reduced.csv")
 }
 
+### Extracts assembly accessions from PATRIC_genomes_AMR_Reduced.csv (taken as the last
+### space-separated token of the Rest column), deduplicates, and writes PATRICAccessions.csv.
 processPATRICFull = function() {
   miniTab = read_csv("PATRIC/PATRIC_genomes_AMR_Reduced.csv")
   miniTab = miniTab %>% 
@@ -176,6 +201,9 @@ processPATRICFull = function() {
   write_csv(Tab, "PATRICAccessions.csv")
 }
 
+### For each PathogenWatch collection, joins the AMR-profile CSV and the metadata CSV
+### on the NAME column and writes a *_Merged_Processed.csv. Asserts that NAME is a
+### unique key in both files and that every AMR-profile name is present in the metadata.
 processPWatch = function() {
   initDir = getwd()
   setwd("PathogenWatch/")
@@ -197,6 +225,9 @@ processPWatch = function() {
   setwd(initDir)
 }
 
+### Collects accessions from all PathogenWatch merged CSVs, adds a species column
+### derived from the second dash-delimited token of the filename, writes
+### PathogenWatchAccessions.csv, and returns per-species distinct accession counts.
 processPWatchFull = function() {
   Q = getAccessions("PathogenWatch/")
   Q1 = Q %>% 
@@ -210,6 +241,8 @@ processPWatchFull = function() {
   Q2
 }
 
+### Reads each PubMLST TSV file and writes a filtered CSV, retaining only rows for
+### which findAccessions can identify at least one valid accession number.
 processPubMLST = function() {
   initDir = getwd()
   setwd("pubMLST/")
@@ -225,6 +258,9 @@ processPubMLST = function() {
   setwd(initDir)
 }
 
+### Collects accessions from all filtered PubMLST CSVs, adds a species column derived
+### from the filename prefix, writes pubMLSTAccessions.csv, and returns per-species
+### distinct accession counts.
 processPubMLSTFull = function() {
   Z = getAccessions("pubMLST/")
   Z1 = Z %>% 
