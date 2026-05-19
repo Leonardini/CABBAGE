@@ -1,3 +1,14 @@
+### Parses the AllFoundPapers text file (one line per dataset: URL, isolate count, species,
+### optional context) into a tibble, then filters to species with more than one paper.
+### The top 10 datasets per species are designated "selected" (SelectedPapers.csv);
+### the remainder become "remaining" (RemainingPapers.csv).
+### The body of this function manually assigns GenoData and PhenoData source URLs for each
+### dataset by row index. Datasets are then filtered to those with a sufficient isolate count
+### (UpdatedSize >= original Size, or >= 75 for non-MTB / >= 150 for MTB), deduplicated by
+### (Species, GenoData, PhenoData), and written to FinalDatasets.csv.
+### Five additional MicroReact datasets not found in the search are appended manually at the end.
+### Outputs: FoundPapers.csv, SelectedPapers.csv, SelectedPapersWithDetails.csv,
+###          RemainingPapers.csv, RemainingPapersWithDetails.csv, FinalDatasets.csv.
 preprocessAllData = function() {
   initDir = getwd()
   setwd(WORKING_DIR)

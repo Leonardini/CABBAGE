@@ -1,5 +1,13 @@
 setwd(WORKING_DIR)
 
+### Performs all multi-part file concatenations and necessary column fixes for papers
+### whose raw processed files must be combined before genotype extraction. Specifically:
+###  - PMID_30643125: renames "Penicillin" columns to "PEN" then concatenates parts.
+###  - PMID_26686880: concatenates MTB and StaphAureus supplement files separately.
+###  - PMID_23299977: concatenates genotype parts 1 and 2.
+###  - PMID_34554083: joins Part3 geno+pheno, then concatenates all three parts.
+###  - PMID_31086182, _31736907, _24462211, _35308374: concatenate their respective parts.
+### Must be run before joinAllGenoPheno. Operates in SelectedTables/ and RemainingTables/.
 concatenateAllFiles = function() {
   initDir = getwd()
   setwd(paste0(WORKING_DIR, "SelectedTables"))
@@ -45,6 +53,11 @@ concatenateAllFiles = function() {
   setwd(initDir)
 }
 
+### Performs all genotype-phenotype joins to produce the final *_Merged_Processed.csv files
+### for every paper and database source. Many joins require bespoke key reformatting before
+### calling joinGenoPheno (e.g. stripping prefixes, padding numbers, extracting identifiers
+### from FTP paths). Covers SelectedTables, RemainingTables, PATRIC, NARMS, CDC, COMPARE-ML,
+### PathogenWatch, and Microreact sources. Must be run after concatenateAllFiles.
 joinAllGenoPheno = function() {
   initDir = getwd()
   setwd(paste0(WORKING_DIR, "SelectedTables"))
@@ -607,6 +620,9 @@ joinAllGenoPheno = function() {
   setwd(initDir)
 }
 
+### Splits the PMID_31005733 SRA run table by organism: S. aureus rows get a Methicillin = "R"
+### column (all isolates were MRSA) and are written to SelectedTables; E. faecium rows get
+### Vancomycin = "R" (all were VRE) and are written to RemainingTables.
 preprocessPMID31005733 = function() {
   Tab = read_csv("../SelectedTables/PMID_31005733_SraRunTable.csv", guess_max = Inf) %>% 
     mutate(BioSampleShort = as.integer(str_sub(BioSample, 5))) %>%
@@ -622,6 +638,8 @@ preprocessPMID31005733 = function() {
   write_csv(Tab2, file = "../RemainingTables/PMID_31005733_EFaecium_Processed.csv")
 }
 
+### Splits the combined "B-lactam_susceptibility/MIC" column in PMID_24509479 into two
+### separate columns (susceptibility category and numeric MIC value) in place.
 preprocessPMID24509479 = function() {
   Tab = read_csv("../SelectedTables/PMID_24509479_NIHMS56749-supplement-2_Processed.csv", guess_max = Inf) %>%
     mutate(`B-lactam_susceptibility/MIC(_g/mL)` = na_if(`B-lactam_susceptibility/MIC(_g/mL)`, "N/A")) %>%
@@ -630,6 +648,9 @@ preprocessPMID24509479 = function() {
   write_csv(Tab, "../SelectedTables/PMID_24509479_NIHMS56749-supplement-2_Processed.csv")
 }
 
+### Generates the IPCD database detail URLs for the first 236 isolates in
+### PMID_33875431_Merged_Phenotype_Processed.csv; the returned URLs can be opened
+### manually to retrieve additional isolate metadata not present in the supplementary table.
 getIPCDInfo = function() {
   isolateIDs = read_csv("PMID_33875431_Merged_Phenotype_Processed.csv") %>% 
     pull(Clinical_isolate_IDs) %>%
@@ -639,6 +660,9 @@ getIPCDInfo = function() {
   URLs
 }
 
+### Downloads run-level ENA metadata for every component BioProject of the CRyPTIC study
+### (listed in DOI_10.1101:2021.09.14.460274_Component_Projects.csv), then concatenates all
+### per-project detail files into DOI_10.1101:2021.09.14.460274_Genotype_Merged_Processed.csv.
 getCrypticInfo = function() {
   allStudies = read_csv("DOI_10.1101:2021.09.14.460274_Component_Projects.csv") %>% ### Found by searching ENA
     pull(id)
@@ -651,6 +675,10 @@ getCrypticInfo = function() {
 }
 
 
+### Splits a merged multi-species file into one CSV per species based on a categorical column
+### (default: taxon_name in PMID_33659219). Output filenames are derived from the input
+### filename by inserting the abbreviated species name (first letter of genus + capitalised
+### species epithet) before "_Processed".
 splitFileByColumn = function(fname = "../SelectedTables/PMID_33659219_Merged_Processed.csv", Col = "taxon_name") {
   Tab = read_csv(fname, guess_max = Inf)
   splitVar = Tab %>%
@@ -673,6 +701,10 @@ splitFileByColumn = function(fname = "../SelectedTables/PMID_33659219_Merged_Pro
   splitTab
 }
 
+### Converts comma-separated or long-format resistance profiles to per-drug binary R/S columns
+### for the specific files that require it: PMID_23299977 and PMID_33021437 (splitResistance),
+### PMID_32562543 (splitResistance with dot stripping), and PMID_31266463 and
+### PMID_30333126 / PMID_29323230 (widenResistance for long-format tables).
 splitResistanceAll = function() {
   initDir = getwd()
   setwd(paste0(WORKING_DIR, "RemainingTables"))

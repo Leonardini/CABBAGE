@@ -1,6 +1,11 @@
 library(magrittr)
 library(tidyverse)
 
+### Parses the NewlyFoundPapers text file (one line per dataset: URL, size, genus, species,
+### context) from the second literature search into a tibble and writes NewlyFoundPapers.csv.
+### The body contains one GenoData/PhenoData assignment stub per row (up to row 160);
+### each stub must be filled in manually by consulting the corresponding paper before running.
+### When complete, writes NewlyFoundPapersWithDetails.csv.
 preprocessNewData = function() {
   initDir = getwd()
   setwd(WORKING_DIR)
