@@ -36,7 +36,7 @@ The repository contains the R scripts used to extract the initial version of the
 
 *LegacyCode.R* contains full or partial functions that are not currently used (obsolete).
 
-*Replication.R* is a self-contained walkthrough of the pipeline on a small representative subset of sources (one paper, the PATRIC database, and the ENA antibiogram search), intended to help reviewers reproduce key outputs from scratch.
+*Replication.R* is a self-contained walkthrough of the pipeline on a small representative subset of sources (two papers, the PATRIC database, and the ENA antibiogram search), intended to help reviewers reproduce key outputs from scratch.
 
 ----------
 
