@@ -1,0 +1,873 @@
+run_accession	study_accession	sample_accession	tax_id	scientific_name	submitted_ftp
+ERR1046114	PRJEB9121	SAMEA3447803	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046114/16933_6#1.cram
+ERR1046115	PRJEB9121	SAMEA3447804	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046115/16933_6#2.cram
+ERR1046116	PRJEB9121	SAMEA3447807	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046116/16933_6#3.cram
+ERR1046117	PRJEB9121	SAMEA3447809	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046117/16933_6#4.cram
+ERR1046118	PRJEB9121	SAMEA3447811	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046118/16933_6#5.cram
+ERR1046119	PRJEB9121	SAMEA3447814	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046119/16933_6#6.cram
+ERR1046120	PRJEB9121	SAMEA3447816	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046120/16933_6#7.cram
+ERR1046121	PRJEB9121	SAMEA3447818	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046121/16933_6#8.cram
+ERR1046122	PRJEB9121	SAMEA3447820	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046122/16933_6#9.cram
+ERR1046123	PRJEB9121	SAMEA3447822	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046123/16933_6#10.cram
+ERR1046124	PRJEB9121	SAMEA3447824	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046124/16933_6#11.cram
+ERR1046125	PRJEB9121	SAMEA3447827	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046125/16933_6#12.cram
+ERR1046126	PRJEB9121	SAMEA3447829	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046126/16933_6#13.cram
+ERR1046127	PRJEB9121	SAMEA3447831	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046127/16933_6#14.cram
+ERR1046128	PRJEB9121	SAMEA3447833	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046128/16933_6#15.cram
+ERR1046129	PRJEB9121	SAMEA3447672	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046129/16933_6#16.cram
+ERR1046130	PRJEB9121	SAMEA3447673	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046130/16933_6#17.cram
+ERR1046131	PRJEB9121	SAMEA3447677	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046131/16933_6#18.cram
+ERR1046132	PRJEB9121	SAMEA3447679	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046132/16933_6#19.cram
+ERR1046133	PRJEB9121	SAMEA3447681	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046133/16933_6#20.cram
+ERR1046134	PRJEB9121	SAMEA3447683	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046134/16933_6#21.cram
+ERR1046135	PRJEB9121	SAMEA3447685	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046135/16933_6#22.cram
+ERR1046136	PRJEB9121	SAMEA3447687	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046136/16933_6#23.cram
+ERR1046137	PRJEB9121	SAMEA3447689	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046137/16933_6#24.cram
+ERR1046138	PRJEB9121	SAMEA3447693	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046138/16933_6#25.cram
+ERR1046139	PRJEB9121	SAMEA3447695	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046139/16933_6#26.cram
+ERR1046140	PRJEB9121	SAMEA3447697	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046140/16933_6#27.cram
+ERR1046141	PRJEB9121	SAMEA3447699	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046141/16933_6#28.cram
+ERR1046142	PRJEB9121	SAMEA3447702	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046142/16933_6#29.cram
+ERR1046143	PRJEB9121	SAMEA3447704	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046143/16933_6#30.cram
+ERR1046144	PRJEB9121	SAMEA3447708	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046144/16933_6#31.cram
+ERR1046145	PRJEB9121	SAMEA3447712	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046145/16933_6#32.cram
+ERR1046146	PRJEB9121	SAMEA3447713	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046146/16933_6#33.cram
+ERR1046147	PRJEB9121	SAMEA3447715	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046147/16933_6#34.cram
+ERR1046148	PRJEB9121	SAMEA3447717	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046148/16933_6#35.cram
+ERR1046149	PRJEB9121	SAMEA3447718	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046149/16933_6#36.cram
+ERR1046150	PRJEB9121	SAMEA3447720	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046150/16933_6#37.cram
+ERR1046151	PRJEB9121	SAMEA3447722	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046151/16933_6#38.cram
+ERR1046152	PRJEB9121	SAMEA3447724	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046152/16933_6#39.cram
+ERR1046153	PRJEB9121	SAMEA3447726	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046153/16933_6#40.cram
+ERR1046154	PRJEB9121	SAMEA3447728	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046154/16933_6#41.cram
+ERR1046155	PRJEB9121	SAMEA3447730	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046155/16933_6#42.cram
+ERR1046156	PRJEB9121	SAMEA3447732	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046156/16933_6#43.cram
+ERR1046157	PRJEB9121	SAMEA3447734	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046157/16933_6#44.cram
+ERR1046158	PRJEB9121	SAMEA3447736	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046158/16933_6#45.cram
+ERR1046159	PRJEB9121	SAMEA3447738	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046159/16933_6#46.cram
+ERR1046160	PRJEB9121	SAMEA3447740	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046160/16933_6#47.cram
+ERR1046161	PRJEB9121	SAMEA3447742	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046161/16933_6#48.cram
+ERR1046162	PRJEB9121	SAMEA3447744	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046162/16933_6#49.cram
+ERR1046163	PRJEB9121	SAMEA3447746	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046163/16933_6#50.cram
+ERR1046164	PRJEB9121	SAMEA3447748	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046164/16933_6#51.cram
+ERR1046165	PRJEB9121	SAMEA3447750	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046165/16933_6#52.cram
+ERR1046166	PRJEB9121	SAMEA3447752	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046166/16933_6#53.cram
+ERR1046167	PRJEB9121	SAMEA3447754	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046167/16933_6#54.cram
+ERR1046168	PRJEB9121	SAMEA3447755	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046168/16933_6#55.cram
+ERR1046169	PRJEB9121	SAMEA3447757	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046169/16933_6#56.cram
+ERR1046170	PRJEB9121	SAMEA3447759	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046170/16933_6#57.cram
+ERR1046171	PRJEB9121	SAMEA3447761	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046171/16933_6#58.cram
+ERR1046172	PRJEB9121	SAMEA3447762	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046172/16933_6#59.cram
+ERR1046173	PRJEB9121	SAMEA3447766	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046173/16933_6#60.cram
+ERR1046174	PRJEB9121	SAMEA3447769	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046174/16933_6#61.cram
+ERR1046175	PRJEB9121	SAMEA3447771	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046175/16933_6#62.cram
+ERR1046176	PRJEB9121	SAMEA3447773	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046176/16933_6#63.cram
+ERR1046177	PRJEB9121	SAMEA3447775	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046177/16933_6#64.cram
+ERR1046178	PRJEB9121	SAMEA3447777	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046178/16933_6#65.cram
+ERR1046179	PRJEB9121	SAMEA3447779	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046179/16933_6#66.cram
+ERR1046180	PRJEB9121	SAMEA3447781	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046180/16933_6#67.cram
+ERR1046181	PRJEB9121	SAMEA3447784	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046181/16933_6#68.cram
+ERR1046182	PRJEB9121	SAMEA3447786	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046182/16933_6#69.cram
+ERR1046183	PRJEB9121	SAMEA3447788	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046183/16933_6#70.cram
+ERR1046184	PRJEB9121	SAMEA3447790	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046184/16933_6#71.cram
+ERR1046185	PRJEB9121	SAMEA3447792	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046185/16933_6#72.cram
+ERR1046186	PRJEB9121	SAMEA3447795	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046186/16933_6#73.cram
+ERR1046187	PRJEB9121	SAMEA3447797	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046187/16933_6#74.cram
+ERR1046188	PRJEB9121	SAMEA3447801	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046188/16933_6#75.cram
+ERR1046189	PRJEB9121	SAMEA3447802	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046189/16933_6#76.cram
+ERR1046190	PRJEB9121	SAMEA3447805	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046190/16933_6#77.cram
+ERR1046191	PRJEB9121	SAMEA3447806	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046191/16933_6#78.cram
+ERR1046192	PRJEB9121	SAMEA3447808	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046192/16933_6#79.cram
+ERR1046193	PRJEB9121	SAMEA3447810	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046193/16933_6#80.cram
+ERR1046194	PRJEB9121	SAMEA3447812	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046194/16933_6#81.cram
+ERR1046195	PRJEB9121	SAMEA3447813	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046195/16933_6#82.cram
+ERR1046196	PRJEB9121	SAMEA3447815	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046196/16933_6#83.cram
+ERR1046197	PRJEB9121	SAMEA3447817	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046197/16933_6#84.cram
+ERR1046198	PRJEB9121	SAMEA3447819	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046198/16933_6#85.cram
+ERR1046199	PRJEB9121	SAMEA3447821	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046199/16933_6#86.cram
+ERR1046200	PRJEB9121	SAMEA3447823	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046200/16933_6#87.cram
+ERR1046201	PRJEB9121	SAMEA3447825	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046201/16933_6#88.cram
+ERR1046202	PRJEB9121	SAMEA3447826	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046202/16933_6#89.cram
+ERR1046203	PRJEB9121	SAMEA3447828	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046203/16933_6#90.cram
+ERR1046204	PRJEB9121	SAMEA3447830	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046204/16933_7#1.cram
+ERR1046205	PRJEB9121	SAMEA3447832	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046205/16933_7#2.cram
+ERR1046206	PRJEB9121	SAMEA3447834	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046206/16933_7#3.cram
+ERR1046207	PRJEB9121	SAMEA3447835	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046207/16933_7#4.cram
+ERR1046208	PRJEB9121	SAMEA3447836	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046208/16933_7#5.cram
+ERR1046209	PRJEB9121	SAMEA3447837	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046209/16933_7#6.cram
+ERR1046210	PRJEB9121	SAMEA3447838	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046210/16933_7#7.cram
+ERR1046211	PRJEB9121	SAMEA3447839	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046211/16933_7#8.cram
+ERR1046212	PRJEB9121	SAMEA3447840	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046212/16933_7#9.cram
+ERR1046213	PRJEB9121	SAMEA3447841	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046213/16933_7#10.cram
+ERR1046214	PRJEB9121	SAMEA3447842	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046214/16933_7#11.cram
+ERR1046215	PRJEB9121	SAMEA3447843	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046215/16933_7#12.cram
+ERR1046216	PRJEB9121	SAMEA3447844	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046216/16933_7#13.cram
+ERR1046217	PRJEB9121	SAMEA3447845	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046217/16933_7#14.cram
+ERR1046218	PRJEB9121	SAMEA3447846	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046218/16933_7#15.cram
+ERR1046219	PRJEB9121	SAMEA3447847	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046219/16933_7#16.cram
+ERR1046220	PRJEB9121	SAMEA3447848	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046220/16933_7#17.cram
+ERR1046221	PRJEB9121	SAMEA3447849	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046221/16933_7#18.cram
+ERR1046222	PRJEB9121	SAMEA3447850	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046222/16933_7#19.cram
+ERR1046223	PRJEB9121	SAMEA3447851	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046223/16933_7#20.cram
+ERR1046224	PRJEB9121	SAMEA3447852	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046224/16933_7#21.cram
+ERR1046225	PRJEB9121	SAMEA3447853	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046225/16933_7#22.cram
+ERR1046226	PRJEB9121	SAMEA3447854	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046226/16933_7#23.cram
+ERR1046227	PRJEB9121	SAMEA3447855	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046227/16933_7#24.cram
+ERR1046228	PRJEB9121	SAMEA3447856	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046228/16933_7#25.cram
+ERR1046229	PRJEB9121	SAMEA3447857	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046229/16933_7#26.cram
+ERR1046230	PRJEB9121	SAMEA3447858	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046230/16933_7#27.cram
+ERR1046231	PRJEB9121	SAMEA3447859	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046231/16933_7#28.cram
+ERR1046232	PRJEB9121	SAMEA3447860	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046232/16933_7#29.cram
+ERR1046233	PRJEB9121	SAMEA3447861	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046233/16933_7#30.cram
+ERR1046234	PRJEB9121	SAMEA3447862	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046234/16933_7#31.cram
+ERR1046235	PRJEB9121	SAMEA3447863	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046235/16933_7#32.cram
+ERR1046236	PRJEB9121	SAMEA3447864	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046236/16933_7#33.cram
+ERR1046237	PRJEB9121	SAMEA3447866	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046237/16933_7#34.cram
+ERR1046238	PRJEB9121	SAMEA3447867	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046238/16933_7#35.cram
+ERR1046239	PRJEB9121	SAMEA3447868	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046239/16933_7#36.cram
+ERR1046240	PRJEB9121	SAMEA3447869	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046240/16933_7#37.cram
+ERR1046241	PRJEB9121	SAMEA3447870	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046241/16933_7#38.cram
+ERR1046242	PRJEB9121	SAMEA3447871	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046242/16933_7#39.cram
+ERR1046243	PRJEB9121	SAMEA3447872	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046243/16933_7#40.cram
+ERR1046244	PRJEB9121	SAMEA3447873	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046244/16933_7#41.cram
+ERR1046245	PRJEB9121	SAMEA3447874	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046245/16933_7#42.cram
+ERR1046246	PRJEB9121	SAMEA3447875	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046246/16933_7#43.cram
+ERR1046247	PRJEB9121	SAMEA3447876	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046247/16933_7#44.cram
+ERR1046248	PRJEB9121	SAMEA3447877	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046248/16933_7#45.cram
+ERR1046249	PRJEB9121	SAMEA3447878	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046249/16933_7#46.cram
+ERR1046250	PRJEB9121	SAMEA3447879	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046250/16933_7#47.cram
+ERR1046251	PRJEB9121	SAMEA3447880	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046251/16933_7#48.cram
+ERR1046252	PRJEB9121	SAMEA3447881	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046252/16933_7#49.cram
+ERR1046253	PRJEB9121	SAMEA3447882	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046253/16933_7#50.cram
+ERR1046254	PRJEB9121	SAMEA3447883	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046254/16933_7#51.cram
+ERR1046255	PRJEB9121	SAMEA3447884	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046255/16933_7#52.cram
+ERR1046256	PRJEB9121	SAMEA3447885	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046256/16933_7#53.cram
+ERR1046257	PRJEB9121	SAMEA3447886	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046257/16933_7#54.cram
+ERR1046258	PRJEB9121	SAMEA3447887	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046258/16933_7#55.cram
+ERR1046259	PRJEB9121	SAMEA3447888	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046259/16933_7#56.cram
+ERR1046260	PRJEB9121	SAMEA3447889	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046260/16933_7#57.cram
+ERR1046261	PRJEB9121	SAMEA3447890	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046261/16933_7#58.cram
+ERR1046262	PRJEB9121	SAMEA3447891	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046262/16933_7#59.cram
+ERR1046263	PRJEB9121	SAMEA3447892	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046263/16933_7#60.cram
+ERR1046264	PRJEB9121	SAMEA3447893	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046264/16933_7#61.cram
+ERR1046265	PRJEB9121	SAMEA3447894	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046265/16933_7#62.cram
+ERR1046266	PRJEB9121	SAMEA3447895	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046266/16933_7#63.cram
+ERR1046267	PRJEB9121	SAMEA3447896	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046267/16933_7#64.cram
+ERR1046268	PRJEB9121	SAMEA3447897	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046268/16933_7#65.cram
+ERR1046269	PRJEB9121	SAMEA3447898	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046269/16933_7#66.cram
+ERR1046270	PRJEB9121	SAMEA3447899	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046270/16933_7#67.cram
+ERR1046271	PRJEB9121	SAMEA3447900	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046271/16933_7#68.cram
+ERR1046272	PRJEB9121	SAMEA3447901	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046272/16933_7#69.cram
+ERR1046273	PRJEB9121	SAMEA3447903	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046273/16933_7#70.cram
+ERR1046274	PRJEB9121	SAMEA3447904	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046274/16933_7#71.cram
+ERR1046275	PRJEB9121	SAMEA3447905	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046275/16933_7#72.cram
+ERR1046276	PRJEB9121	SAMEA3447906	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046276/16933_7#73.cram
+ERR1046277	PRJEB9121	SAMEA3447908	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046277/16933_7#74.cram
+ERR1046278	PRJEB9121	SAMEA3447910	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046278/16933_7#75.cram
+ERR1046279	PRJEB9121	SAMEA3447911	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046279/16933_7#76.cram
+ERR1046280	PRJEB9121	SAMEA3447912	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046280/16933_7#77.cram
+ERR1046281	PRJEB9121	SAMEA3447913	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046281/16933_7#78.cram
+ERR1046282	PRJEB9121	SAMEA3447914	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046282/16933_7#79.cram
+ERR1046283	PRJEB9121	SAMEA3447915	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046283/16933_7#80.cram
+ERR1046284	PRJEB9121	SAMEA3447916	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046284/16933_7#81.cram
+ERR1046285	PRJEB9121	SAMEA3447917	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046285/16933_7#82.cram
+ERR1046286	PRJEB9121	SAMEA3447918	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046286/16933_7#83.cram
+ERR1046287	PRJEB9121	SAMEA3447919	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046287/16933_7#84.cram
+ERR1046288	PRJEB9121	SAMEA3447920	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046288/16933_7#85.cram
+ERR1046289	PRJEB9121	SAMEA3447921	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046289/16933_7#86.cram
+ERR1046290	PRJEB9121	SAMEA3447922	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046290/16933_7#87.cram
+ERR1046291	PRJEB9121	SAMEA3447923	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046291/16933_7#88.cram
+ERR1046292	PRJEB9121	SAMEA3447924	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046292/16933_7#89.cram
+ERR1046293	PRJEB9121	SAMEA3447925	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046293/16933_7#90.cram
+ERR1046294	PRJEB9121	SAMEA3447926	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR104/ERR1046294/16933_7#91.cram
+ERR1069232	PRJEB9121	SAMEA3447705	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069232/17059_4#1.cram
+ERR1069233	PRJEB9121	SAMEA3447676	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069233/17059_4#2.cram
+ERR1069234	PRJEB9121	SAMEA3447691	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069234/17059_4#3.cram
+ERR1069235	PRJEB9121	SAMEA3447706	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069235/17059_4#4.cram
+ERR1069236	PRJEB9121	SAMEA3447710	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069236/17059_4#5.cram
+ERR1069237	PRJEB9121	SAMEA3447764	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069237/17059_4#6.cram
+ERR1069238	PRJEB9121	SAMEA3447799	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069238/17059_4#7.cram
+ERR1069239	PRJEB9121	SAMEA3447865	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069239/17059_4#8.cram
+ERR1069240	PRJEB9121	SAMEA3447902	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069240/17059_4#9.cram
+ERR1069241	PRJEB9121	SAMEA3447907	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069241/17059_4#10.cram
+ERR1069242	PRJEB9121	SAMEA3447909	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069242/17059_4#11.cram
+ERR1069243	PRJEB9121	SAMEA3447656	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069243/17059_4#12.cram
+ERR1069244	PRJEB9121	SAMEA3447657	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069244/17059_4#13.cram
+ERR1069245	PRJEB9121	SAMEA3447658	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069245/17059_4#14.cram
+ERR1069246	PRJEB9121	SAMEA3447659	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069246/17059_4#15.cram
+ERR1069247	PRJEB9121	SAMEA3447660	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069247/17059_4#16.cram
+ERR1069248	PRJEB9121	SAMEA3447661	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069248/17059_4#17.cram
+ERR1069249	PRJEB9121	SAMEA3447662	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069249/17059_4#18.cram
+ERR1069250	PRJEB9121	SAMEA3447663	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069250/17059_4#19.cram
+ERR1069251	PRJEB9121	SAMEA3447664	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069251/17059_4#20.cram
+ERR1069252	PRJEB9121	SAMEA3447665	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069252/17059_4#21.cram
+ERR1069253	PRJEB9121	SAMEA3447666	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069253/17059_4#22.cram
+ERR1069254	PRJEB9121	SAMEA3447667	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069254/17059_4#23.cram
+ERR1069255	PRJEB9121	SAMEA3447668	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069255/17059_4#24.cram
+ERR1069256	PRJEB9121	SAMEA3447669	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069256/17059_4#25.cram
+ERR1069257	PRJEB9121	SAMEA3447670	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069257/17059_4#26.cram
+ERR1069258	PRJEB9121	SAMEA3447671	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069258/17059_4#27.cram
+ERR1069259	PRJEB9121	SAMEA3447674	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069259/17059_4#28.cram
+ERR1069260	PRJEB9121	SAMEA3447675	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069260/17059_4#29.cram
+ERR1069261	PRJEB9121	SAMEA3447678	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069261/17059_4#30.cram
+ERR1069262	PRJEB9121	SAMEA3447680	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069262/17059_4#31.cram
+ERR1069263	PRJEB9121	SAMEA3447682	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069263/17059_4#32.cram
+ERR1069264	PRJEB9121	SAMEA3447684	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069264/17059_4#33.cram
+ERR1069265	PRJEB9121	SAMEA3447686	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069265/17059_4#34.cram
+ERR1069266	PRJEB9121	SAMEA3447688	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069266/17059_4#35.cram
+ERR1069267	PRJEB9121	SAMEA3447690	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069267/17059_4#36.cram
+ERR1069268	PRJEB9121	SAMEA3447692	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069268/17059_4#37.cram
+ERR1069269	PRJEB9121	SAMEA3447694	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069269/17059_4#38.cram
+ERR1069270	PRJEB9121	SAMEA3447696	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069270/17059_4#39.cram
+ERR1069271	PRJEB9121	SAMEA3447698	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069271/17059_4#40.cram
+ERR1069272	PRJEB9121	SAMEA3447700	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069272/17059_4#41.cram
+ERR1069273	PRJEB9121	SAMEA3447701	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069273/17059_4#42.cram
+ERR1069274	PRJEB9121	SAMEA3447703	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069274/17059_4#43.cram
+ERR1069275	PRJEB9121	SAMEA3447707	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069275/17059_4#44.cram
+ERR1069276	PRJEB9121	SAMEA3447709	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069276/17059_4#45.cram
+ERR1069277	PRJEB9121	SAMEA3447711	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069277/17059_4#46.cram
+ERR1069278	PRJEB9121	SAMEA3447714	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069278/17059_4#47.cram
+ERR1069279	PRJEB9121	SAMEA3447716	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069279/17059_4#48.cram
+ERR1069280	PRJEB9121	SAMEA3447719	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069280/17059_4#49.cram
+ERR1069281	PRJEB9121	SAMEA3447721	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069281/17059_4#50.cram
+ERR1069282	PRJEB9121	SAMEA3447723	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069282/17059_4#51.cram
+ERR1069283	PRJEB9121	SAMEA3447725	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069283/17059_4#52.cram
+ERR1069284	PRJEB9121	SAMEA3447727	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069284/17059_4#53.cram
+ERR1069285	PRJEB9121	SAMEA3447729	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069285/17059_4#54.cram
+ERR1069286	PRJEB9121	SAMEA3447731	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069286/17059_4#55.cram
+ERR1069287	PRJEB9121	SAMEA3447733	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069287/17059_4#56.cram
+ERR1069288	PRJEB9121	SAMEA3447735	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069288/17059_4#57.cram
+ERR1069289	PRJEB9121	SAMEA3447737	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069289/17059_4#58.cram
+ERR1069290	PRJEB9121	SAMEA3447739	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069290/17059_4#59.cram
+ERR1069291	PRJEB9121	SAMEA3447741	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069291/17059_4#60.cram
+ERR1069292	PRJEB9121	SAMEA3447743	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069292/17059_4#61.cram
+ERR1069293	PRJEB9121	SAMEA3447745	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069293/17059_4#62.cram
+ERR1069294	PRJEB9121	SAMEA3447747	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069294/17059_4#63.cram
+ERR1069295	PRJEB9121	SAMEA3447749	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069295/17059_4#64.cram
+ERR1069296	PRJEB9121	SAMEA3447751	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069296/17059_4#65.cram
+ERR1069297	PRJEB9121	SAMEA3447753	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069297/17059_4#66.cram
+ERR1069298	PRJEB9121	SAMEA3447756	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069298/17059_4#67.cram
+ERR1069299	PRJEB9121	SAMEA3447758	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069299/17059_4#68.cram
+ERR1069300	PRJEB9121	SAMEA3447760	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069300/17059_4#69.cram
+ERR1069301	PRJEB9121	SAMEA3447763	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069301/17059_4#70.cram
+ERR1069302	PRJEB9121	SAMEA3447765	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069302/17059_4#71.cram
+ERR1069303	PRJEB9121	SAMEA3447767	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069303/17059_4#72.cram
+ERR1069304	PRJEB9121	SAMEA3447768	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069304/17059_4#73.cram
+ERR1069305	PRJEB9121	SAMEA3447770	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069305/17059_4#74.cram
+ERR1069306	PRJEB9121	SAMEA3447772	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069306/17059_4#75.cram
+ERR1069307	PRJEB9121	SAMEA3447774	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069307/17059_4#76.cram
+ERR1069308	PRJEB9121	SAMEA3447776	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069308/17059_4#77.cram
+ERR1069309	PRJEB9121	SAMEA3447778	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069309/17059_4#78.cram
+ERR1069310	PRJEB9121	SAMEA3447780	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069310/17059_4#79.cram
+ERR1069311	PRJEB9121	SAMEA3447782	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069311/17059_4#80.cram
+ERR1069312	PRJEB9121	SAMEA3447783	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069312/17059_4#81.cram
+ERR1069313	PRJEB9121	SAMEA3447785	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069313/17059_4#82.cram
+ERR1069314	PRJEB9121	SAMEA3447787	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069314/17059_4#83.cram
+ERR1069315	PRJEB9121	SAMEA3447789	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069315/17059_4#84.cram
+ERR1069316	PRJEB9121	SAMEA3447791	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069316/17059_4#85.cram
+ERR1069317	PRJEB9121	SAMEA3447793	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069317/17059_4#86.cram
+ERR1069318	PRJEB9121	SAMEA3447794	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069318/17059_4#87.cram
+ERR1069319	PRJEB9121	SAMEA3447796	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069319/17059_4#88.cram
+ERR1069320	PRJEB9121	SAMEA3447798	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069320/17059_4#89.cram
+ERR1069321	PRJEB9121	SAMEA3447800	599	Salmonella sp.	ftp.sra.ebi.ac.uk/vol1/run/ERR106/ERR1069321/17059_4#90.cram
+ERR1334291	PRJEB9121	SAMEA3640101	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334291/18623_3#1.cram
+ERR1334292	PRJEB9121	SAMEA3640102	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334292/18623_3#2.cram
+ERR1334293	PRJEB9121	SAMEA3640103	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334293/18623_3#3.cram
+ERR1334294	PRJEB9121	SAMEA3640104	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334294/18623_3#4.cram
+ERR1334295	PRJEB9121	SAMEA3640105	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334295/18623_3#5.cram
+ERR1334296	PRJEB9121	SAMEA3640106	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334296/18623_3#6.cram
+ERR1334297	PRJEB9121	SAMEA3640107	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334297/18623_3#7.cram
+ERR1334298	PRJEB9121	SAMEA3640108	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334298/18623_3#8.cram
+ERR1334299	PRJEB9121	SAMEA3640109	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334299/18623_3#9.cram
+ERR1334300	PRJEB9121	SAMEA3640110	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334300/18623_3#10.cram
+ERR1334301	PRJEB9121	SAMEA3640111	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334301/18623_3#11.cram
+ERR1334302	PRJEB9121	SAMEA3640112	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334302/18623_3#12.cram
+ERR1334303	PRJEB9121	SAMEA3640113	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334303/18623_3#13.cram
+ERR1334304	PRJEB9121	SAMEA3640114	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334304/18623_3#14.cram
+ERR1334305	PRJEB9121	SAMEA3640115	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334305/18623_3#15.cram
+ERR1334306	PRJEB9121	SAMEA3640116	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334306/18623_3#16.cram
+ERR1334307	PRJEB9121	SAMEA3640117	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334307/18623_3#17.cram
+ERR1334308	PRJEB9121	SAMEA3640118	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334308/18623_3#18.cram
+ERR1334309	PRJEB9121	SAMEA3640011	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334309/18623_3#19.cram
+ERR1334310	PRJEB9121	SAMEA3640013	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334310/18623_3#20.cram
+ERR1334311	PRJEB9121	SAMEA3640016	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334311/18623_3#21.cram
+ERR1334312	PRJEB9121	SAMEA3640020	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334312/18623_3#22.cram
+ERR1334313	PRJEB9121	SAMEA3640024	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334313/18623_3#23.cram
+ERR1334314	PRJEB9121	SAMEA3640028	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334314/18623_3#24.cram
+ERR1334315	PRJEB9121	SAMEA3640032	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334315/18623_3#25.cram
+ERR1334316	PRJEB9121	SAMEA3640037	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334316/18623_3#26.cram
+ERR1334317	PRJEB9121	SAMEA3640041	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334317/18623_3#27.cram
+ERR1334318	PRJEB9121	SAMEA3640045	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334318/18623_3#28.cram
+ERR1334319	PRJEB9121	SAMEA3640049	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334319/18623_3#29.cram
+ERR1334320	PRJEB9121	SAMEA3640053	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334320/18623_3#30.cram
+ERR1334321	PRJEB9121	SAMEA3640057	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334321/18623_3#31.cram
+ERR1334322	PRJEB9121	SAMEA3640061	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334322/18623_3#32.cram
+ERR1334323	PRJEB9121	SAMEA3640065	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334323/18623_3#33.cram
+ERR1334324	PRJEB9121	SAMEA3640067	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334324/18623_3#34.cram
+ERR1334325	PRJEB9121	SAMEA3640071	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334325/18623_3#35.cram
+ERR1334326	PRJEB9121	SAMEA3640073	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334326/18623_3#36.cram
+ERR1334327	PRJEB9121	SAMEA3640075	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334327/18623_3#37.cram
+ERR1334328	PRJEB9121	SAMEA3640077	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334328/18623_3#38.cram
+ERR1334329	PRJEB9121	SAMEA3640079	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334329/18623_3#39.cram
+ERR1334330	PRJEB9121	SAMEA3640081	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334330/18623_3#40.cram
+ERR1334331	PRJEB9121	SAMEA3640083	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334331/18623_3#41.cram
+ERR1334332	PRJEB9121	SAMEA3640085	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334332/18623_3#42.cram
+ERR1334333	PRJEB9121	SAMEA3640087	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334333/18623_3#43.cram
+ERR1334334	PRJEB9121	SAMEA3640089	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334334/18623_3#44.cram
+ERR1334335	PRJEB9121	SAMEA3640091	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334335/18623_3#45.cram
+ERR1334336	PRJEB9121	SAMEA3640093	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334336/18623_3#46.cram
+ERR1334337	PRJEB9121	SAMEA3640095	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334337/18623_3#47.cram
+ERR1334338	PRJEB9121	SAMEA3640097	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334338/18623_3#48.cram
+ERR1334339	PRJEB9121	SAMEA3640099	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334339/18623_3#49.cram
+ERR1334340	PRJEB9121	SAMEA3639965	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334340/18623_4#1.cram
+ERR1334341	PRJEB9121	SAMEA3639966	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334341/18623_4#2.cram
+ERR1334342	PRJEB9121	SAMEA3639967	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334342/18623_4#3.cram
+ERR1334343	PRJEB9121	SAMEA3639968	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334343/18623_4#4.cram
+ERR1334344	PRJEB9121	SAMEA3639969	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334344/18623_4#5.cram
+ERR1334345	PRJEB9121	SAMEA3639970	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334345/18623_4#6.cram
+ERR1334346	PRJEB9121	SAMEA3639971	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334346/18623_4#7.cram
+ERR1334347	PRJEB9121	SAMEA3639972	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334347/18623_4#8.cram
+ERR1334348	PRJEB9121	SAMEA3639973	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334348/18623_4#9.cram
+ERR1334349	PRJEB9121	SAMEA3639974	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334349/18623_4#10.cram
+ERR1334350	PRJEB9121	SAMEA3639975	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334350/18623_4#11.cram
+ERR1334351	PRJEB9121	SAMEA3639976	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334351/18623_4#12.cram
+ERR1334352	PRJEB9121	SAMEA3639977	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334352/18623_4#13.cram
+ERR1334353	PRJEB9121	SAMEA3639978	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334353/18623_4#14.cram
+ERR1334354	PRJEB9121	SAMEA3639979	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334354/18623_4#15.cram
+ERR1334355	PRJEB9121	SAMEA3639980	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334355/18623_4#16.cram
+ERR1334356	PRJEB9121	SAMEA3639981	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334356/18623_4#17.cram
+ERR1334357	PRJEB9121	SAMEA3639982	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334357/18623_4#18.cram
+ERR1334358	PRJEB9121	SAMEA3639983	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334358/18623_4#19.cram
+ERR1334359	PRJEB9121	SAMEA3639984	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334359/18623_4#20.cram
+ERR1334360	PRJEB9121	SAMEA3639985	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334360/18623_4#21.cram
+ERR1334361	PRJEB9121	SAMEA3639986	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334361/18623_4#22.cram
+ERR1334362	PRJEB9121	SAMEA3639987	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334362/18623_4#23.cram
+ERR1334363	PRJEB9121	SAMEA3639988	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334363/18623_4#24.cram
+ERR1334364	PRJEB9121	SAMEA3639989	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334364/18623_4#25.cram
+ERR1334365	PRJEB9121	SAMEA3639990	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334365/18623_4#26.cram
+ERR1334366	PRJEB9121	SAMEA3639991	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334366/18623_4#27.cram
+ERR1334367	PRJEB9121	SAMEA3639992	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334367/18623_4#28.cram
+ERR1334368	PRJEB9121	SAMEA3639993	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334368/18623_4#29.cram
+ERR1334369	PRJEB9121	SAMEA3639994	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334369/18623_4#30.cram
+ERR1334370	PRJEB9121	SAMEA3639995	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334370/18623_4#31.cram
+ERR1334371	PRJEB9121	SAMEA3639996	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334371/18623_4#32.cram
+ERR1334372	PRJEB9121	SAMEA3639997	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334372/18623_4#33.cram
+ERR1334373	PRJEB9121	SAMEA3639998	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334373/18623_4#34.cram
+ERR1334374	PRJEB9121	SAMEA3639999	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334374/18623_4#35.cram
+ERR1334375	PRJEB9121	SAMEA3640000	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334375/18623_4#36.cram
+ERR1334376	PRJEB9121	SAMEA3640001	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334376/18623_4#37.cram
+ERR1334377	PRJEB9121	SAMEA3640002	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334377/18623_4#38.cram
+ERR1334378	PRJEB9121	SAMEA3640003	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334378/18623_4#39.cram
+ERR1334379	PRJEB9121	SAMEA3640004	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334379/18623_4#40.cram
+ERR1334380	PRJEB9121	SAMEA3640005	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334380/18623_4#41.cram
+ERR1334381	PRJEB9121	SAMEA3640006	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334381/18623_4#42.cram
+ERR1334382	PRJEB9121	SAMEA3640007	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334382/18623_4#43.cram
+ERR1334383	PRJEB9121	SAMEA3640008	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334383/18623_4#44.cram
+ERR1334384	PRJEB9121	SAMEA3640009	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334384/18623_4#45.cram
+ERR1334385	PRJEB9121	SAMEA3640010	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334385/18623_4#46.cram
+ERR1334386	PRJEB9121	SAMEA3640012	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334386/18623_4#47.cram
+ERR1334387	PRJEB9121	SAMEA3640014	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334387/18623_4#48.cram
+ERR1334388	PRJEB9121	SAMEA3640018	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334388/18623_4#49.cram
+ERR1334389	PRJEB9121	SAMEA3640022	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334389/18623_4#50.cram
+ERR1334390	PRJEB9121	SAMEA3640026	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334390/18623_4#51.cram
+ERR1334391	PRJEB9121	SAMEA3640030	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334391/18623_4#52.cram
+ERR1334392	PRJEB9121	SAMEA3640033	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334392/18623_4#53.cram
+ERR1334393	PRJEB9121	SAMEA3640035	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334393/18623_4#54.cram
+ERR1334394	PRJEB9121	SAMEA3640039	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334394/18623_4#55.cram
+ERR1334395	PRJEB9121	SAMEA3640043	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334395/18623_4#56.cram
+ERR1334396	PRJEB9121	SAMEA3640047	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334396/18623_4#57.cram
+ERR1334397	PRJEB9121	SAMEA3640051	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334397/18623_4#58.cram
+ERR1334398	PRJEB9121	SAMEA3640055	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334398/18623_4#59.cram
+ERR1334399	PRJEB9121	SAMEA3640059	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334399/18623_4#60.cram
+ERR1334400	PRJEB9121	SAMEA3640063	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334400/18623_4#61.cram
+ERR1334401	PRJEB9121	SAMEA3640069	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334401/18623_4#62.cram
+ERR1334402	PRJEB9121	SAMEA3640072	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334402/18623_4#63.cram
+ERR1334403	PRJEB9121	SAMEA3640074	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334403/18623_4#64.cram
+ERR1334404	PRJEB9121	SAMEA3640076	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334404/18623_4#65.cram
+ERR1334405	PRJEB9121	SAMEA3640078	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334405/18623_4#66.cram
+ERR1334406	PRJEB9121	SAMEA3640080	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334406/18623_4#67.cram
+ERR1334407	PRJEB9121	SAMEA3640082	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334407/18623_4#68.cram
+ERR1334408	PRJEB9121	SAMEA3640084	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334408/18623_4#69.cram
+ERR1334409	PRJEB9121	SAMEA3640086	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334409/18623_4#70.cram
+ERR1334410	PRJEB9121	SAMEA3640088	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334410/18623_4#71.cram
+ERR1334411	PRJEB9121	SAMEA3640090	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334411/18623_4#72.cram
+ERR1334412	PRJEB9121	SAMEA3640092	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334412/18623_4#73.cram
+ERR1334413	PRJEB9121	SAMEA3640094	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334413/18623_4#74.cram
+ERR1334414	PRJEB9121	SAMEA3640096	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334414/18623_4#75.cram
+ERR1334415	PRJEB9121	SAMEA3640098	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334415/18623_4#76.cram
+ERR1334416	PRJEB9121	SAMEA3640100	90371	Salmonella enterica subsp. enterica serovar Typhimurium	ftp.sra.ebi.ac.uk/vol1/run/ERR133/ERR1334416/18623_4#77.cram
+ERR1764086	PRJEB9121	SAMEA4386646	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764086/20995_3#1.cram
+ERR1764087	PRJEB9121	SAMEA4386885	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764087/20995_3#2.cram
+ERR1764088	PRJEB9121	SAMEA4386647	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764088/20995_3#3.cram
+ERR1764089	PRJEB9121	SAMEA4387004	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764089/20995_3#4.cram
+ERR1764090	PRJEB9121	SAMEA4386886	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764090/20995_3#6.cram
+ERR1764091	PRJEB9121	SAMEA4386649	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764091/20995_3#7.cram
+ERR1764092	PRJEB9121	SAMEA4386650	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764092/20995_3#9.cram
+ERR1764093	PRJEB9121	SAMEA4386887	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764093/20995_3#10.cram
+ERR1764094	PRJEB9121	SAMEA4386651	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764094/20995_3#11.cram
+ERR1764095	PRJEB9121	SAMEA4387005	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764095/20995_3#12.cram
+ERR1764096	PRJEB9121	SAMEA4386652	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764096/20995_3#13.cram
+ERR1764097	PRJEB9121	SAMEA4386888	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764097/20995_3#14.cram
+ERR1764098	PRJEB9121	SAMEA4386653	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764098/20995_3#15.cram
+ERR1764099	PRJEB9121	SAMEA4386654	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764099/20995_3#16.cram
+ERR1764100	PRJEB9121	SAMEA4387490	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764100/20995_3#17.cram
+ERR1764101	PRJEB9121	SAMEA4386655	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764101/20995_3#18.cram
+ERR1764102	PRJEB9121	SAMEA4386889	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764102/20995_3#19.cram
+ERR1764103	PRJEB9121	SAMEA4386656	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764103/20995_3#20.cram
+ERR1764104	PRJEB9121	SAMEA4387006	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764104/20995_3#21.cram
+ERR1764105	PRJEB9121	SAMEA4386657	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764105/20995_3#22.cram
+ERR1764106	PRJEB9121	SAMEA4386890	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764106/20995_3#23.cram
+ERR1764107	PRJEB9121	SAMEA4386658	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764107/20995_3#24.cram
+ERR1764108	PRJEB9121	SAMEA4387330	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764108/20995_3#25.cram
+ERR1764109	PRJEB9121	SAMEA4386659	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764109/20995_3#26.cram
+ERR1764110	PRJEB9121	SAMEA4386891	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764110/20995_3#27.cram
+ERR1764111	PRJEB9121	SAMEA4386660	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764111/20995_3#28.cram
+ERR1764112	PRJEB9121	SAMEA4387007	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764112/20995_3#29.cram
+ERR1764113	PRJEB9121	SAMEA4386661	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764113/20995_3#30.cram
+ERR1764114	PRJEB9121	SAMEA4386892	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764114/20995_3#31.cram
+ERR1764115	PRJEB9121	SAMEA4386662	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764115/20995_3#32.cram
+ERR1764116	PRJEB9121	SAMEA4387597	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764116/20995_3#33.cram
+ERR1764117	PRJEB9121	SAMEA4386663	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764117/20995_3#34.cram
+ERR1764118	PRJEB9121	SAMEA4386893	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764118/20995_3#35.cram
+ERR1764119	PRJEB9121	SAMEA4386664	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764119/20995_3#36.cram
+ERR1764120	PRJEB9121	SAMEA4387008	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764120/20995_3#37.cram
+ERR1764121	PRJEB9121	SAMEA4386665	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764121/20995_3#38.cram
+ERR1764122	PRJEB9121	SAMEA4386894	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764122/20995_3#39.cram
+ERR1764123	PRJEB9121	SAMEA4386666	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764123/20995_3#40.cram
+ERR1764124	PRJEB9121	SAMEA4387331	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764124/20995_3#41.cram
+ERR1764125	PRJEB9121	SAMEA4386667	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764125/20995_3#42.cram
+ERR1764126	PRJEB9121	SAMEA4386895	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764126/20995_3#43.cram
+ERR1764127	PRJEB9121	SAMEA4386668	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764127/20995_3#44.cram
+ERR1764128	PRJEB9121	SAMEA4387009	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764128/20995_3#45.cram
+ERR1764129	PRJEB9121	SAMEA4386669	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764129/20995_3#46.cram
+ERR1764130	PRJEB9121	SAMEA4386896	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764130/20995_3#47.cram
+ERR1764131	PRJEB9121	SAMEA4386670	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764131/20995_3#48.cram
+ERR1764132	PRJEB9121	SAMEA4387491	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764132/20995_3#49.cram
+ERR1764133	PRJEB9121	SAMEA4386671	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764133/20995_3#50.cram
+ERR1764134	PRJEB9121	SAMEA4386897	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764134/20995_3#51.cram
+ERR1764135	PRJEB9121	SAMEA4386672	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764135/20995_3#52.cram
+ERR1764136	PRJEB9121	SAMEA4387010	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764136/20995_3#53.cram
+ERR1764137	PRJEB9121	SAMEA4386898	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764137/20995_3#55.cram
+ERR1764138	PRJEB9121	SAMEA4386674	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764138/20995_3#56.cram
+ERR1764139	PRJEB9121	SAMEA4387332	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764139/20995_3#57.cram
+ERR1764140	PRJEB9121	SAMEA4386675	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764140/20995_3#58.cram
+ERR1764141	PRJEB9121	SAMEA4386899	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764141/20995_3#59.cram
+ERR1764142	PRJEB9121	SAMEA4386676	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764142/20995_3#60.cram
+ERR1764143	PRJEB9121	SAMEA4387011	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764143/20995_3#61.cram
+ERR1764144	PRJEB9121	SAMEA4386677	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764144/20995_3#62.cram
+ERR1764145	PRJEB9121	SAMEA4387671	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764145/20995_3#63.cram
+ERR1764146	PRJEB9121	SAMEA4386679	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764146/20995_3#64.cram
+ERR1764147	PRJEB9121	SAMEA4386901	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764147/20995_3#65.cram
+ERR1764148	PRJEB9121	SAMEA4386680	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764148/20995_3#66.cram
+ERR1764149	PRJEB9121	SAMEA4387012	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764149/20995_3#67.cram
+ERR1764150	PRJEB9121	SAMEA4386681	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764150/20995_3#68.cram
+ERR1764151	PRJEB9121	SAMEA4386902	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764151/20995_3#69.cram
+ERR1764152	PRJEB9121	SAMEA4386682	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764152/20995_3#70.cram
+ERR1764153	PRJEB9121	SAMEA4387333	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764153/20995_3#71.cram
+ERR1764154	PRJEB9121	SAMEA4386683	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764154/20995_3#72.cram
+ERR1764155	PRJEB9121	SAMEA4386903	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764155/20995_3#73.cram
+ERR1764156	PRJEB9121	SAMEA4386684	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764156/20995_3#74.cram
+ERR1764157	PRJEB9121	SAMEA4387013	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764157/20995_3#75.cram
+ERR1764158	PRJEB9121	SAMEA4386904	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764158/20995_3#76.cram
+ERR1764159	PRJEB9121	SAMEA4386686	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764159/20995_3#77.cram
+ERR1764160	PRJEB9121	SAMEA4387492	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764160/20995_3#78.cram
+ERR1764161	PRJEB9121	SAMEA4386687	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764161/20995_3#79.cram
+ERR1764162	PRJEB9121	SAMEA4386905	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764162/20995_3#80.cram
+ERR1764163	PRJEB9121	SAMEA4386688	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764163/20995_3#81.cram
+ERR1764164	PRJEB9121	SAMEA4387014	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764164/20995_3#82.cram
+ERR1764165	PRJEB9121	SAMEA4386689	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764165/20995_3#83.cram
+ERR1764166	PRJEB9121	SAMEA4386906	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764166/20995_3#84.cram
+ERR1764167	PRJEB9121	SAMEA4386690	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764167/20995_3#85.cram
+ERR1764168	PRJEB9121	SAMEA4387334	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764168/20995_3#86.cram
+ERR1764169	PRJEB9121	SAMEA4386907	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764169/20995_3#87.cram
+ERR1764170	PRJEB9121	SAMEA4386692	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764170/20995_3#88.cram
+ERR1764171	PRJEB9121	SAMEA4386693	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764171/20995_3#89.cram
+ERR1764172	PRJEB9121	SAMEA4386908	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764172/20995_3#90.cram
+ERR1764173	PRJEB9121	SAMEA4386694	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764173/20995_3#92.cram
+ERR1764174	PRJEB9121	SAMEA4387598	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764174/20995_3#93.cram
+ERR1764175	PRJEB9121	SAMEA4386695	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764175/20995_3#94.cram
+ERR1764176	PRJEB9121	SAMEA4386909	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764176/20995_3#95.cram
+ERR1764177	PRJEB9121	SAMEA4386697	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764177/20995_4#1.cram
+ERR1764178	PRJEB9121	SAMEA4386910	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764178/20995_4#2.cram
+ERR1764179	PRJEB9121	SAMEA4386698	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764179/20995_4#3.cram
+ERR1764180	PRJEB9121	SAMEA4387335	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764180/20995_4#4.cram
+ERR1764181	PRJEB9121	SAMEA4386699	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764181/20995_4#5.cram
+ERR1764182	PRJEB9121	SAMEA4386911	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764182/20995_4#6.cram
+ERR1764183	PRJEB9121	SAMEA4386700	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764183/20995_4#7.cram
+ERR1764184	PRJEB9121	SAMEA4386701	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764184/20995_4#8.cram
+ERR1764185	PRJEB9121	SAMEA4386702	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764185/20995_4#9.cram
+ERR1764186	PRJEB9121	SAMEA4387493	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764186/20995_4#10.cram
+ERR1764187	PRJEB9121	SAMEA4386913	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764187/20995_4#11.cram
+ERR1764188	PRJEB9121	SAMEA4386704	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764188/20995_4#12.cram
+ERR1764189	PRJEB9121	SAMEA4386705	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764189/20995_4#13.cram
+ERR1764190	PRJEB9121	SAMEA4386914	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764190/20995_4#14.cram
+ERR1764191	PRJEB9121	SAMEA4386706	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764191/20995_4#15.cram
+ERR1764192	PRJEB9121	SAMEA4387336	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764192/20995_4#16.cram
+ERR1764193	PRJEB9121	SAMEA4386707	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764193/20995_4#17.cram
+ERR1764194	PRJEB9121	SAMEA4386915	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764194/20995_4#18.cram
+ERR1764195	PRJEB9121	SAMEA4386708	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764195/20995_4#19.cram
+ERR1764196	PRJEB9121	SAMEA4387019	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764196/20995_4#20.cram
+ERR1764197	PRJEB9121	SAMEA4386709	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764197/20995_4#21.cram
+ERR1764198	PRJEB9121	SAMEA4386916	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764198/20995_4#22.cram
+ERR1764199	PRJEB9121	SAMEA4386710	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764199/20995_4#23.cram
+ERR1764200	PRJEB9121	SAMEA4386711	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764200/20995_4#25.cram
+ERR1764201	PRJEB9121	SAMEA4386917	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764201/20995_4#26.cram
+ERR1764202	PRJEB9121	SAMEA4386712	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764202/20995_4#27.cram
+ERR1764203	PRJEB9121	SAMEA4387020	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764203/20995_4#28.cram
+ERR1764204	PRJEB9121	SAMEA4386714	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764204/20995_4#30.cram
+ERR1764205	PRJEB9121	SAMEA4387337	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764205/20995_4#31.cram
+ERR1764206	PRJEB9121	SAMEA4386715	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764206/20995_4#32.cram
+ERR1764207	PRJEB9121	SAMEA4386919	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764207/20995_4#33.cram
+ERR1764208	PRJEB9121	SAMEA4386716	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764208/20995_4#34.cram
+ERR1764209	PRJEB9121	SAMEA4387021	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764209/20995_4#35.cram
+ERR1764210	PRJEB9121	SAMEA4386717	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764210/20995_4#36.cram
+ERR1764211	PRJEB9121	SAMEA4386920	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764211/20995_4#37.cram
+ERR1764212	PRJEB9121	SAMEA4386718	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764212/20995_4#38.cram
+ERR1764213	PRJEB9121	SAMEA4387494	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764213/20995_4#39.cram
+ERR1764214	PRJEB9121	SAMEA4386719	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764214/20995_4#40.cram
+ERR1764215	PRJEB9121	SAMEA4386921	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764215/20995_4#41.cram
+ERR1764216	PRJEB9121	SAMEA4386720	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764216/20995_4#42.cram
+ERR1764217	PRJEB9121	SAMEA4387022	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764217/20995_4#43.cram
+ERR1764218	PRJEB9121	SAMEA4386721	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764218/20995_4#44.cram
+ERR1764219	PRJEB9121	SAMEA4386722	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764219/20995_4#45.cram
+ERR1764220	PRJEB9121	SAMEA4386922	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764220/20995_4#46.cram
+ERR1764221	PRJEB9121	SAMEA4386723	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764221/20995_4#47.cram
+ERR1764222	PRJEB9121	SAMEA4387338	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764222/20995_4#48.cram
+ERR1764223	PRJEB9121	SAMEA4386724	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764223/20995_4#49.cram
+ERR1764224	PRJEB9121	SAMEA4386923	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764224/20995_4#50.cram
+ERR1764225	PRJEB9121	SAMEA4386725	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764225/20995_4#51.cram
+ERR1764226	PRJEB9121	SAMEA4387023	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764226/20995_4#52.cram
+ERR1764227	PRJEB9121	SAMEA4386726	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764227/20995_4#53.cram
+ERR1764228	PRJEB9121	SAMEA4386924	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764228/20995_4#54.cram
+ERR1764229	PRJEB9121	SAMEA4386727	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764229/20995_4#55.cram
+ERR1764230	PRJEB9121	SAMEA4387599	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764230/20995_4#56.cram
+ERR1764231	PRJEB9121	SAMEA4386728	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764231/20995_4#57.cram
+ERR1764232	PRJEB9121	SAMEA4386925	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764232/20995_4#58.cram
+ERR1764233	PRJEB9121	SAMEA4386729	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764233/20995_4#59.cram
+ERR1764234	PRJEB9121	SAMEA4387024	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764234/20995_4#60.cram
+ERR1764235	PRJEB9121	SAMEA4386730	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764235/20995_4#61.cram
+ERR1764236	PRJEB9121	SAMEA4386926	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764236/20995_4#62.cram
+ERR1764237	PRJEB9121	SAMEA4386731	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764237/20995_4#63.cram
+ERR1764238	PRJEB9121	SAMEA4387339	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764238/20995_4#64.cram
+ERR1764239	PRJEB9121	SAMEA4386732	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764239/20995_4#65.cram
+ERR1764240	PRJEB9121	SAMEA4386927	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764240/20995_4#66.cram
+ERR1764241	PRJEB9121	SAMEA4386733	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764241/20995_4#67.cram
+ERR1764242	PRJEB9121	SAMEA4387025	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764242/20995_4#68.cram
+ERR1764243	PRJEB9121	SAMEA4386734	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764243/20995_4#69.cram
+ERR1764244	PRJEB9121	SAMEA4386928	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764244/20995_4#70.cram
+ERR1764245	PRJEB9121	SAMEA4386735	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764245/20995_4#71.cram
+ERR1764246	PRJEB9121	SAMEA4387495	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764246/20995_4#72.cram
+ERR1764247	PRJEB9121	SAMEA4386929	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764247/20995_4#73.cram
+ERR1764248	PRJEB9121	SAMEA4386737	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764248/20995_4#74.cram
+ERR1764249	PRJEB9121	SAMEA4387026	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764249/20995_4#75.cram
+ERR1764250	PRJEB9121	SAMEA4386738	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764250/20995_4#76.cram
+ERR1764251	PRJEB9121	SAMEA4386930	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764251/20995_4#77.cram
+ERR1764252	PRJEB9121	SAMEA4386739	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764252/20995_4#78.cram
+ERR1764253	PRJEB9121	SAMEA4387340	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764253/20995_4#79.cram
+ERR1764254	PRJEB9121	SAMEA4386740	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764254/20995_4#80.cram
+ERR1764255	PRJEB9121	SAMEA4386931	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764255/20995_4#81.cram
+ERR1764256	PRJEB9121	SAMEA4386741	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764256/20995_4#82.cram
+ERR1764257	PRJEB9121	SAMEA4387027	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764257/20995_4#83.cram
+ERR1764258	PRJEB9121	SAMEA4386933	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764258/20995_4#85.cram
+ERR1764259	PRJEB9121	SAMEA4387672	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764259/20995_4#86.cram
+ERR1764260	PRJEB9121	SAMEA4386934	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764260/20995_4#87.cram
+ERR1764261	PRJEB9121	SAMEA4387029	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764261/20995_4#88.cram
+ERR1764262	PRJEB9121	SAMEA4386935	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764262/20995_4#89.cram
+ERR1764263	PRJEB9121	SAMEA4386749	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764263/20995_4#90.cram
+ERR1764264	PRJEB9121	SAMEA4386750	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764264/20995_4#91.cram
+ERR1764265	PRJEB9121	SAMEA4386751	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764265/20995_4#92.cram
+ERR1764266	PRJEB9121	SAMEA4386937	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764266/20995_4#94.cram
+ERR1764267	PRJEB9121	SAMEA4386753	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764267/20995_4#95.cram
+ERR1764268	PRJEB9121	SAMEA4387496	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764268/20995_5#1.cram
+ERR1764269	PRJEB9121	SAMEA4386754	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764269/20995_5#2.cram
+ERR1764270	PRJEB9121	SAMEA4386938	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764270/20995_5#3.cram
+ERR1764271	PRJEB9121	SAMEA4386756	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764271/20995_5#4.cram
+ERR1764272	PRJEB9121	SAMEA4387342	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764272/20995_5#5.cram
+ERR1764273	PRJEB9121	SAMEA4386758	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764273/20995_5#6.cram
+ERR1764274	PRJEB9121	SAMEA4386940	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764274/20995_5#7.cram
+ERR1764275	PRJEB9121	SAMEA4386759	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764275/20995_5#8.cram
+ERR1764276	PRJEB9121	SAMEA4387032	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764276/20995_5#9.cram
+ERR1764277	PRJEB9121	SAMEA4386761	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764277/20995_5#11.cram
+ERR1764278	PRJEB9121	SAMEA4387033	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764278/20995_5#12.cram
+ERR1764279	PRJEB9121	SAMEA4386762	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764279/20995_5#13.cram
+ERR1764280	PRJEB9121	SAMEA4386942	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764280/20995_5#14.cram
+ERR1764281	PRJEB9121	SAMEA4387600	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764281/20995_5#16.cram
+ERR1764282	PRJEB9121	SAMEA4386943	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764282/20995_5#17.cram
+ERR1764283	PRJEB9121	SAMEA4386765	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764283/20995_5#18.cram
+ERR1764284	PRJEB9121	SAMEA4387034	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764284/20995_5#19.cram
+ERR1764285	PRJEB9121	SAMEA4386766	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764285/20995_5#20.cram
+ERR1764286	PRJEB9121	SAMEA4386767	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764286/20995_5#21.cram
+ERR1764287	PRJEB9121	SAMEA4387343	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764287/20995_5#22.cram
+ERR1764288	PRJEB9121	SAMEA4386768	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764288/20995_5#23.cram
+ERR1764289	PRJEB9121	SAMEA4386945	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764289/20995_5#24.cram
+ERR1764290	PRJEB9121	SAMEA4386769	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764290/20995_5#25.cram
+ERR1764291	PRJEB9121	SAMEA4386770	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764291/20995_5#27.cram
+ERR1764292	PRJEB9121	SAMEA4386771	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764292/20995_5#28.cram
+ERR1764293	PRJEB9121	SAMEA4387497	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764293/20995_5#29.cram
+ERR1764294	PRJEB9121	SAMEA4386772	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764294/20995_5#30.cram
+ERR1764295	PRJEB9121	SAMEA4386947	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764295/20995_5#31.cram
+ERR1764296	PRJEB9121	SAMEA4386773	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764296/20995_5#32.cram
+ERR1764297	PRJEB9121	SAMEA4387036	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764297/20995_5#33.cram
+ERR1764298	PRJEB9121	SAMEA4386774	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764298/20995_5#34.cram
+ERR1764299	PRJEB9121	SAMEA4386948	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764299/20995_5#35.cram
+ERR1764300	PRJEB9121	SAMEA4386775	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764300/20995_5#36.cram
+ERR1764301	PRJEB9121	SAMEA4387344	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764301/20995_5#37.cram
+ERR1764302	PRJEB9121	SAMEA4386776	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764302/20995_5#38.cram
+ERR1764303	PRJEB9121	SAMEA4386949	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764303/20995_5#39.cram
+ERR1764304	PRJEB9121	SAMEA4386777	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764304/20995_5#40.cram
+ERR1764305	PRJEB9121	SAMEA4387037	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764305/20995_5#41.cram
+ERR1764306	PRJEB9121	SAMEA4386778	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764306/20995_5#42.cram
+ERR1764307	PRJEB9121	SAMEA4386950	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764307/20995_5#43.cram
+ERR1764308	PRJEB9121	SAMEA4386779	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764308/20995_5#44.cram
+ERR1764309	PRJEB9121	SAMEA4387727	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764309/20995_5#45.cram
+ERR1764310	PRJEB9121	SAMEA4386780	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764310/20995_5#46.cram
+ERR1764311	PRJEB9121	SAMEA4386951	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764311/20995_5#47.cram
+ERR1764312	PRJEB9121	SAMEA4386781	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764312/20995_5#48.cram
+ERR1764313	PRJEB9121	SAMEA4387038	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764313/20995_5#49.cram
+ERR1764314	PRJEB9121	SAMEA4386782	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764314/20995_5#50.cram
+ERR1764315	PRJEB9121	SAMEA4386952	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764315/20995_5#51.cram
+ERR1764316	PRJEB9121	SAMEA4386783	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764316/20995_5#52.cram
+ERR1764317	PRJEB9121	SAMEA4387345	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764317/20995_5#53.cram
+ERR1764318	PRJEB9121	SAMEA4386784	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764318/20995_5#54.cram
+ERR1764319	PRJEB9121	SAMEA4386953	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764319/20995_5#55.cram
+ERR1764320	PRJEB9121	SAMEA4386785	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764320/20995_5#56.cram
+ERR1764321	PRJEB9121	SAMEA4386786	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764321/20995_5#57.cram
+ERR1764322	PRJEB9121	SAMEA4386954	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764322/20995_5#58.cram
+ERR1764323	PRJEB9121	SAMEA4386787	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764323/20995_5#59.cram
+ERR1764324	PRJEB9121	SAMEA4387498	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764324/20995_5#60.cram
+ERR1764325	PRJEB9121	SAMEA4386788	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764325/20995_5#61.cram
+ERR1764326	PRJEB9121	SAMEA4386955	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764326/20995_5#62.cram
+ERR1764327	PRJEB9121	SAMEA4386789	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764327/20995_5#63.cram
+ERR1764328	PRJEB9121	SAMEA4387040	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764328/20995_5#64.cram
+ERR1764329	PRJEB9121	SAMEA4386790	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764329/20995_5#65.cram
+ERR1764330	PRJEB9121	SAMEA4386956	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764330/20995_5#66.cram
+ERR1764331	PRJEB9121	SAMEA4386791	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764331/20995_5#67.cram
+ERR1764332	PRJEB9121	SAMEA4387346	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764332/20995_5#68.cram
+ERR1764333	PRJEB9121	SAMEA4386792	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764333/20995_5#69.cram
+ERR1764334	PRJEB9121	SAMEA4386957	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764334/20995_5#70.cram
+ERR1764335	PRJEB9121	SAMEA4386793	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764335/20995_5#71.cram
+ERR1764336	PRJEB9121	SAMEA4387041	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764336/20995_5#72.cram
+ERR1764337	PRJEB9121	SAMEA4386794	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764337/20995_5#73.cram
+ERR1764338	PRJEB9121	SAMEA4386795	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764338/20995_5#74.cram
+ERR1764339	PRJEB9121	SAMEA4387601	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764339/20995_5#75.cram
+ERR1764340	PRJEB9121	SAMEA4386796	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764340/20995_5#76.cram
+ERR1764341	PRJEB9121	SAMEA4386959	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764341/20995_5#77.cram
+ERR1764342	PRJEB9121	SAMEA4386797	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764342/20995_5#78.cram
+ERR1764343	PRJEB9121	SAMEA4387042	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764343/20995_5#79.cram
+ERR1764344	PRJEB9121	SAMEA4386798	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764344/20995_5#80.cram
+ERR1764345	PRJEB9121	SAMEA4386960	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764345/20995_5#81.cram
+ERR1764346	PRJEB9121	SAMEA4386799	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764346/20995_5#82.cram
+ERR1764347	PRJEB9121	SAMEA4387347	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764347/20995_5#83.cram
+ERR1764348	PRJEB9121	SAMEA4386800	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764348/20995_5#84.cram
+ERR1764349	PRJEB9121	SAMEA4386961	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764349/20995_5#85.cram
+ERR1764350	PRJEB9121	SAMEA4386801	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764350/20995_5#86.cram
+ERR1764351	PRJEB9121	SAMEA4387043	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764351/20995_5#87.cram
+ERR1764352	PRJEB9121	SAMEA4386802	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764352/20995_5#88.cram
+ERR1764353	PRJEB9121	SAMEA4386962	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764353/20995_5#89.cram
+ERR1764354	PRJEB9121	SAMEA4386803	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764354/20995_5#90.cram
+ERR1764355	PRJEB9121	SAMEA4387499	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764355/20995_5#91.cram
+ERR1764356	PRJEB9121	SAMEA4386804	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764356/20995_5#92.cram
+ERR1764357	PRJEB9121	SAMEA4386963	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764357/20995_5#93.cram
+ERR1764358	PRJEB9121	SAMEA4386805	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764358/20995_5#94.cram
+ERR1764359	PRJEB9121	SAMEA4387044	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR176/ERR1764359/20995_5#95.cram
+ERR1788605	PRJEB9121	SAMEA4386648	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788605/20995_3#5.cram
+ERR1788606	PRJEB9121	SAMEA4387329	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788606/20995_3#8.cram
+ERR1788607	PRJEB9121	SAMEA4386673	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788607/20995_3#54.cram
+ERR1788608	PRJEB9121	SAMEA4387709	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788608/20995_4#24.cram
+ERR1788609	PRJEB9121	SAMEA4386713	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788609/20995_4#29.cram
+ERR1788610	PRJEB9121	SAMEA4387028	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788610/20995_4#84.cram
+ERR1788611	PRJEB9121	SAMEA4387030	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788611/20995_4#93.cram
+ERR1788612	PRJEB9121	SAMEA4386760	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788612/20995_5#10.cram
+ERR1788613	PRJEB9121	SAMEA4386763	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788613/20995_5#15.cram
+ERR1788614	PRJEB9121	SAMEA4387035	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788614/20995_5#26.cram
+ERR1788615	PRJEB9121	SAMEA4386854	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788615/21052_4#1.cram
+ERR1788616	PRJEB9121	SAMEA4386988	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788616/21052_4#2.cram
+ERR1788617	PRJEB9121	SAMEA4386855	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788617/21052_4#3.cram
+ERR1788618	PRJEB9121	SAMEA4387354	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788618/21052_4#4.cram
+ERR1788619	PRJEB9121	SAMEA4386856	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788619/21052_4#5.cram
+ERR1788620	PRJEB9121	SAMEA4386989	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788620/21052_4#6.cram
+ERR1788621	PRJEB9121	SAMEA4386857	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788621/21052_4#7.cram
+ERR1788622	PRJEB9121	SAMEA4387057	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788622/21052_4#8.cram
+ERR1788623	PRJEB9121	SAMEA4386858	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788623/21052_4#9.cram
+ERR1788624	PRJEB9121	SAMEA4386990	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788624/21052_4#10.cram
+ERR1788625	PRJEB9121	SAMEA4386859	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788625/21052_4#11.cram
+ERR1788626	PRJEB9121	SAMEA4387058	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788626/21052_4#12.cram
+ERR1788627	PRJEB9121	SAMEA4386860	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788627/21052_4#13.cram
+ERR1788628	PRJEB9121	SAMEA4386991	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788628/21052_4#14.cram
+ERR1788629	PRJEB9121	SAMEA4386861	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788629/21052_4#15.cram
+ERR1788630	PRJEB9121	SAMEA4387603	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788630/21052_4#16.cram
+ERR1788631	PRJEB9121	SAMEA4386862	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788631/21052_4#17.cram
+ERR1788632	PRJEB9121	SAMEA4386863	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788632/21052_4#18.cram
+ERR1788633	PRJEB9121	SAMEA4387059	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788633/21052_4#19.cram
+ERR1788634	PRJEB9121	SAMEA4386864	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788634/21052_4#20.cram
+ERR1788635	PRJEB9121	SAMEA4386993	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788635/21052_4#21.cram
+ERR1788636	PRJEB9121	SAMEA4386865	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788636/21052_4#22.cram
+ERR1788637	PRJEB9121	SAMEA4387355	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788637/21052_4#23.cram
+ERR1788638	PRJEB9121	SAMEA4386866	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788638/21052_4#24.cram
+ERR1788639	PRJEB9121	SAMEA4386994	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788639/21052_4#25.cram
+ERR1788640	PRJEB9121	SAMEA4386867	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788640/21052_4#26.cram
+ERR1788641	PRJEB9121	SAMEA4387060	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788641/21052_4#27.cram
+ERR1788642	PRJEB9121	SAMEA4386868	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788642/21052_4#28.cram
+ERR1788643	PRJEB9121	SAMEA4386995	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788643/21052_4#29.cram
+ERR1788644	PRJEB9121	SAMEA4386869	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788644/21052_4#30.cram
+ERR1788645	PRJEB9121	SAMEA4387503	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788645/21052_4#31.cram
+ERR1788646	PRJEB9121	SAMEA4386996	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788646/21052_4#32.cram
+ERR1788647	PRJEB9121	SAMEA4386871	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788647/21052_4#33.cram
+ERR1788648	PRJEB9121	SAMEA4387061	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788648/21052_4#34.cram
+ERR1788649	PRJEB9121	SAMEA4386872	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788649/21052_4#35.cram
+ERR1788650	PRJEB9121	SAMEA4386997	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788650/21052_4#36.cram
+ERR1788651	PRJEB9121	SAMEA4386873	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788651/21052_4#37.cram
+ERR1788652	PRJEB9121	SAMEA4387356	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788652/21052_4#38.cram
+ERR1788653	PRJEB9121	SAMEA4386874	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788653/21052_4#39.cram
+ERR1788654	PRJEB9121	SAMEA4386998	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788654/21052_4#40.cram
+ERR1788655	PRJEB9121	SAMEA4386875	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788655/21052_4#41.cram
+ERR1788656	PRJEB9121	SAMEA4387062	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788656/21052_4#42.cram
+ERR1788657	PRJEB9121	SAMEA4386876	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788657/21052_4#43.cram
+ERR1788658	PRJEB9121	SAMEA4386999	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788658/21052_4#44.cram
+ERR1788659	PRJEB9121	SAMEA4386877	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788659/21052_4#45.cram
+ERR1788660	PRJEB9121	SAMEA4387674	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788660/21052_4#46.cram
+ERR1788661	PRJEB9121	SAMEA4386878	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788661/21052_4#47.cram
+ERR1788662	PRJEB9121	SAMEA4387000	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788662/21052_4#48.cram
+ERR1788663	PRJEB9121	SAMEA4386879	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788663/21052_4#49.cram
+ERR1788664	PRJEB9121	SAMEA4387063	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788664/21052_4#50.cram
+ERR1788665	PRJEB9121	SAMEA4386880	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788665/21052_4#51.cram
+ERR1788666	PRJEB9121	SAMEA4387001	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788666/21052_4#52.cram
+ERR1788667	PRJEB9121	SAMEA4386881	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788667/21052_4#53.cram
+ERR1788668	PRJEB9121	SAMEA4387357	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788668/21052_4#54.cram
+ERR1788669	PRJEB9121	SAMEA4386882	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788669/21052_4#55.cram
+ERR1788670	PRJEB9121	SAMEA4387002	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788670/21052_4#56.cram
+ERR1788671	PRJEB9121	SAMEA4386883	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788671/21052_4#57.cram
+ERR1788672	PRJEB9121	SAMEA4387064	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788672/21052_4#58.cram
+ERR1788673	PRJEB9121	SAMEA4386884	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788673/21052_4#59.cram
+ERR1788674	PRJEB9121	SAMEA4412619	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788674/21052_4#60.cram
+ERR1788675	PRJEB9121	SAMEA4412620	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788675/21052_4#61.cram
+ERR1788676	PRJEB9121	SAMEA4412621	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788676/21052_4#62.cram
+ERR1788677	PRJEB9121	SAMEA4412622	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788677/21052_4#63.cram
+ERR1788678	PRJEB9121	SAMEA4412623	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788678/21052_4#64.cram
+ERR1788679	PRJEB9121	SAMEA4412624	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788679/21052_4#65.cram
+ERR1788680	PRJEB9121	SAMEA4412625	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788680/21052_4#66.cram
+ERR1788681	PRJEB9121	SAMEA4412626	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788681/21052_4#67.cram
+ERR1788682	PRJEB9121	SAMEA4412627	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788682/21052_4#68.cram
+ERR1788683	PRJEB9121	SAMEA4412628	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788683/21052_4#69.cram
+ERR1788684	PRJEB9121	SAMEA4412629	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788684/21052_4#70.cram
+ERR1788685	PRJEB9121	SAMEA4412630	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788685/21052_4#71.cram
+ERR1788686	PRJEB9121	SAMEA4412631	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788686/21052_4#72.cram
+ERR1788687	PRJEB9121	SAMEA4412632	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788687/21052_4#73.cram
+ERR1788688	PRJEB9121	SAMEA4412633	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788688/21052_4#74.cram
+ERR1788689	PRJEB9121	SAMEA4412635	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788689/21052_4#75.cram
+ERR1788690	PRJEB9121	SAMEA4412636	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788690/21052_4#76.cram
+ERR1788691	PRJEB9121	SAMEA4412637	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788691/21052_4#77.cram
+ERR1788692	PRJEB9121	SAMEA4412638	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788692/21052_4#78.cram
+ERR1788693	PRJEB9121	SAMEA4412639	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788693/21052_4#79.cram
+ERR1788694	PRJEB9121	SAMEA4412640	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788694/21052_4#80.cram
+ERR1788695	PRJEB9121	SAMEA4412641	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788695/21052_4#81.cram
+ERR1788696	PRJEB9121	SAMEA4412642	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788696/21052_4#82.cram
+ERR1788697	PRJEB9121	SAMEA4412643	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788697/21052_4#83.cram
+ERR1788698	PRJEB9121	SAMEA4412644	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788698/21052_4#84.cram
+ERR1788699	PRJEB9121	SAMEA4412645	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788699/21052_4#85.cram
+ERR1788700	PRJEB9121	SAMEA4412646	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788700/21052_4#86.cram
+ERR1788701	PRJEB9121	SAMEA4412647	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788701/21052_4#87.cram
+ERR1788702	PRJEB9121	SAMEA4412648	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788702/21052_4#88.cram
+ERR1788703	PRJEB9121	SAMEA4412649	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788703/21052_4#89.cram
+ERR1788704	PRJEB9121	SAMEA4412650	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788704/21052_4#90.cram
+ERR1788705	PRJEB9121	SAMEA4412651	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788705/21052_4#91.cram
+ERR1788706	PRJEB9121	SAMEA4412652	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788706/21052_4#92.cram
+ERR1788707	PRJEB9121	SAMEA4412653	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788707/21052_4#93.cram
+ERR1788708	PRJEB9121	SAMEA4412654	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR178/ERR1788708/21052_4#94.cram
+ERR1821189	PRJEB9121	SAMEA4386806	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821189/21374_8#1.cram
+ERR1821190	PRJEB9121	SAMEA4386964	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821190/21374_8#2.cram
+ERR1821191	PRJEB9121	SAMEA4386807	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821191/21374_8#3.cram
+ERR1821192	PRJEB9121	SAMEA4387348	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821192/21374_8#4.cram
+ERR1821193	PRJEB9121	SAMEA4386808	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821193/21374_8#5.cram
+ERR1821194	PRJEB9121	SAMEA4386965	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821194/21374_8#6.cram
+ERR1821195	PRJEB9121	SAMEA4386809	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821195/21374_8#7.cram
+ERR1821196	PRJEB9121	SAMEA4387045	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821196/21374_8#8.cram
+ERR1821197	PRJEB9121	SAMEA4386810	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821197/21374_8#9.cram
+ERR1821198	PRJEB9121	SAMEA4386966	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821198/21374_8#10.cram
+ERR1821199	PRJEB9121	SAMEA4386811	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821199/21374_8#11.cram
+ERR1821200	PRJEB9121	SAMEA4387673	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821200/21374_8#12.cram
+ERR1821201	PRJEB9121	SAMEA4386812	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821201/21374_8#13.cram
+ERR1821202	PRJEB9121	SAMEA4386967	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821202/21374_8#14.cram
+ERR1821203	PRJEB9121	SAMEA4386813	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821203/21374_8#15.cram
+ERR1821204	PRJEB9121	SAMEA4387046	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821204/21374_8#16.cram
+ERR1821205	PRJEB9121	SAMEA4386814	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821205/21374_8#17.cram
+ERR1821206	PRJEB9121	SAMEA4386968	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821206/21374_8#18.cram
+ERR1821207	PRJEB9121	SAMEA4386815	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821207/21374_8#19.cram
+ERR1821208	PRJEB9121	SAMEA4387349	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821208/21374_8#20.cram
+ERR1821209	PRJEB9121	SAMEA4386816	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821209/21374_8#21.cram
+ERR1821210	PRJEB9121	SAMEA4386969	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821210/21374_8#22.cram
+ERR1821211	PRJEB9121	SAMEA4386817	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821211/21374_8#23.cram
+ERR1821212	PRJEB9121	SAMEA4387047	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821212/21374_8#24.cram
+ERR1821213	PRJEB9121	SAMEA4386818	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821213/21374_8#25.cram
+ERR1821214	PRJEB9121	SAMEA4386970	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821214/21374_8#26.cram
+ERR1821215	PRJEB9121	SAMEA4386819	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821215/21374_8#27.cram
+ERR1821216	PRJEB9121	SAMEA4387500	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821216/21374_8#28.cram
+ERR1821217	PRJEB9121	SAMEA4386820	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821217/21374_8#29.cram
+ERR1821218	PRJEB9121	SAMEA4386971	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821218/21374_8#30.cram
+ERR1821219	PRJEB9121	SAMEA4386821	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821219/21374_8#31.cram
+ERR1821220	PRJEB9121	SAMEA4387048	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821220/21374_8#32.cram
+ERR1821221	PRJEB9121	SAMEA4386822	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821221/21374_8#33.cram
+ERR1821222	PRJEB9121	SAMEA4386972	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821222/21374_8#34.cram
+ERR1821223	PRJEB9121	SAMEA4386823	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821223/21374_8#35.cram
+ERR1821224	PRJEB9121	SAMEA4387350	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821224/21374_8#36.cram
+ERR1821225	PRJEB9121	SAMEA4386824	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821225/21374_8#37.cram
+ERR1821226	PRJEB9121	SAMEA4386973	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821226/21374_8#38.cram
+ERR1821227	PRJEB9121	SAMEA4386825	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821227/21374_8#39.cram
+ERR1821228	PRJEB9121	SAMEA4387049	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821228/21374_8#40.cram
+ERR1821229	PRJEB9121	SAMEA4386826	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821229/21374_8#41.cram
+ERR1821230	PRJEB9121	SAMEA4386974	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821230/21374_8#42.cram
+ERR1821231	PRJEB9121	SAMEA4386827	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821231/21374_8#43.cram
+ERR1821232	PRJEB9121	SAMEA4387602	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821232/21374_8#44.cram
+ERR1821233	PRJEB9121	SAMEA4386828	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821233/21374_8#45.cram
+ERR1821234	PRJEB9121	SAMEA4386975	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821234/21374_8#46.cram
+ERR1821235	PRJEB9121	SAMEA4386829	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821235/21374_8#47.cram
+ERR1821236	PRJEB9121	SAMEA4387050	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821236/21374_8#48.cram
+ERR1821237	PRJEB9121	SAMEA4386830	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821237/21374_8#49.cram
+ERR1821238	PRJEB9121	SAMEA4386976	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821238/21374_8#50.cram
+ERR1821239	PRJEB9121	SAMEA4386831	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821239/21374_8#51.cram
+ERR1821240	PRJEB9121	SAMEA4387351	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821240/21374_8#52.cram
+ERR1821241	PRJEB9121	SAMEA4386832	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821241/21374_8#53.cram
+ERR1821242	PRJEB9121	SAMEA4386977	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821242/21374_8#54.cram
+ERR1821243	PRJEB9121	SAMEA4386833	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821243/21374_8#55.cram
+ERR1821244	PRJEB9121	SAMEA4387051	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821244/21374_8#56.cram
+ERR1821245	PRJEB9121	SAMEA4386834	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821245/21374_8#57.cram
+ERR1821246	PRJEB9121	SAMEA4386978	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821246/21374_8#58.cram
+ERR1821247	PRJEB9121	SAMEA4386835	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821247/21374_8#59.cram
+ERR1821248	PRJEB9121	SAMEA4387501	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821248/21374_8#60.cram
+ERR1821249	PRJEB9121	SAMEA4386836	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821249/21374_8#61.cram
+ERR1821250	PRJEB9121	SAMEA4386979	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821250/21374_8#62.cram
+ERR1821251	PRJEB9121	SAMEA4386837	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821251/21374_8#63.cram
+ERR1821252	PRJEB9121	SAMEA4387052	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821252/21374_8#64.cram
+ERR1821253	PRJEB9121	SAMEA4386838	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821253/21374_8#65.cram
+ERR1821254	PRJEB9121	SAMEA4386980	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821254/21374_8#66.cram
+ERR1821255	PRJEB9121	SAMEA4386839	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821255/21374_8#67.cram
+ERR1821256	PRJEB9121	SAMEA4387352	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821256/21374_8#68.cram
+ERR1821257	PRJEB9121	SAMEA4386840	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821257/21374_8#69.cram
+ERR1821258	PRJEB9121	SAMEA4386981	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821258/21374_8#70.cram
+ERR1821259	PRJEB9121	SAMEA4386841	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821259/21374_8#71.cram
+ERR1821260	PRJEB9121	SAMEA4387053	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821260/21374_8#72.cram
+ERR1821261	PRJEB9121	SAMEA4386842	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821261/21374_8#73.cram
+ERR1821262	PRJEB9121	SAMEA4386982	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821262/21374_8#74.cram
+ERR1821263	PRJEB9121	SAMEA4386843	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821263/21374_8#75.cram
+ERR1821264	PRJEB9121	SAMEA4387710	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821264/21374_8#76.cram
+ERR1821265	PRJEB9121	SAMEA4386844	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821265/21374_8#77.cram
+ERR1821266	PRJEB9121	SAMEA4386983	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821266/21374_8#78.cram
+ERR1821267	PRJEB9121	SAMEA4386845	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821267/21374_8#79.cram
+ERR1821268	PRJEB9121	SAMEA4387054	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821268/21374_8#80.cram
+ERR1821269	PRJEB9121	SAMEA4386846	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821269/21374_8#81.cram
+ERR1821270	PRJEB9121	SAMEA4386984	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821270/21374_8#82.cram
+ERR1821271	PRJEB9121	SAMEA4386847	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821271/21374_8#83.cram
+ERR1821272	PRJEB9121	SAMEA4387353	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821272/21374_8#84.cram
+ERR1821273	PRJEB9121	SAMEA4386848	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821273/21374_8#85.cram
+ERR1821274	PRJEB9121	SAMEA4386985	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821274/21374_8#86.cram
+ERR1821275	PRJEB9121	SAMEA4386849	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821275/21374_8#87.cram
+ERR1821276	PRJEB9121	SAMEA4387055	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821276/21374_8#88.cram
+ERR1821277	PRJEB9121	SAMEA4386850	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821277/21374_8#89.cram
+ERR1821278	PRJEB9121	SAMEA4386986	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821278/21374_8#90.cram
+ERR1821279	PRJEB9121	SAMEA4386851	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821279/21374_8#91.cram
+ERR1821280	PRJEB9121	SAMEA4387502	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821280/21374_8#92.cram
+ERR1821281	PRJEB9121	SAMEA4386987	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821281/21374_8#93.cram
+ERR1821282	PRJEB9121	SAMEA4386853	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821282/21374_8#94.cram
+ERR1821283	PRJEB9121	SAMEA4387056	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR182/ERR1821283/21374_8#95.cram
+ERR1837087	PRJEB9121	SAMEA4386870	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/run/ERR183/ERR1837087/21485_4#6.cram
+ERR1837088	PRJEB9121	SAMEA4412634	59201	Salmonella enterica subsp. enterica	ftp.sra.ebi.ac.uk/vol1/run/ERR183/ERR1837088/21485_4#7.cram

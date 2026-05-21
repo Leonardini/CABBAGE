@@ -1,21 +1,22 @@
 ### This file demonstrates the CABBAGE data curation pipeline end-to-end on a small,
 ### representative subset of sources. It covers:
 ###   - One paper from the initial literature search  (PMID 34547028, SelectedTables)
-###   - One paper from the new literature search       (PMID 35876577, NewTables)
+###   - One paper from RemainingTables              (PMID 34519526, RemainingTables)
 ###   - The PATRIC genome-AMR database
 ###   - The ENA/SRA antibiogram search (BioProject PRJNA756559)
 ###
 ### Running these steps in a fresh R session (after sourcing the helper scripts below)
 ### reproduces the corresponding files already present in IntermediateFiles/,
-### SelectedTables/, PATRIC/, and "Antibiogram search/".
+### RemainingTables/, PATRIC/, and "Antibiogram search/".
 ###
-### Source order before running this file:
-###   source("Utilities.R")
-###   source("ExtractInfo.R")
-###   source("PrepareTables.R")
-###   source("PreprocessAllPapers.R")
-###   source("PreprocessNewPapers.R")
-###   source("PreprocessDatabases.R")
+
+### Source order before running the rest of this file:
+source("Utilities.R")
+source("ExtractInfo.R")
+source("PrepareTables.R")
+source("PreprocessAllPapers.R")
+source("PreprocessNewPapers.R")
+source("PreprocessDatabases.R")
 
 library(magrittr)
 library(tidyverse)
@@ -29,11 +30,21 @@ library(openxlsx)
 # Species: Salmonella enterica subsp. enterica serovar Dublin.
 # Discovered in the first literature search (AllFoundPapers, row 27 in miniRes).
 # Genotype source : NCBI BioProject PRJNA736314 (ENA Portal run table).
-# Phenotype source: PMC supplementary Table S1 — pone.0249617.s001.xlsx
-#   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8454963/bin/pone.0249617.s001.xlsx
+# Phenotype source: PLOS ONE supplementary Table S1 — pone.0249617.s001.xlsx
+#   Direct download (open-access, no auth gate):
+#     https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0249617.s001&type=supplementary
+#   The PMC mirror (pmc.ncbi.nlm.nih.gov/articles/instance/8454963/bin/...) now
+#   requires a JavaScript proof-of-work and cannot be fetched programmatically.
 # Expected output: IntermediateFiles/PMID_34547028_Merged_Processed.csv (123 rows)
 
 setwd(paste0(WORKING_DIR, "IntermediateFiles"))
+
+BIOPROJ_34547028    <- "PRJNA736314"
+ENA_PREFIX_34547028 <- "PMID_34547028_filereport_read_run_"
+GENO_FILE_34547028  <- paste0(ENA_PREFIX_34547028, BIOPROJ_34547028, "_Genotype_Processed.csv")
+PHENO_URL_34547028  <- "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0249617.s001&type=supplementary"
+PHENO_XLSX_34547028 <- "PMID_34547028_pone.0249617.s001.xlsx"
+PHENO_FILE_34547028 <- "PMID_34547028_pone.0249617.s001_Phenotype_Processed.csv"
 
 ### Step 1a. Download genotype data from the EBI ENA Portal API.
 ### downloadStudyDetails() queries the EBI read-run endpoint with all EBI_FIELDS
@@ -41,42 +52,42 @@ setwd(paste0(WORKING_DIR, "IntermediateFiles"))
 ### Equivalent manual route: visit https://www.ebi.ac.uk/ena/browser/view/PRJNA736314,
 ### select the Reads tab, and export the run table as a TSV file.
 geno_raw_34547028 <- downloadStudyDetails(
-  "PRJNA736314",
-  prefix      = "PMID_34547028_filereport_read_run_",
-  short       = FALSE,
+  BIOPROJ_34547028,
+  prefix        = ENA_PREFIX_34547028,
+  short         = FALSE,
   writeResponse = TRUE
 )
 
-### Step 1b. Save under the project's _Genotype_Processed.csv naming convention
+### Step 1b. Select the relevant columns, order by run accession, then
+### save under the project's _Genotype_Processed.csv naming convention
 ### so that joinGenoPheno() can read it as the genotype side of the join.
-write_csv(geno_raw_34547028,
-          "PMID_34547028_filereport_read_run_PRJNA736314_Genotype_Processed.csv")
+geno_processed_34547028 <- geno_raw_34547028 %>%
+  select(run_accession, study_accession, sample_accession, tax_id, scientific_name, submitted_ftp) %>%
+  arrange(run_accession)
+write_csv(geno_processed_34547028, GENO_FILE_34547028)
 
-### Step 1c. Download the phenotype supplementary file manually (URL above), save as
-### PMID_34547028_pone.0249617.s001.xlsx in IntermediateFiles/, then read and write
-### as a CSV. The sheet holds isolate metadata and MIC values; the "accession number"
+### Step 1c. Download the phenotype supplementary file and read it.
+### The sheet holds isolate metadata and MIC values; the "accession number"
 ### column carries BioSample IDs (SAMN...) used as the join key with the genotype file.
-pheno_raw_34547028 <- read.xlsx(
-  "PMID_34547028_pone.0249617.s001.xlsx"
-) %>% as_tibble()
-write_csv(pheno_raw_34547028,
-          "PMID_34547028_pone.0249617.s001_Phenotype_Processed.csv")
+### The PMC URL (pmc.ncbi.nlm.nih.gov/articles/instance/...) now requires a
+### JavaScript proof-of-work and cannot be fetched programmatically. Use the
+### PLOS ONE direct-download URL instead (no auth gate for open-access articles).
+download.file(PHENO_URL_34547028, destfile = PHENO_XLSX_34547028, method = "curl", extra = "-L")
+pheno_raw_34547028 <- read.xlsx(PHENO_XLSX_34547028, startRow = 3, sep.names = " ")
+### Remove the unnamed columns; they contain R/S calls which we do de novo later
+pheno_processed_34547028 <- pheno_raw_34547028 %>%
+  as_tibble() %>%
+  select(-starts_with('X')) %>%
+  mutate_all(str_trim)
+write_csv(pheno_processed_34547028, PHENO_FILE_34547028)
 
-### Step 1d. Extract run-level genotype accessions from the ENA filereport.
-### getGenotypes() scans all character columns for ENA/NCBI accession patterns
-### (preferring RUN > ASSEMBLY > CONTIG) and writes the extracted accessions to
-### AllExtractedGenotypes/PMID_34547028_filereport_read_run_PRJNA736314_Extracted_Genotypes.csv
-getGenotypes(
-  "PMID_34547028_filereport_read_run_PRJNA736314_Genotype_Processed.csv"
-)
-
-### Step 1e. Join genotype (run-level) and phenotype (isolate-level) tables.
+### Step 1d. Join genotype (run-level) and phenotype (isolate-level) tables.
 ### Both share the BioSample accession: "sample_accession" on the genotype side
 ### and "accession number" on the phenotype side. joinGenoPheno() performs an
 ### inner join and writes the result to PMID_34547028_Merged_Processed.csv.
 Q_34547028 <- joinGenoPheno(
-  "PMID_34547028_filereport_read_run_PRJNA736314_Genotype_Processed.csv",
-  "PMID_34547028_pone.0249617.s001_Phenotype_Processed.csv",
+  GENO_FILE_34547028,
+  PHENO_FILE_34547028,
   genoID  = "sample_accession",
   phenoID = "accession number"
 )
@@ -84,42 +95,57 @@ Q_34547028 <- joinGenoPheno(
 
 
 # ==============================================================================
-# PART 2: New-search paper — PMID 35876577
+# PART 2: RemainingTables paper — PMID 34519526
 # ==============================================================================
-# Gebre et al. (2022), Frontiers in Microbiology.
-# Species: Klebsiella pneumoniae, clinical isolates from Ethiopia.
-# Discovered in the second literature search (NewlyFoundPapers).
-# Genotype source : NCBI BioProject PRJNA787062 (SRA Run Selector).
-# Phenotype source: supplementary Table 2 (to be downloaded manually).
-# Raw files are kept in NewTables/; processing follows exactly the same
-# steps as Part 1 once the phenotype file has been obtained.
+# Carbapenem-resistant Klebsiella pneumoniae, Northwestern University (mSystems 2021).
+# Genotype source : NCBI BioProject PRJNA395086 (SRA Run Selector).
+# Phenotype source: mSystems supplementary Table S1 — msystems.00194-21-st001.xlsx
+#   The published supplement is a PDF (PMC: pmc.ncbi.nlm.nih.gov/articles/instance/8547452/bin/
+#   msystems.00194-21-st001.pdf). The Excel version in IntermediateFiles/ was obtained
+#   by contacting the corresponding author directly.
+# Expected output: RemainingTables/PMID_34519526_Merged_Processed.csv
+#   (166 rows)
+# Note: the NCBI SRA Run Table is used here instead of the EBI filereport because
+# the EBI filereport does not carry the STRAIN field, which is the join key for
+# this paper (STRAIN on the genotype side = "Isolate ID" on the phenotype side).
 
-setwd(paste0(WORKING_DIR, "NewTables"))
+setwd(paste0(WORKING_DIR, "IntermediateFiles"))
 
-### Step 2a. The SRA Run Table was downloaded from NCBI's SRA Run Selector:
-###   https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA787062
-### and saved as PMID_35876577_SraRunTable.txt. Read it and write it under the
-### _Genotype_Processed.csv naming convention.
-geno_raw_35876577 <- read_csv(
-  "PMID_35876577_SraRunTable.txt",
-  guess_max = Inf,
-  show_col_types = FALSE
+BIOPROJ_34519526    <- "PRJNA395086"
+GENO_SRA_34519526   <- "PMID_34519526_SraRunTable.txt"
+GENO_FILE_34519526  <- "PMID_34519526_SraRunTable_Genotype_Processed.csv"
+PHENO_XLSX_34519526 <- "PMID_34519526_msystems.00194-21-st001.xlsx"
+PHENO_FILE_34519526 <- "PMID_34519526_msystems.00194-21-st001_Phenotype_Processed.csv"
+
+### Step 2a. Load the NCBI SRA Run Table.
+### This table was downloaded from the NCBI SRA Run Selector:
+###   https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA395086
+### and saved as PMID_34519526_SraRunTable.txt. Unlike the EBI filereport used in
+### Part 1, the NCBI table includes the STRAIN field needed as the join key.
+### The STRAIN values use the lab prefix "NU-CRE" (Northwestern University CRE)
+### while the phenotype uses the bare "CRE-" form, so a transformation is required.
+geno_raw_34519526 <- read_csv(GENO_SRA_34519526, guess_max = Inf, show_col_types = FALSE)
+geno_processed_34519526 <- geno_raw_34519526 %>%
+  mutate(STRAIN = str_replace(STRAIN, "NU-CRE", "CRE-"))
+write_csv(geno_processed_34519526, GENO_FILE_34519526)
+
+### Step 2b. Read the phenotype supplementary file (manually obtained from mSystems).
+### Column names contain spaces and units, so sep.names = " " is required.
+pheno_raw_34519526 <- read.xlsx(PHENO_XLSX_34519526, sep.names = " ") %>% 
+  as_tibble()
+pheno_processed_34519526 <- pheno_raw_34519526 %>%
+  mutate("Fold Coverage" = as.integer(round(`Fold Coverage`)))
+write_csv(pheno_processed_34519526, PHENO_FILE_34519526)
+
+### Step 2c. Join genotype and phenotype tables.
+### The shared identifier is STRAIN (SRA Run Table) = "Isolate ID" (phenotype).
+Q_34519526 <- joinGenoPheno(
+  GENO_FILE_34519526,
+  PHENO_FILE_34519526,
+  genoID  = "STRAIN",
+  phenoID = "Isolate ID"
 )
-write_csv(geno_raw_35876577,
-          "PMID_35876577_SraRunTable_Genotype_Processed.csv")
-
-### Step 2b. Download the phenotype supplementary file manually from the journal
-### (URL recorded in NewlyFoundPapers.csv for this entry), save as
-### PMID_35876577_<supplement_name>.xlsx in NewTables/, then preprocess:
-###
-###   pheno_raw_35876577 <- read.xlsx("PMID_35876577_<supplement_name>.xlsx") %>%
-###     as_tibble()
-###   write_csv(pheno_raw_35876577, "PMID_35876577_<supplement_name>_Phenotype_Processed.csv")
-###
-### Steps 2c–2d (getGenotypes, joinGenoPheno) are then identical to Part 1,
-### Steps 1d–1e, substituting the correct column names for the join key.
-### The SRA run table column "BioSample" or "SRA Study" typically serves as the
-### shared identifier between genotype and phenotype files.
+### Console output:  "[n] IDs are common out of [n] genotypes and [n] phenotypes"
 
 
 # ==============================================================================
@@ -139,31 +165,26 @@ setwd(paste0(WORKING_DIR, "Databases"))
 ### on genome_id, and writes PATRIC/PATRIC_genomes_AMR_Reduced.csv.
 processPATRIC()
 
-### Step 3b. Extract assembly accessions for EBI resolution.
-### processPATRICFull() parses the last space-delimited token of the genome_name
-### column as an assembly accession (GCA_/GCF_...) and writes PATRICAccessions.csv.
-processPATRICFull()
-
-### Step 3c. Resolve assembly accessions to run-level accessions via the EBI API.
-### convertAccessions() queries the EBI ENA Portal for each unique accession,
-### maps it to ENA run-level IDs, writes Mappings/PATRICMappings.csv alongside the
-### original file, and returns the augmented table.
+### Step 3b. Resolve BioSample accessions to run-level accessions via the EBI API.
+### convertAccessions() queries the EBI ENA Portal for each unique biosample_accession,
+### maps it to ENA run-level IDs, writes Mappings/PATRIC_genomes_AMR_Reduced_Mapped.csv
+### (the accession mapping table) and PATRIC/PATRIC_genomes_AMR_Reduced_Mapped_Processed.csv
+### (the full augmented table), and returns the augmented table. NOTE: This is a slow function!
 patric_mapped <- convertAccessions(
   "PATRIC/PATRIC_genomes_AMR_Reduced.csv",
-  cName = "assembly_accession",
+  cName = "biosample_accession",
   short = FALSE
 )
 
-### Step 3d. Join run-level accessions with the AMR phenotype data and consolidate.
-### The logic in joinAllGenoPheno() (PrepareTables.R, variables Qb–Qf) handles
+### Step 3c. Join run-level accessions with the AMR phenotype data and consolidate.
+### The logic in joinPATRIC() (PrepareTables.R, variables Qb–Qf) handles
 ### three sub-populations of PATRIC rows:
-###   Part A — rows with a BioSample match in PATRICMappings.csv (biosample_accession)
+###   Part A — rows with a BioSample match in PATRIC_genomes_AMR_Reduced_Mapped.csv (sample_accession)
 ###   Part B — rows with no assembly/GenBank/RefSeq accession but a BioSample ID
 ###   Part C — rows with assembly, GenBank, or RefSeq accessions (used as-is)
 ### The three parts are concatenated and deduplicated to PATRIC/PATRIC_Merged_Processed.csv.
-### Run joinAllGenoPheno() from PrepareTables.R to execute all PATRIC joins together
-### with the paper joins:
-###   joinAllGenoPheno()
+### Run joinPATRIC() from PrepareTables.R to execute all PATRIC joins together.
+joinPATRIC()
 
 
 # ==============================================================================
@@ -214,7 +235,7 @@ all_drugs <- antibiogram_long$drug_list %>%
   unlist() %>%
   unique() %>%
   sort() %>%
-  setdiff(NA_character_)
+  setdiff(c(NA_character_, ""))
 drug_matrix <- sapply(all_drugs, function(drug) {
   ifelse(sapply(antibiogram_long$drug_list, function(lst) drug %in% lst), "R", "S")
 })
@@ -224,8 +245,3 @@ antibiogram_expanded <- bind_cols(
 )
 write_csv(antibiogram_expanded,
           "PRJNA756559_SraRunTable_SplitRes_Processed.csv")
-### The Run column (SRR...) serves as the genotype accession.
-### The per-drug columns encode the phenotype.
-### getGenotypes("PRJNA756559_SraRunTable_Genotype_Processed.csv") extracts
-### the run accessions for inclusion in AllExtractedGenotypes/.
-getGenotypes("PRJNA756559_SraRunTable_Genotype_Processed.csv")

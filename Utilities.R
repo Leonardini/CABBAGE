@@ -182,11 +182,11 @@ joinAllAccessions = function() {
 concatenateFiles = function(inFilenames, outFilename) {
   Tab = read_csv(inFilenames[1], guess_max = Inf)
   cnames = colnames(Tab)
-  ctypes = sapply(Tab, class)
+  ctypes = sapply(Tab, function(col) class(col)[1])
   for (fname in inFilenames[-1]) {
     nextTab = read_csv(fname, guess_max = Inf)
     nextNames = colnames(nextTab)
-    nextTypes = sapply(nextTab, class)
+    nextTypes = sapply(nextTab, function(col) class(col)[1])
     for (index in 1:ncol(nextTab)) {
       cname = nextNames[index]
       curMatch = match(cname, cnames)
@@ -309,9 +309,11 @@ widenResistance = function(fname, repColumns = c(1,2), pivotColumn = 3, splitCol
 ### If writeResponse is TRUE, the result is written to <prefix><studyID>_Details.csv.
 downloadStudyDetails = function(studyID, prefix = "", short = FALSE, writeResponse = TRUE) {
   URL = paste0(QUERY_EBI, studyID, ifelse(short, CONVERSION_EBI_SHORT, CONVERSION_EBI_LONG))
-  result = try(read_html(URL) %>% 
+  result = try(read_html(URL) %>%
                  xml_text() %>%
-                 read_tsv(guess_max = Inf, show_col_types = FALSE), 
+                 I() %>%
+                 read_tsv(guess_max = Inf, show_col_types = FALSE,
+                          col_types = cols(.default = col_character())),
                silent = TRUE)
   if (length(result) == 1 && class(result) == "try-error") {
     print(paste("Warning: unsuccessful at extracting information on", studyID))
@@ -330,17 +332,16 @@ downloadStudyDetails = function(studyID, prefix = "", short = FALSE, writeRespon
 ### Calls downloadStudyDetails for each accession in accessionList, combining the results
 ### into a single tibble. Progress is printed to the console every 10 entries.
 extractRunsFromSamples = function(accessionList, short = TRUE) {
-  L = length(accessionList)
-  Tab = tibble()
-  print(paste("There are", L, "entries to process"))
-  startInd = 1
-  for (ind in startInd:L) {
-    if (ind %% 10 == 0) { print(ind) }
-    acc = accessionList[ind]
-    Tab %<>%
-      bind_rows(downloadStudyDetails(acc, short = short, writeResponse = FALSE))
-  }
-  Tab
+  uniqueAccessions = unique(accessionList)
+  L = length(uniqueAccessions)
+  print(paste("There are", L, "unique accessions to process (", length(accessionList), "total)"))
+  results = lapply(seq_along(uniqueAccessions), function(ind) {
+    if (ind %% 10 == 0) print(ind)
+    result = downloadStudyDetails(uniqueAccessions[ind], short = short, writeResponse = FALSE)
+    result$query_accession = uniqueAccessions[ind]
+    result
+  })
+  bind_rows(results)
 }
 
 ### Resolves sample-level accessions in column cName of fname to run-level accessions
@@ -379,7 +380,10 @@ convertAccessions = function(fname, cName = "sample_name", short = TRUE, previou
     augTab %<>%
       bind_rows(extraAugTab)
   }
-  write_csv(mappedAccessions, paste0(WORKING_DIR, "Mappings/", str_replace(fname, "Processed.csv", "Mapped.csv")))
-  write_csv(augTab, str_replace(fname, "Processed.csv", "Mapped_Processed.csv"))
+  base         <- basename(fname)
+  mappingsName <- if (str_detect(base, "Processed\\.csv")) str_replace(base, "Processed\\.csv", "Mapped.csv") else paste0(tools::file_path_sans_ext(base), "_Mapped.csv")
+  augName      <- if (str_detect(base, "Processed\\.csv")) str_replace(fname, "Processed\\.csv", "Mapped_Processed.csv") else paste0(tools::file_path_sans_ext(fname), "_Mapped_Processed.csv")
+  write_csv(mappedAccessions, paste0(WORKING_DIR, "Mappings/", mappingsName))
+  write_csv(augTab, augName)
   augTab
 }

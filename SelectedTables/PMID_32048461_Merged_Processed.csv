@@ -1,0 +1,415 @@
+run_accession,study_accession,Sample,tax_id,scientific_name,submitted_ftp,Isolate,Supplier (Geographic origin),TOB,MIC*,CIP,MIC*2,MEM,MIC*3,CAZ,MIC*4
+SRR8737281,PRJNA526797,SAMN11110719,287,Pseudomonas aeruginosa,NA,ZG301975,Private practice laboratory (Goerlitz),S,1,S,0.5,R,8,I,16
+SRR8737282,PRJNA526797,SAMN11110718,287,Pseudomonas aeruginosa,NA,ZG205864,Private practice laboratory (Goerlitz),R,128,R,16,I,4,R,32
+SRR8737283,PRJNA526797,SAMN11110721,287,Pseudomonas aeruginosa,NA,ZG302367,Private practice laboratory (Goerlitz),S,1,S,0.125,S,0.25,S,2
+SRR8737284,PRJNA526797,SAMN11110720,287,Pseudomonas aeruginosa,NA,ZG302359,Private practice laboratory (Goerlitz),S,0.5,S,0.06,S,1,S,1
+SRR8737285,PRJNA526797,SAMN11110690,287,Pseudomonas aeruginosa,NA,PSAE1647,University of Freiburg (Munich),S,1,I,2,I,4,S,1
+SRR8737286,PRJNA526797,SAMN11110691,287,Pseudomonas aeruginosa,NA,PSAE1649,University of Freiburg (Munich),S,0.125,S,0.25,S,2,S,1
+SRR8737287,PRJNA526797,SAMN11110672,287,Pseudomonas aeruginosa,NA,MHH17441,Hannover Medical School (Hanover),R,128,R,32,R,16,R,32
+SRR8737288,PRJNA526797,SAMN11110703,287,Pseudomonas aeruginosa,NA,PSAE1975,University of Freiburg (Regensburg),S,4,S,0.5,R,32,S,8
+SRR8737289,PRJNA526797,SAMN11110501,287,Pseudomonas aeruginosa,NA,ESP046,University Hospital Palma de Mallorca (Spain),S,2,S,0.125,S,0.25,S,2
+SRR8737290,PRJNA526797,SAMN11110696,287,Pseudomonas aeruginosa,ftp.sra.ebi.ac.uk/vol1/run/SRR873/SRR8737290/PSAE1745.bam.bai,PSAE1745,University of Freiburg (Munich),R,64,R,4,I,4,S,4
+SRR8737291,PRJNA526797,SAMN11110743,287,Pseudomonas aeruginosa,NA,ZG8038581181,Private practice laboratory (Chemnitz),R,1,R,8,R,8,R,64
+SRR8737292,PRJNA526797,SAMN11110742,287,Pseudomonas aeruginosa,NA,ZG8006959,Private practice laboratory (Leipzig),R,128,R,16,R,64,R,128
+SRR8737293,PRJNA526797,SAMN11110745,287,Pseudomonas aeruginosa,NA,ZG8525123,Private practice laboratory (Leipzig),R,64,R,16,R,16,R,128
+SRR8737294,PRJNA526797,SAMN11110744,287,Pseudomonas aeruginosa,NA,ZG8510487,Private practice laboratory (Leipzig),R,256,R,32,R,64,R,128
+SRR8737295,PRJNA526797,SAMN11110531,287,Pseudomonas aeruginosa,NA,ESP088,University Hospital Palma de Mallorca (Spain),R,256,R,256,R,8,R,64
+SRR8737296,PRJNA526797,SAMN11110450,287,Pseudomonas aeruginosa,NA,CH5356,Charité Berlin (Berlin),R,256,R,16,S,2,S,4
+SRR8737297,PRJNA526797,SAMN11110451,287,Pseudomonas aeruginosa,NA,CH5362,Charité Berlin (Berlin),S,0.25,I,2,I,4,S,1
+SRR8737298,PRJNA526797,SAMN11110446,287,Pseudomonas aeruginosa,NA,CH5267,Charité Berlin (Berlin),S,0.5,S,0.5,R,8,I,16
+SRR8737299,PRJNA526797,SAMN11110447,287,Pseudomonas aeruginosa,NA,CH5291,Charité Berlin (Berlin),S,1,S,0.5,R,8,R,32
+SRR8737300,PRJNA526797,SAMN11110448,287,Pseudomonas aeruginosa,NA,CH5334,Charité Berlin (Berlin),S,0.5,R,4,R,8,S,2
+SRR8737301,PRJNA526797,SAMN11110449,287,Pseudomonas aeruginosa,NA,CH5353,Charité Berlin (Berlin),S,0.5,S,0.06,R,8,I,16
+SRR8737302,PRJNA526797,SAMN11110442,287,Pseudomonas aeruginosa,ftp.sra.ebi.ac.uk/vol1/run/SRR873/SRR8737302/CH5182.bam;ftp.sra.ebi.ac.uk/vol1/run/SRR873/SRR8737302/CH5182.bam.bai,CH5182,Charité Berlin (Berlin),S,1,I,2,R,16,R,32
+SRR8737303,PRJNA526797,SAMN11110443,287,Pseudomonas aeruginosa,NA,CH5193,Charité Berlin (Berlin),R,1024,R,32,S,1,R,128
+SRR8737304,PRJNA526797,SAMN11110444,287,Pseudomonas aeruginosa,NA,CH5206,Charité Berlin (Berlin),S,0.5,S,1,S,0.5,R,32
+SRR8737305,PRJNA526797,SAMN11110445,287,Pseudomonas aeruginosa,NA,CH5262,Charité Berlin (Berlin),S,0.5,S,1,S,2,S,8
+SRR8737306,PRJNA526797,SAMN11110661,287,Pseudomonas aeruginosa,NA,MHH16427,Hannover Medical School (Hanover),S,1,I,2,R,16,I,16
+SRR8737307,PRJNA526797,SAMN11110660,287,Pseudomonas aeruginosa,NA,MHH16379,Hannover Medical School (Hanover),S,1,S,0.5,R,8,S,4
+SRR8737308,PRJNA526797,SAMN11110659,287,Pseudomonas aeruginosa,NA,MHH16371,Hannover Medical School (Hanover),S,0.25,R,4,S,2,I,16
+SRR8737309,PRJNA526797,SAMN11110658,287,Pseudomonas aeruginosa,NA,MHH16208,Hannover Medical School (Hanover),S,1,I,2,R,16,I,16
+SRR8737310,PRJNA526797,SAMN11110657,287,Pseudomonas aeruginosa,NA,MHH16050,Hannover Medical School (Hanover),S,4,S,1,R,128,R,256
+SRR8737311,PRJNA526797,SAMN11110656,287,Pseudomonas aeruginosa,NA,MHH15817,Hannover Medical School (Hanover),S,1,I,2,S,0.5,R,32
+SRR8737312,PRJNA526797,SAMN11110655,287,Pseudomonas aeruginosa,NA,MHH15280,Hannover Medical School (Hanover),S,1,S,0.125,I,4,S,2
+SRR8737313,PRJNA526797,SAMN11110654,287,Pseudomonas aeruginosa,NA,MHH15275,Hannover Medical School (Hanover),R,32,R,8,S,2,S,4
+SRR8737314,PRJNA526797,SAMN11110583,287,Pseudomonas aeruginosa,NA,F2017,University Hospital Frankfurt (Frankfurt),S,1,R,32,R,16,S,4
+SRR8737315,PRJNA526797,SAMN11110582,287,Pseudomonas aeruginosa,NA,F2010,University Hospital Frankfurt (Frankfurt),S,1,R,16,R,8,R,32
+SRR8737316,PRJNA526797,SAMN11110589,287,Pseudomonas aeruginosa,NA,F2040,University Hospital Frankfurt (Frankfurt),R,256,R,32,R,512,R,1024
+SRR8737317,PRJNA526797,SAMN11110588,287,Pseudomonas aeruginosa,NA,F2035,University Hospital Frankfurt (Frankfurt),S,2,I,2,R,16,S,4
+SRR8737318,PRJNA526797,SAMN11110587,287,Pseudomonas aeruginosa,NA,F2034,University Hospital Frankfurt (Frankfurt),S,0.5,R,64,I,4,S,4
+SRR8737319,PRJNA526797,SAMN11110586,287,Pseudomonas aeruginosa,NA,F2030,University Hospital Frankfurt (Frankfurt),R,128,R,16,I,4,S,1
+SRR8737320,PRJNA526797,SAMN11110490,287,Pseudomonas aeruginosa,NA,ESP032,University Hospital Palma de Mallorca (Spain),S,2,S,0.25,S,0.5,S,2
+SRR8737321,PRJNA526797,SAMN11110491,287,Pseudomonas aeruginosa,NA,ESP033,University Hospital Palma de Mallorca (Spain),S,2,S,0.125,S,0.125,S,2
+SRR8737322,PRJNA526797,SAMN11110495,287,Pseudomonas aeruginosa,NA,ESP037,University Hospital Palma de Mallorca (Spain),S,2,S,0.5,S,1,S,4
+SRR8737323,PRJNA526797,SAMN11110534,287,Pseudomonas aeruginosa,NA,F1688,University Hospital Frankfurt (Frankfurt),S,0.5,R,32,R,8,R,64
+SRR8737324,PRJNA526797,SAMN11110535,287,Pseudomonas aeruginosa,NA,F1689,University Hospital Frankfurt (Frankfurt),S,0.5,R,16,R,32,R,64
+SRR8737325,PRJNA526797,SAMN11110540,287,Pseudomonas aeruginosa,NA,F1727,University Hospital Frankfurt (Frankfurt),S,0.25,S,1,R,16,R,32
+SRR8737326,PRJNA526797,SAMN11110541,287,Pseudomonas aeruginosa,NA,F1741,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737327,PRJNA526797,SAMN11110620,287,Pseudomonas aeruginosa,NA,F2236,University Hospital Frankfurt (Frankfurt),S,1,S,0.25,I,4,R,64
+SRR8737328,PRJNA526797,SAMN11110621,287,Pseudomonas aeruginosa,NA,F2240,University Hospital Frankfurt (Frankfurt),R,128,R,128,R,16,R,128
+SRR8737329,PRJNA526797,SAMN11110612,287,Pseudomonas aeruginosa,NA,F2172,University Hospital Frankfurt (Frankfurt),S,0.5,I,2,R,16,I,16
+SRR8737330,PRJNA526797,SAMN11110613,287,Pseudomonas aeruginosa,NA,F2176,University Hospital Frankfurt (Frankfurt),R,128,R,8,I,4,S,8
+SRR8737331,PRJNA526797,SAMN11110614,287,Pseudomonas aeruginosa,NA,F2199,University Hospital Frankfurt (Frankfurt),R,128,R,128,R,16,R,128
+SRR8737332,PRJNA526797,SAMN11110615,287,Pseudomonas aeruginosa,NA,F2205,University Hospital Frankfurt (Frankfurt),S,1,S,1,I,4,I,16
+SRR8737333,PRJNA526797,SAMN11110616,287,Pseudomonas aeruginosa,NA,F2208,University Hospital Frankfurt (Frankfurt),R,128,R,16,R,8,I,16
+SRR8737334,PRJNA526797,SAMN11110617,287,Pseudomonas aeruginosa,NA,F2230,University Hospital Frankfurt (Frankfurt),S,0.5,R,4,R,8,R,64
+SRR8737335,PRJNA526797,SAMN11110618,287,Pseudomonas aeruginosa,NA,F2234,University Hospital Frankfurt (Frankfurt),S,1,R,64,R,16,R,128
+SRR8737336,PRJNA526797,SAMN11110619,287,Pseudomonas aeruginosa,NA,F2235,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,16,R,32
+SRR8737337,PRJNA526797,SAMN11110340,287,Pseudomonas aeruginosa,NA,CH2582,Charité Berlin (Berlin),S,0.5,R,4,I,4,S,1
+SRR8737338,PRJNA526797,SAMN11110650,287,Pseudomonas aeruginosa,NA,MHH15151,Hannover Medical School (Hanover),S,2,S,1,R,16,S,8
+SRR8737339,PRJNA526797,SAMN11110651,287,Pseudomonas aeruginosa,NA,MHH15187,Hannover Medical School (Hanover),S,0.5,S,0.125,S,0.5,I,16
+SRR8737340,PRJNA526797,SAMN11110644,287,Pseudomonas aeruginosa,NA,MHH14911,Hannover Medical School (Hanover),S,0.25,S,0.06,I,4,I,16
+SRR8737341,PRJNA526797,SAMN11110403,287,Pseudomonas aeruginosa,NA,CH4443,Charité Berlin (Berlin),R,256,R,8,S,1,R,64
+SRR8737342,PRJNA526797,SAMN11110410,287,Pseudomonas aeruginosa,NA,CH4549,Charité Berlin (Berlin),S,0.5,S,0.06,I,4,S,8
+SRR8737343,PRJNA526797,SAMN11110411,287,Pseudomonas aeruginosa,NA,CH4560,Charité Berlin (Berlin),R,512,R,64,R,64,R,512
+SRR8737344,PRJNA526797,SAMN11110510,287,Pseudomonas aeruginosa,NA,ESP061,University Hospital Palma de Mallorca (Spain),R,128,R,128,R,8,I,16
+SRR8737345,PRJNA526797,SAMN11110511,287,Pseudomonas aeruginosa,NA,ESP063,University Hospital Palma de Mallorca (Spain),R,128,R,256,R,8,I,16
+SRR8737346,PRJNA526797,SAMN11110504,287,Pseudomonas aeruginosa,NA,ESP053,University Hospital Palma de Mallorca (Spain),R,128,R,16,R,8,S,8
+SRR8737347,PRJNA526797,SAMN11110505,287,Pseudomonas aeruginosa,NA,ESP055,University Hospital Palma de Mallorca (Spain),S,1,S,1,R,8,S,8
+SRR8737348,PRJNA526797,SAMN11110502,287,Pseudomonas aeruginosa,NA,ESP047,University Hospital Palma de Mallorca (Spain),R,128,R,128,I,4,I,16
+SRR8737349,PRJNA526797,SAMN11110503,287,Pseudomonas aeruginosa,NA,ESP050,University Hospital Palma de Mallorca (Spain),S,2,R,8,S,1,S,4
+SRR8737350,PRJNA526797,SAMN11110508,287,Pseudomonas aeruginosa,NA,ESP059,University Hospital Palma de Mallorca (Spain),S,2,R,8,R,32,I,16
+SRR8737351,PRJNA526797,SAMN11110509,287,Pseudomonas aeruginosa,NA,ESP060,University Hospital Palma de Mallorca (Spain),R,32,S,0.06,R,32,I,16
+SRR8737352,PRJNA526797,SAMN11110506,287,Pseudomonas aeruginosa,NA,ESP057,University Hospital Palma de Mallorca (Spain),S,0.5,I,2,I,4,S,8
+SRR8737353,PRJNA526797,SAMN11110507,287,Pseudomonas aeruginosa,NA,ESP058,University Hospital Palma de Mallorca (Spain),S,1,S,0.25,S,1,I,16
+SRR8737354,PRJNA526797,SAMN11110607,287,Pseudomonas aeruginosa,NA,F2137,University Hospital Frankfurt (Frankfurt),S,2,R,32,R,16,R,64
+SRR8737355,PRJNA526797,SAMN11110606,287,Pseudomonas aeruginosa,NA,F2128,University Hospital Frankfurt (Frankfurt),S,0.5,I,2,R,8,I,16
+SRR8737356,PRJNA526797,SAMN11110609,287,Pseudomonas aeruginosa,NA,F2165,University Hospital Frankfurt (Frankfurt),S,1,R,64,R,64,R,128
+SRR8737357,PRJNA526797,SAMN11110608,287,Pseudomonas aeruginosa,NA,F2148,University Hospital Frankfurt (Frankfurt),S,0.5,R,32,R,16,R,64
+SRR8737358,PRJNA526797,SAMN11110710,287,Pseudomonas aeruginosa,NA,Vb20477,University Hospital Essen (Essen),R,128,R,32,R,512,R,128
+SRR8737359,PRJNA526797,SAMN11110602,287,Pseudomonas aeruginosa,NA,F2093,University Hospital Frankfurt (Frankfurt),S,2,I,2,R,16,S,4
+SRR8737360,PRJNA526797,SAMN11110605,287,Pseudomonas aeruginosa,NA,F2119,University Hospital Frankfurt (Frankfurt),I,8,R,64,R,8,R,64
+SRR8737361,PRJNA526797,SAMN11110604,287,Pseudomonas aeruginosa,NA,F2098,University Hospital Frankfurt (Frankfurt),R,256,R,32,S,2,R,32
+SRR8737362,PRJNA526797,SAMN11110706,287,Pseudomonas aeruginosa,NA,PSAE2126,University of Freiburg (Neubrandenburg),S,1,S,1,R,32,I,16
+SRR8737363,PRJNA526797,SAMN11110707,287,Pseudomonas aeruginosa,NA,PSAE2127,University of Freiburg (Hungary),R,128,R,16,R,8,I,16
+SRR8737364,PRJNA526797,SAMN11110708,287,Pseudomonas aeruginosa,NA,PSAE2139,University of Freiburg (Romania),R,1024,R,16,R,16,R,256
+SRR8737365,PRJNA526797,SAMN11110373,287,Pseudomonas aeruginosa,NA,CH2748,Charité Berlin (Berlin),R,512,R,16,R,8,I,16
+SRR8737366,PRJNA526797,SAMN11110372,287,Pseudomonas aeruginosa,NA,CH2747,Charité Berlin (Berlin),S,0.5,S,0.5,R,32,S,4
+SRR8737367,PRJNA526797,SAMN11110549,287,Pseudomonas aeruginosa,NA,F1758,University Hospital Frankfurt (Frankfurt),S,0.25,S,0.25,S,1,R,32
+SRR8737368,PRJNA526797,SAMN11110548,287,Pseudomonas aeruginosa,NA,F1757,University Hospital Frankfurt (Frankfurt),S,1,R,16,R,64,R,32
+SRR8737369,PRJNA526797,SAMN11110334,287,Pseudomonas aeruginosa,NA,CH2500,Charité Berlin (Berlin),S,0.5,R,8,S,2,S,4
+SRR8737370,PRJNA526797,SAMN11110456,287,Pseudomonas aeruginosa,NA,CH5464,Charité Berlin (Berlin),R,512,R,8,R,64,S,4
+SRR8737371,PRJNA526797,SAMN11110459,287,Pseudomonas aeruginosa,NA,CH5531,Charité Berlin (Berlin),S,4,I,2,I,4,R,256
+SRR8737372,PRJNA526797,SAMN11110458,287,Pseudomonas aeruginosa,NA,CH5528,Charité Berlin (Berlin),S,1,R,128,I,4,I,16
+SRR8737373,PRJNA526797,SAMN11110580,287,Pseudomonas aeruginosa,NA,F2005,University Hospital Frankfurt (Frankfurt),S,1,R,8,R,32,R,64
+SRR8737374,PRJNA526797,SAMN11110581,287,Pseudomonas aeruginosa,NA,F2006,University Hospital Frankfurt (Frankfurt),S,0.5,R,4,I,4,R,64
+SRR8737375,PRJNA526797,SAMN11110546,287,Pseudomonas aeruginosa,NA,F1752,University Hospital Frankfurt (Frankfurt),R,1024,R,32,R,128,R,64
+SRR8737376,PRJNA526797,SAMN11110454,287,Pseudomonas aeruginosa,NA,CH5432,Charité Berlin (Berlin),I,8,R,128,R,16,S,4
+SRR8737377,PRJNA526797,SAMN11110576,287,Pseudomonas aeruginosa,NA,F1983,University Hospital Frankfurt (Frankfurt),R,256,R,32,R,512,R,1024
+SRR8737378,PRJNA526797,SAMN11110577,287,Pseudomonas aeruginosa,NA,F1997,University Hospital Frankfurt (Frankfurt),S,0.25,R,4,R,16,R,32
+SRR8737379,PRJNA526797,SAMN11110578,287,Pseudomonas aeruginosa,NA,F2000,University Hospital Frankfurt (Frankfurt),R,256,R,32,R,512,R,1024
+SRR8737380,PRJNA526797,SAMN11110579,287,Pseudomonas aeruginosa,NA,F2003,University Hospital Frankfurt (Frankfurt),S,0.125,R,64,R,32,R,128
+SRR8737381,PRJNA526797,SAMN11110545,287,Pseudomonas aeruginosa,NA,F1748,University Hospital Frankfurt (Frankfurt),S,0.5,R,4,R,64,R,64
+SRR8737382,PRJNA526797,SAMN11110573,287,Pseudomonas aeruginosa,NA,F1957,University Hospital Frankfurt (Frankfurt),S,1,R,64,R,8,I,16
+SRR8737383,PRJNA526797,SAMN11110574,287,Pseudomonas aeruginosa,NA,F1968,University Hospital Frankfurt (Frankfurt),S,1,R,8,I,4,R,32
+SRR8737384,PRJNA526797,SAMN11110575,287,Pseudomonas aeruginosa,NA,F1979,University Hospital Frankfurt (Frankfurt),R,256,R,32,R,512,R,1024
+SRR8737385,PRJNA526797,SAMN11110544,287,Pseudomonas aeruginosa,NA,F1747,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737386,PRJNA526797,SAMN11110371,287,Pseudomonas aeruginosa,NA,CH2735,Charité Berlin (Berlin),S,0.25,R,8,R,8,S,2
+SRR8737387,PRJNA526797,SAMN11110338,287,Pseudomonas aeruginosa,NA,CH2543,Charité Berlin (Berlin),R,512,R,16,R,32,S,4
+SRR8737388,PRJNA526797,SAMN11110365,287,Pseudomonas aeruginosa,NA,CH2707,Charité Berlin (Berlin),R,512,S,0.25,R,8,R,256
+SRR8737389,PRJNA526797,SAMN11110500,287,Pseudomonas aeruginosa,NA,ESP044,University Hospital Palma de Mallorca (Spain),S,2,S,0.5,I,4,S,2
+SRR8737390,PRJNA526797,SAMN11110493,287,Pseudomonas aeruginosa,NA,ESP035,University Hospital Palma de Mallorca (Spain),S,2,S,0.125,S,0.5,S,4
+SRR8737391,PRJNA526797,SAMN11110492,287,Pseudomonas aeruginosa,NA,ESP034,University Hospital Palma de Mallorca (Spain),S,2,S,0.125,S,0.5,S,2
+SRR8737392,PRJNA526797,SAMN11110530,287,Pseudomonas aeruginosa,NA,ESP084,University Hospital Palma de Mallorca (Spain),R,128,R,8,R,8,I,16
+SRR8737393,PRJNA526797,SAMN11110494,287,Pseudomonas aeruginosa,NA,ESP036,University Hospital Palma de Mallorca (Spain),S,1,S,0.125,S,0.5,S,2
+SRR8737394,PRJNA526797,SAMN11110497,287,Pseudomonas aeruginosa,NA,ESP039,University Hospital Palma de Mallorca (Spain),S,2,R,4,S,0.5,S,2
+SRR8737395,PRJNA526797,SAMN11110496,287,Pseudomonas aeruginosa,NA,ESP038,University Hospital Palma de Mallorca (Spain),S,1,I,2,S,0.5,S,1
+SRR8737396,PRJNA526797,SAMN11110499,287,Pseudomonas aeruginosa,NA,ESP043,University Hospital Palma de Mallorca (Spain),R,64,R,64,S,2,I,16
+SRR8737397,PRJNA526797,SAMN11110498,287,Pseudomonas aeruginosa,NA,ESP040,University Hospital Palma de Mallorca (Spain),I,8,R,64,S,0.125,S,0.5
+SRR8737398,PRJNA526797,SAMN11110532,287,Pseudomonas aeruginosa,NA,ESP091,University Hospital Palma de Mallorca (Spain),S,2,R,16,R,16,S,8
+SRR8737399,PRJNA526797,SAMN11110533,287,Pseudomonas aeruginosa,NA,F1659,University Hospital Frankfurt (Frankfurt),S,0.5,R,32,I,4,S,4
+SRR8737400,PRJNA526797,SAMN11110701,287,Pseudomonas aeruginosa,NA,PSAE1934,University of Freiburg (Bremen),S,0.5,S,1,R,32,S,8
+SRR8737401,PRJNA526797,SAMN11110700,287,Pseudomonas aeruginosa,NA,PSAE1912,University of Freiburg (Regensburg),S,0.125,I,2,R,16,S,8
+SRR8737402,PRJNA526797,SAMN11110536,287,Pseudomonas aeruginosa,NA,F1697,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737403,PRJNA526797,SAMN11110537,287,Pseudomonas aeruginosa,NA,F1706,University Hospital Frankfurt (Frankfurt),S,0.5,I,2,R,32,R,64
+SRR8737404,PRJNA526797,SAMN11110538,287,Pseudomonas aeruginosa,NA,F1712,University Hospital Frankfurt (Frankfurt),R,64,R,32,R,16,R,32
+SRR8737405,PRJNA526797,SAMN11110539,287,Pseudomonas aeruginosa,NA,F1724,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737406,PRJNA526797,SAMN11110695,287,Pseudomonas aeruginosa,NA,PSAE1742,University of Freiburg (Freiburg),S,0.5,R,32,R,32,S,8
+SRR8737407,PRJNA526797,SAMN11110694,287,Pseudomonas aeruginosa,NA,PSAE1656,University of Freiburg (Munich),S,0.5,S,0.5,S,2,S,0.5
+SRR8737408,PRJNA526797,SAMN11110693,287,Pseudomonas aeruginosa,NA,PSAE1654,University of Freiburg (Munich),S,2,I,2,I,4,S,1
+SRR8737409,PRJNA526797,SAMN11110692,287,Pseudomonas aeruginosa,NA,PSAE1651,University of Freiburg (Munich),S,1,I,2,I,4,S,1
+SRR8737410,PRJNA526797,SAMN11110699,287,Pseudomonas aeruginosa,NA,PSAE1903,University of Freiburg (Gera),S,4,R,4,S,1,S,2
+SRR8737411,PRJNA526797,SAMN11110698,287,Pseudomonas aeruginosa,NA,PSAE1872,University of Freiburg (Berlin),S,2,S,0.25,R,16,S,1
+SRR8737412,PRJNA526797,SAMN11110697,287,Pseudomonas aeruginosa,NA,PSAE1837,University of Freiburg (Gera),S,2,S,0.125,S,2,S,4
+SRR8737413,PRJNA526797,SAMN11110341,287,Pseudomonas aeruginosa,NA,CH2591,Charité Berlin (Berlin),R,1024,R,16,R,8,R,256
+SRR8737414,PRJNA526797,SAMN11110528,287,Pseudomonas aeruginosa,NA,ESP082,University Hospital Palma de Mallorca (Spain),R,64,R,256,R,8,I,16
+SRR8737415,PRJNA526797,SAMN11110529,287,Pseudomonas aeruginosa,NA,ESP083,University Hospital Palma de Mallorca (Spain),R,64,R,256,R,8,I,16
+SRR8737416,PRJNA526797,SAMN11110522,287,Pseudomonas aeruginosa,NA,ESP075,University Hospital Palma de Mallorca (Spain),S,0.25,R,4,I,4,I,16
+SRR8737417,PRJNA526797,SAMN11110523,287,Pseudomonas aeruginosa,NA,ESP076,University Hospital Palma de Mallorca (Spain),S,0.25,S,0.5,I,4,R,32
+SRR8737418,PRJNA526797,SAMN11110551,287,Pseudomonas aeruginosa,NA,F1760,University Hospital Frankfurt (Frankfurt),R,256,R,16,R,128,R,64
+SRR8737419,PRJNA526797,SAMN11110550,287,Pseudomonas aeruginosa,NA,F1759,University Hospital Frankfurt (Frankfurt),S,2,R,64,R,32,I,16
+SRR8737420,PRJNA526797,SAMN11110332,287,Pseudomonas aeruginosa,NA,CF592_Iso2,University Hospital Essen (Essen),S,2,S,0.125,I,4,R,128
+SRR8737421,PRJNA526797,SAMN11110333,287,Pseudomonas aeruginosa,NA,CF609_Iso3,University Hospital Essen (Essen),I,8,S,1,R,16,R,32
+SRR8737422,PRJNA526797,SAMN11110547,287,Pseudomonas aeruginosa,NA,F1754,University Hospital Frankfurt (Frankfurt),R,256,R,16,R,16,R,512
+SRR8737423,PRJNA526797,SAMN11110335,287,Pseudomonas aeruginosa,NA,CH2502,Charité Berlin (Berlin),S,4,I,2,R,64,I,16
+SRR8737424,PRJNA526797,SAMN11110336,287,Pseudomonas aeruginosa,NA,CH2522,Charité Berlin (Berlin),S,2,I,2,I,4,R,32
+SRR8737425,PRJNA526797,SAMN11110337,287,Pseudomonas aeruginosa,NA,CH2527,Charité Berlin (Berlin),S,0.5,S,0.25,S,2,S,4
+SRR8737426,PRJNA526797,SAMN11110543,287,Pseudomonas aeruginosa,NA,F1746,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737427,PRJNA526797,SAMN11110542,287,Pseudomonas aeruginosa,NA,F1745,University Hospital Frankfurt (Frankfurt),R,64,R,64,R,32,R,32
+SRR8737428,PRJNA526797,SAMN11110688,287,Pseudomonas aeruginosa,NA,PSAE1642,University of Freiburg (Munich),S,0.5,S,0.5,S,2,S,0.5
+SRR8737429,PRJNA526797,SAMN11110689,287,Pseudomonas aeruginosa,NA,PSAE1645,University of Freiburg (Munich),S,0.5,I,2,R,16,S,4
+SRR8737430,PRJNA526797,SAMN11110421,287,Pseudomonas aeruginosa,NA,CH4745,Charité Berlin (Berlin),R,1024,R,32,R,8,R,64
+SRR8737431,PRJNA526797,SAMN11110420,287,Pseudomonas aeruginosa,NA,CH4733,Charité Berlin (Berlin),S,1,S,1,S,0.5,S,2
+SRR8737432,PRJNA526797,SAMN11110684,287,Pseudomonas aeruginosa,NA,PSAE1439,University of Freiburg (Stuttgart),S,2,R,4,R,8,S,2
+SRR8737433,PRJNA526797,SAMN11110685,287,Pseudomonas aeruginosa,NA,PSAE1630,University of Freiburg (Gera),S,2,I,2,I,4,S,1
+SRR8737434,PRJNA526797,SAMN11110682,287,Pseudomonas aeruginosa,NA,PSAE1401,University of Freiburg (Stuttgart),S,0.25,S,1,I,4,S,1
+SRR8737435,PRJNA526797,SAMN11110683,287,Pseudomonas aeruginosa,NA,PSAE1438,University of Freiburg (Stuttgart),S,4,R,4,R,8,S,2
+SRR8737436,PRJNA526797,SAMN11110415,287,Pseudomonas aeruginosa,NA,CH4634,Charité Berlin (Berlin),S,1,R,16,R,32,S,8
+SRR8737437,PRJNA526797,SAMN11110645,287,Pseudomonas aeruginosa,NA,MHH14929,Hannover Medical School (Hanover),S,0.25,I,2,R,16,S,2
+SRR8737438,PRJNA526797,SAMN11110642,287,Pseudomonas aeruginosa,NA,MHH0927,Hannover Medical School (Hanover),S,0.5,S,0.5,S,0.125,S,1
+SRR8737439,PRJNA526797,SAMN11110643,287,Pseudomonas aeruginosa,NA,MHH0985,Hannover Medical School (Hanover),I,8,I,2,R,8,R,128
+SRR8737440,PRJNA526797,SAMN11110648,287,Pseudomonas aeruginosa,NA,MHH15083,Hannover Medical School (Hanover),R,256,R,16,I,4,R,32
+SRR8737441,PRJNA526797,SAMN11110649,287,Pseudomonas aeruginosa,NA,MHH15103,Hannover Medical School (Hanover),S,0.5,I,2,R,16,R,32
+SRR8737442,PRJNA526797,SAMN11110646,287,Pseudomonas aeruginosa,NA,MHH14990,Hannover Medical School (Hanover),S,0.25,S,0.5,S,1,I,16
+SRR8737443,PRJNA526797,SAMN11110647,287,Pseudomonas aeruginosa,NA,MHH15015,Hannover Medical School (Hanover),S,1,S,0.25,S,2,S,2
+SRR8737444,PRJNA526797,SAMN11110397,287,Pseudomonas aeruginosa,NA,CH4035,Charité Berlin (Berlin),R,512,R,4,I,4,R,128
+SRR8737445,PRJNA526797,SAMN11110396,287,Pseudomonas aeruginosa,NA,CH3906,Charité Berlin (Berlin),S,2,S,0.5,S,2,S,8
+SRR8737446,PRJNA526797,SAMN11110399,287,Pseudomonas aeruginosa,NA,CH4411,Charité Berlin (Berlin),R,256,R,8,S,1,R,64
+SRR8737447,PRJNA526797,SAMN11110398,287,Pseudomonas aeruginosa,NA,CH4083,Charité Berlin (Berlin),S,1,S,1,R,32,I,16
+SRR8737448,PRJNA526797,SAMN11110393,287,Pseudomonas aeruginosa,NA,CH3648,Charité Berlin (Berlin),R,64,R,16,S,2,R,128
+SRR8737449,PRJNA526797,SAMN11110392,287,Pseudomonas aeruginosa,NA,CH3613,Charité Berlin (Berlin),R,128,R,16,R,64,R,32
+SRR8737450,PRJNA526797,SAMN11110395,287,Pseudomonas aeruginosa,NA,CH3882,Charité Berlin (Berlin),S,1,R,4,I,4,S,8
+SRR8737451,PRJNA526797,SAMN11110394,287,Pseudomonas aeruginosa,NA,CH3797,Charité Berlin (Berlin),S,2,R,16,R,64,I,16
+SRR8737452,PRJNA526797,SAMN11110401,287,Pseudomonas aeruginosa,NA,CH4433,Charité Berlin (Berlin),R,512,R,8,S,1,R,128
+SRR8737453,PRJNA526797,SAMN11110400,287,Pseudomonas aeruginosa,NA,CH4418,Charité Berlin (Berlin),S,0.5,S,0.25,S,1,I,16
+SRR8737454,PRJNA526797,SAMN11110481,287,Pseudomonas aeruginosa,NA,ESP021,University Hospital Palma de Mallorca (Spain),S,1,S,0.125,S,0.25,S,2
+SRR8737455,PRJNA526797,SAMN11110480,287,Pseudomonas aeruginosa,NA,ESP020,University Hospital Palma de Mallorca (Spain),S,1,S,0.125,S,0.25,S,2
+SRR8737456,PRJNA526797,SAMN11110479,287,Pseudomonas aeruginosa,NA,ESP015,University Hospital Palma de Mallorca (Spain),S,4,S,0.5,S,0.25,S,4
+SRR8737457,PRJNA526797,SAMN11110478,287,Pseudomonas aeruginosa,NA,ESP013,University Hospital Palma de Mallorca (Spain),R,16,S,1,S,0.25,S,8
+SRR8737458,PRJNA526797,SAMN11110477,287,Pseudomonas aeruginosa,NA,ESP012,University Hospital Palma de Mallorca (Spain),R,64,S,1,S,0.5,R,256
+SRR8737459,PRJNA526797,SAMN11110476,287,Pseudomonas aeruginosa,NA,ESP011,University Hospital Palma de Mallorca (Spain),S,0.25,S,0.5,S,0.5,S,1
+SRR8737460,PRJNA526797,SAMN11110475,287,Pseudomonas aeruginosa,ftp.sra.ebi.ac.uk/vol1/run/SRR873/SRR8737460/ESP009.bam;ftp.sra.ebi.ac.uk/vol1/run/SRR873/SRR8737460/ESP009.bam.bai,ESP009,University Hospital Palma de Mallorca (Spain),S,2,I,2,S,1,S,8
+SRR8737461,PRJNA526797,SAMN11110625,287,Pseudomonas aeruginosa,NA,M70565897,University Hospital Muenster (Muenster),S,1,I,2,R,8,R,128
+SRR8737462,PRJNA526797,SAMN11110624,287,Pseudomonas aeruginosa,NA,M70565254,University Hospital Muenster (Muenster),S,1,S,0.5,R,16,R,32
+SRR8737463,PRJNA526797,SAMN11110623,287,Pseudomonas aeruginosa,NA,M70564993,University Hospital Muenster (Muenster),S,0.5,I,2,R,32,I,16
+SRR8737464,PRJNA526797,SAMN11110622,287,Pseudomonas aeruginosa,NA,M70563004,University Hospital Muenster (Muenster),S,1,S,1,R,32,R,128
+SRR8737465,PRJNA526797,SAMN11110631,287,Pseudomonas aeruginosa,NA,M70640096,University Hospital Muenster (Muenster),S,0.25,S,0.25,R,16,S,4
+SRR8737466,PRJNA526797,SAMN11110630,287,Pseudomonas aeruginosa,NA,M70639645,University Hospital Muenster (Muenster),S,2,S,1,R,16,I,16
+SRR8737467,PRJNA526797,SAMN11110364,287,Pseudomonas aeruginosa,NA,CH2706,Charité Berlin (Berlin),R,256,R,32,R,256,R,512
+SRR8737468,PRJNA526797,SAMN11110603,287,Pseudomonas aeruginosa,NA,F2097,University Hospital Frankfurt (Frankfurt),R,256,R,32,R,512,R,1024
+SRR8737469,PRJNA526797,SAMN11110711,287,Pseudomonas aeruginosa,NA,Vb3320,University Hospital Essen (Essen),S,0.5,I,2,R,16,R,64
+SRR8737470,PRJNA526797,SAMN11110513,287,Pseudomonas aeruginosa,NA,ESP066,University Hospital Palma de Mallorca (Spain),S,4,R,32,I,4,S,4
+SRR8737471,PRJNA526797,SAMN11110512,287,Pseudomonas aeruginosa,NA,ESP064,University Hospital Palma de Mallorca (Spain),R,256,R,32,R,64,R,128
+SRR8737472,PRJNA526797,SAMN11110366,287,Pseudomonas aeruginosa,NA,CH2713,Charité Berlin (Berlin),S,1,S,1,R,16,S,8
+SRR8737473,PRJNA526797,SAMN11110702,287,Pseudomonas aeruginosa,NA,PSAE1970,University of Freiburg (Regensburg),S,0.25,I,2,I,4,S,4
+SRR8737474,PRJNA526797,SAMN11110515,287,Pseudomonas aeruginosa,NA,ESP068,University Hospital Palma de Mallorca (Spain),R,128,R,32,R,128,R,64
+SRR8737475,PRJNA526797,SAMN11110514,287,Pseudomonas aeruginosa,NA,ESP067,University Hospital Palma de Mallorca (Spain),S,1,S,0.25,R,8,S,8
+SRR8737476,PRJNA526797,SAMN11110560,287,Pseudomonas aeruginosa,NA,F1800,University Hospital Frankfurt (Frankfurt),S,0.25,S,1,I,4,I,16
+SRR8737477,PRJNA526797,SAMN11110561,287,Pseudomonas aeruginosa,NA,F1801,University Hospital Frankfurt (Frankfurt),S,0.5,R,16,R,8,R,32
+SRR8737478,PRJNA526797,SAMN11110519,287,Pseudomonas aeruginosa,NA,ESP072,University Hospital Palma de Mallorca (Spain),S,1,S,0.5,R,32,R,32
+SRR8737479,PRJNA526797,SAMN11110518,287,Pseudomonas aeruginosa,NA,ESP071,University Hospital Palma de Mallorca (Spain),I,8,R,32,I,4,S,8
+SRR8737480,PRJNA526797,SAMN11110517,287,Pseudomonas aeruginosa,NA,ESP070,University Hospital Palma de Mallorca (Spain),S,4,R,16,R,8,R,64
+SRR8737481,PRJNA526797,SAMN11110516,287,Pseudomonas aeruginosa,NA,ESP069,University Hospital Palma de Mallorca (Spain),R,128,R,64,R,64,R,64
+SRR8737482,PRJNA526797,SAMN11110554,287,Pseudomonas aeruginosa,NA,F1775,University Hospital Frankfurt (Frankfurt),S,0.5,R,16,R,16,R,64
+SRR8737483,PRJNA526797,SAMN11110555,287,Pseudomonas aeruginosa,NA,F1787,University Hospital Frankfurt (Frankfurt),R,64,R,32,R,16,R,32
+SRR8737484,PRJNA526797,SAMN11110552,287,Pseudomonas aeruginosa,NA,F1763,University Hospital Frankfurt (Frankfurt),R,512,R,16,S,1,R,64
+SRR8737485,PRJNA526797,SAMN11110464,287,Pseudomonas aeruginosa,NA,CH5596,Charité Berlin (Berlin),S,1,S,0.5,R,16,S,8
+SRR8737486,PRJNA526797,SAMN11110465,287,Pseudomonas aeruginosa,NA,CH5597,Charité Berlin (Berlin),S,1,S,1,R,32,I,16
+SRR8737487,PRJNA526797,SAMN11110462,287,Pseudomonas aeruginosa,NA,CH5551,Charité Berlin (Berlin),R,256,R,16,R,16,I,16
+SRR8737488,PRJNA526797,SAMN11110463,287,Pseudomonas aeruginosa,NA,CH5591,Charité Berlin (Berlin),R,64,R,16,R,8,R,512
+SRR8737489,PRJNA526797,SAMN11110424,287,Pseudomonas aeruginosa,NA,CH4766,Charité Berlin (Berlin),S,1,I,2,R,32,R,128
+SRR8737490,PRJNA526797,SAMN11110425,287,Pseudomonas aeruginosa,NA,CH4780,Charité Berlin (Berlin),S,2,R,32,R,8,R,64
+SRR8737491,PRJNA526797,SAMN11110471,287,Pseudomonas aeruginosa,NA,ESP002,University Hospital Palma de Mallorca (Spain),S,2,S,0.5,S,0.125,R,64
+SRR8737492,PRJNA526797,SAMN11110361,287,Pseudomonas aeruginosa,NA,CH2698,Charité Berlin (Berlin),R,64,R,8,R,8,S,4
+SRR8737493,PRJNA526797,SAMN11110360,287,Pseudomonas aeruginosa,NA,CH2690,Charité Berlin (Berlin),S,2,S,1,S,1,S,8
+SRR8737494,PRJNA526797,SAMN11110353,287,Pseudomonas aeruginosa,NA,CH2675,Charité Berlin (Berlin),R,1024,R,32,R,128,I,16
+SRR8737495,PRJNA526797,SAMN11110352,287,Pseudomonas aeruginosa,NA,CH2674,Charité Berlin (Berlin),R,256,R,64,R,16,I,16
+SRR8737496,PRJNA526797,SAMN11110355,287,Pseudomonas aeruginosa,NA,CH2678,Charité Berlin (Berlin),S,4,R,16,S,0.125,S,8
+SRR8737497,PRJNA526797,SAMN11110354,287,Pseudomonas aeruginosa,NA,CH2677,Charité Berlin (Berlin),S,0.25,R,64,R,8,S,8
+SRR8737498,PRJNA526797,SAMN11110357,287,Pseudomonas aeruginosa,NA,CH2682,Charité Berlin (Berlin),S,2,S,0.5,R,32,I,16
+SRR8737499,PRJNA526797,SAMN11110356,287,Pseudomonas aeruginosa,NA,CH2680,Charité Berlin (Berlin),S,1,S,1,S,1,I,16
+SRR8737500,PRJNA526797,SAMN11110359,287,Pseudomonas aeruginosa,NA,CH2687,Charité Berlin (Berlin),S,1,R,16,R,16,S,4
+SRR8737501,PRJNA526797,SAMN11110358,287,Pseudomonas aeruginosa,NA,CH2685,Charité Berlin (Berlin),S,2,S,0.5,R,16,S,8
+SRR8737502,PRJNA526797,SAMN11110430,287,Pseudomonas aeruginosa,NA,CH4877,Charité Berlin (Berlin),R,256,R,16,R,16,R,512
+SRR8737503,PRJNA526797,SAMN11110431,287,Pseudomonas aeruginosa,NA,CH4878,Charité Berlin (Berlin),S,0.5,S,1,I,4,R,64
+SRR8737504,PRJNA526797,SAMN11110724,287,Pseudomonas aeruginosa,NA,ZG302383,Private practice laboratory (Goerlitz),S,0.5,S,1,S,0.25,S,1
+SRR8737505,PRJNA526797,SAMN11110725,287,Pseudomonas aeruginosa,NA,ZG302431,Private practice laboratory (Goerlitz),S,1,S,0.125,S,0.25,S,2
+SRR8737506,PRJNA526797,SAMN11110722,287,Pseudomonas aeruginosa,NA,ZG302368,Private practice laboratory (Goerlitz),S,0.5,S,0.06,S,0.5,S,2
+SRR8737507,PRJNA526797,SAMN11110723,287,Pseudomonas aeruginosa,NA,ZG302370,Private practice laboratory (Goerlitz),S,1,R,32,S,1,S,1
+SRR8737508,PRJNA526797,SAMN11110728,287,Pseudomonas aeruginosa,NA,ZG302451,Private practice laboratory (Goerlitz),S,1,S,0.125,S,0.25,S,1
+SRR8737509,PRJNA526797,SAMN11110653,287,Pseudomonas aeruginosa,NA,MHH1525,Hannover Medical School (Hanover),R,128,R,4,I,4,R,32
+SRR8737510,PRJNA526797,SAMN11110652,287,Pseudomonas aeruginosa,NA,MHH15204,Hannover Medical School (Hanover),S,0.5,I,2,R,8,S,8
+SRR8737511,PRJNA526797,SAMN11110390,287,Pseudomonas aeruginosa,NA,CH3549,Charité Berlin (Berlin),S,0.5,S,1,I,4,S,8
+SRR8737512,PRJNA526797,SAMN11110391,287,Pseudomonas aeruginosa,NA,CH3570,Charité Berlin (Berlin),R,128,R,64,S,2,R,32
+SRR8737513,PRJNA526797,SAMN11110382,287,Pseudomonas aeruginosa,NA,CH2939,Charité Berlin (Berlin),S,2,S,0.125,S,0.25,S,3
+SRR8737514,PRJNA526797,SAMN11110383,287,Pseudomonas aeruginosa,NA,CH3173,Charité Berlin (Berlin),R,1024,R,32,S,1,R,128
+SRR8737515,PRJNA526797,SAMN11110384,287,Pseudomonas aeruginosa,NA,CH3177,Charité Berlin (Berlin),S,0.25,S,0.25,R,8,S,2
+SRR8737516,PRJNA526797,SAMN11110385,287,Pseudomonas aeruginosa,NA,CH3290,Charité Berlin (Berlin),R,32,R,8,R,16,I,16
+SRR8737517,PRJNA526797,SAMN11110386,287,Pseudomonas aeruginosa,NA,CH3325,Charité Berlin (Berlin),S,0.25,S,0.5,R,8,R,32
+SRR8737518,PRJNA526797,SAMN11110387,287,Pseudomonas aeruginosa,NA,CH3462,Charité Berlin (Berlin),S,0.5,S,0.125,R,8,S,8
+SRR8737519,PRJNA526797,SAMN11110388,287,Pseudomonas aeruginosa,NA,CH3466,Charité Berlin (Berlin),S,0.5,R,4,R,16,I,16
+SRR8737520,PRJNA526797,SAMN11110389,287,Pseudomonas aeruginosa,NA,CH3484,Charité Berlin (Berlin),S,0.25,I,2,R,8,S,8
+SRR8737521,PRJNA526797,SAMN11110484,287,Pseudomonas aeruginosa,NA,ESP024,University Hospital Palma de Mallorca (Spain),S,1,S,0.125,S,0.125,S,1
+SRR8737522,PRJNA526797,SAMN11110485,287,Pseudomonas aeruginosa,NA,ESP025,University Hospital Palma de Mallorca (Spain),R,16,S,0.5,R,8,R,64
+SRR8737523,PRJNA526797,SAMN11110482,287,Pseudomonas aeruginosa,NA,ESP022,University Hospital Palma de Mallorca (Spain),S,0.5,S,0.125,S,1,S,2
+SRR8737524,PRJNA526797,SAMN11110483,287,Pseudomonas aeruginosa,NA,ESP023,University Hospital Palma de Mallorca (Spain),S,2,I,2,R,8,R,32
+SRR8737525,PRJNA526797,SAMN11110591,287,Pseudomonas aeruginosa,NA,F2045,University Hospital Frankfurt (Frankfurt),R,256,R,4,R,128,R,128
+SRR8737526,PRJNA526797,SAMN11110590,287,Pseudomonas aeruginosa,NA,F2044,University Hospital Frankfurt (Frankfurt),S,1,I,2,R,16,S,4
+SRR8737527,PRJNA526797,SAMN11110486,287,Pseudomonas aeruginosa,NA,ESP027,University Hospital Palma de Mallorca (Spain),S,2,S,1,S,0.25,R,32
+SRR8737528,PRJNA526797,SAMN11110487,287,Pseudomonas aeruginosa,NA,ESP028,University Hospital Palma de Mallorca (Spain),S,2,S,0.125,S,0.25,S,4
+SRR8737529,PRJNA526797,SAMN11110488,287,Pseudomonas aeruginosa,NA,ESP029,University Hospital Palma de Mallorca (Spain),S,2,S,0.25,S,0.25,S,4
+SRR8737530,PRJNA526797,SAMN11110489,287,Pseudomonas aeruginosa,NA,ESP031,University Hospital Palma de Mallorca (Spain),S,1,S,0.125,S,0.5,S,2
+SRR8737531,PRJNA526797,SAMN11110585,287,Pseudomonas aeruginosa,NA,F2029,University Hospital Frankfurt (Frankfurt),S,0.5,S,1,R,8,I,16
+SRR8737532,PRJNA526797,SAMN11110584,287,Pseudomonas aeruginosa,NA,F2020,University Hospital Frankfurt (Frankfurt),S,0.5,R,16,R,32,R,64
+SRR8737533,PRJNA526797,SAMN11110343,287,Pseudomonas aeruginosa,NA,CH2598,Charité Berlin (Berlin),S,1,S,0.25,R,8,S,2
+SRR8737534,PRJNA526797,SAMN11110344,287,Pseudomonas aeruginosa,NA,CH2608,Charité Berlin (Berlin),R,1024,R,16,R,8,R,32
+SRR8737535,PRJNA526797,SAMN11110345,287,Pseudomonas aeruginosa,NA,CH2623,Charité Berlin (Berlin),R,256,R,16,R,16,I,16
+SRR8737536,PRJNA526797,SAMN11110709,287,Pseudomonas aeruginosa,NA,PSAE2325,University of Freiburg (Neubrandenburg),S,1,S,0.5,R,32,S,8
+SRR8737537,PRJNA526797,SAMN11110611,287,Pseudomonas aeruginosa,NA,F2167,University Hospital Frankfurt (Frankfurt),R,256,R,64,R,512,R,1024
+SRR8737538,PRJNA526797,SAMN11110610,287,Pseudomonas aeruginosa,NA,F2166,University Hospital Frankfurt (Frankfurt),S,2,R,64,R,64,R,128
+SRR8737539,PRJNA526797,SAMN11110704,287,Pseudomonas aeruginosa,NA,PSAE1984,University of Freiburg (Bremen),S,2,S,0.25,I,4,S,1
+SRR8737540,PRJNA526797,SAMN11110705,287,Pseudomonas aeruginosa,NA,PSAE2125,University of Freiburg (Neubrandenburg),S,0.5,S,0.06,R,8,I,16
+SRR8737541,PRJNA526797,SAMN11110738,287,Pseudomonas aeruginosa,NA,ZG5021922,Private practice laboratory (Leipzig),R,128,R,32,R,256,R,512
+SRR8737542,PRJNA526797,SAMN11110739,287,Pseudomonas aeruginosa,NA,ZG5048010,Private practice laboratory (Leipzig),R,128,R,8,R,256,R,64
+SRR8737543,PRJNA526797,SAMN11110736,287,Pseudomonas aeruginosa,NA,ZG322541,Private practice laboratory (Zwickau),R,512,R,64,R,64,R,32
+SRR8737544,PRJNA526797,SAMN11110737,287,Pseudomonas aeruginosa,NA,ZG5003493,Private practice laboratory (Leipzig),S,4,I,2,R,8,S,4
+SRR8737545,PRJNA526797,SAMN11110734,287,Pseudomonas aeruginosa,NA,ZG316716,Private practice laboratory (Goerlitz),S,1,S,0.125,S,0.25,S,2
+SRR8737546,PRJNA526797,SAMN11110735,287,Pseudomonas aeruginosa,NA,ZG316722,Private practice laboratory (Goerlitz),S,1,S,0.125,S,1,S,4
+SRR8737547,PRJNA526797,SAMN11110732,287,Pseudomonas aeruginosa,NA,ZG316694,Private practice laboratory (Goerlitz),S,1,S,0.25,S,0.5,S,2
+SRR8737548,PRJNA526797,SAMN11110733,287,Pseudomonas aeruginosa,NA,ZG316704,Private practice laboratory (Goerlitz),S,1,S,0.125,S,1,S,4
+SRR8737549,PRJNA526797,SAMN11110525,287,Pseudomonas aeruginosa,NA,ESP078,University Hospital Palma de Mallorca (Spain),R,256,R,128,R,64,R,64
+SRR8737550,PRJNA526797,SAMN11110740,287,Pseudomonas aeruginosa,ftp.sra.ebi.ac.uk/vol1/run/SRR873/SRR8737550/ZG5051896.bam;ftp.sra.ebi.ac.uk/vol1/run/SRR873/SRR8737550/ZG5051896.bam.bai,ZG5051896,Private practice laboratory (Leipzig),R,1024,R,32,R,32,R,64
+SRR8737551,PRJNA526797,SAMN11110741,287,Pseudomonas aeruginosa,NA,ZG5089456,Private practice laboratory (Leipzig),R,128,R,64,R,64,R,32
+SRR8737552,PRJNA526797,SAMN11110461,287,Pseudomonas aeruginosa,NA,CH5550,Charité Berlin (Berlin),S,4,R,4,R,8,S,8
+SRR8737553,PRJNA526797,SAMN11110470,287,Pseudomonas aeruginosa,NA,CH5695,Charité Berlin (Berlin),R,1024,R,32,R,8,R,256
+SRR8737554,PRJNA526797,SAMN11110526,287,Pseudomonas aeruginosa,NA,ESP079,University Hospital Palma de Mallorca (Spain),R,64,R,256,R,16,I,16
+SRR8737555,PRJNA526797,SAMN11110571,287,Pseudomonas aeruginosa,NA,F1883,University Hospital Frankfurt (Frankfurt),S,2,R,4,R,16,I,16
+SRR8737556,PRJNA526797,SAMN11110570,287,Pseudomonas aeruginosa,NA,F1880,University Hospital Frankfurt (Frankfurt),S,4,I,2,R,16,S,8
+SRR8737557,PRJNA526797,SAMN11110563,287,Pseudomonas aeruginosa,NA,F1812,University Hospital Frankfurt (Frankfurt),R,512,R,16,I,4,S,2
+SRR8737558,PRJNA526797,SAMN11110562,287,Pseudomonas aeruginosa,NA,F1810,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737559,PRJNA526797,SAMN11110565,287,Pseudomonas aeruginosa,NA,F1823,University Hospital Frankfurt (Frankfurt),S,0.5,I,2,R,16,I,16
+SRR8737560,PRJNA526797,SAMN11110414,287,Pseudomonas aeruginosa,NA,CH4602,Charité Berlin (Berlin),S,0.25,S,1,S,0.25,S,1
+SRR8737561,PRJNA526797,SAMN11110413,287,Pseudomonas aeruginosa,NA,CH4591,Charité Berlin (Berlin),S,0.5,I,2,I,4,S,1
+SRR8737562,PRJNA526797,SAMN11110412,287,Pseudomonas aeruginosa,NA,CH4584,Charité Berlin (Berlin),I,8,R,64,R,16,R,32
+SRR8737563,PRJNA526797,SAMN11110419,287,Pseudomonas aeruginosa,NA,CH4704,Charité Berlin (Berlin),S,2,S,0.5,R,8,R,32
+SRR8737564,PRJNA526797,SAMN11110418,287,Pseudomonas aeruginosa,NA,CH4703,Charité Berlin (Berlin),S,4,I,2,R,8,R,256
+SRR8737565,PRJNA526797,SAMN11110417,287,Pseudomonas aeruginosa,NA,CH4684,Charité Berlin (Berlin),S,1,S,1,S,0.5,I,16
+SRR8737566,PRJNA526797,SAMN11110416,287,Pseudomonas aeruginosa,NA,CH4681,Charité Berlin (Berlin),S,0.125,S,0.06,S,1,R,32
+SRR8737567,PRJNA526797,SAMN11110441,287,Pseudomonas aeruginosa,NA,CH5174,Charité Berlin (Berlin),R,256,R,64,R,128,R,1024
+SRR8737568,PRJNA526797,SAMN11110440,287,Pseudomonas aeruginosa,NA,CH5159,Charité Berlin (Berlin),R,1024,R,32,S,1,R,128
+SRR8737569,PRJNA526797,SAMN11110435,287,Pseudomonas aeruginosa,NA,CH4990,Charité Berlin (Berlin),S,1,S,0.5,R,16,I,16
+SRR8737570,PRJNA526797,SAMN11110434,287,Pseudomonas aeruginosa,NA,CH4916,Charité Berlin (Berlin),S,0.25,S,0.125,R,16,R,32
+SRR8737571,PRJNA526797,SAMN11110433,287,Pseudomonas aeruginosa,NA,CH4914,Charité Berlin (Berlin),S,0.25,S,1,S,0.25,S,1
+SRR8737572,PRJNA526797,SAMN11110432,287,Pseudomonas aeruginosa,NA,CH4891,Charité Berlin (Berlin),S,1,S,0.5,S,1,S,8
+SRR8737573,PRJNA526797,SAMN11110439,287,Pseudomonas aeruginosa,NA,CH5066,Charité Berlin (Berlin),S,1,S,0.5,S,1,R,32
+SRR8737574,PRJNA526797,SAMN11110438,287,Pseudomonas aeruginosa,NA,CH5052,Charité Berlin (Berlin),R,16,R,4,I,4,S,1
+SRR8737575,PRJNA526797,SAMN11110437,287,Pseudomonas aeruginosa,NA,CH5022,Charité Berlin (Berlin),R,1024,R,16,R,128,I,16
+SRR8737576,PRJNA526797,SAMN11110436,287,Pseudomonas aeruginosa,NA,CH4992,Charité Berlin (Berlin),S,0.5,R,16,I,4,S,8
+SRR8737577,PRJNA526797,SAMN11110350,287,Pseudomonas aeruginosa,NA,CH2665,Charité Berlin (Berlin),R,512,R,128,R,64,R,512
+SRR8737578,PRJNA526797,SAMN11110351,287,Pseudomonas aeruginosa,NA,CH2672,Charité Berlin (Berlin),S,0.125,R,16,R,8,S,2
+SRR8737579,PRJNA526797,SAMN11110346,287,Pseudomonas aeruginosa,NA,CH2639,Charité Berlin (Berlin),R,1024,R,32,R,8,R,128
+SRR8737580,PRJNA526797,SAMN11110347,287,Pseudomonas aeruginosa,NA,CH2657,Charité Berlin (Berlin),R,256,R,8,R,64,S,4
+SRR8737581,PRJNA526797,SAMN11110348,287,Pseudomonas aeruginosa,NA,CH2658,Charité Berlin (Berlin),S,1,R,8,R,8,I,16
+SRR8737582,PRJNA526797,SAMN11110349,287,Pseudomonas aeruginosa,NA,CH2660,Charité Berlin (Berlin),S,0.25,S,1,R,8,R,64
+SRR8737583,PRJNA526797,SAMN11110342,287,Pseudomonas aeruginosa,NA,CH2597,Charité Berlin (Berlin),S,1,I,2,S,1,I,16
+SRR8737584,PRJNA526797,SAMN11110474,287,Pseudomonas aeruginosa,NA,ESP006,University Hospital Palma de Mallorca (Spain),R,16,S,1,S,0.125,S,2
+SRR8737585,PRJNA526797,SAMN11110473,287,Pseudomonas aeruginosa,NA,ESP004,University Hospital Palma de Mallorca (Spain),R,128,S,0.25,S,2,S,2
+SRR8737586,PRJNA526797,SAMN11110472,287,Pseudomonas aeruginosa,NA,ESP003,University Hospital Palma de Mallorca (Spain),S,2,S,0.125,S,0.125,S,1
+SRR8737587,PRJNA526797,SAMN11110598,287,Pseudomonas aeruginosa,NA,F2073,University Hospital Frankfurt (Frankfurt),R,64,R,32,R,64,R,128
+SRR8737588,PRJNA526797,SAMN11110599,287,Pseudomonas aeruginosa,NA,F2075,University Hospital Frankfurt (Frankfurt),S,1,R,4,I,4,R,32
+SRR8737589,PRJNA526797,SAMN11110596,287,Pseudomonas aeruginosa,NA,F2064,University Hospital Frankfurt (Frankfurt),R,256,R,32,R,512,R,1024
+SRR8737590,PRJNA526797,SAMN11110597,287,Pseudomonas aeruginosa,NA,F2065,University Hospital Frankfurt (Frankfurt),S,0.5,I,2,R,8,I,16
+SRR8737591,PRJNA526797,SAMN11110594,287,Pseudomonas aeruginosa,NA,F2056,University Hospital Frankfurt (Frankfurt),R,64,R,32,R,8,I,16
+SRR8737592,PRJNA526797,SAMN11110595,287,Pseudomonas aeruginosa,NA,F2059,University Hospital Frankfurt (Frankfurt),R,64,R,32,R,16,I,16
+SRR8737593,PRJNA526797,SAMN11110592,287,Pseudomonas aeruginosa,NA,F2054,University Hospital Frankfurt (Frankfurt),R,1024,R,64,R,512,R,128
+SRR8737594,PRJNA526797,SAMN11110593,287,Pseudomonas aeruginosa,NA,F2055,University Hospital Frankfurt (Frankfurt),R,64,R,8,R,16,R,128
+SRR8737595,PRJNA526797,SAMN11110600,287,Pseudomonas aeruginosa,NA,F2081,University Hospital Frankfurt (Frankfurt),S,0.5,I,2,R,8,I,16
+SRR8737596,PRJNA526797,SAMN11110601,287,Pseudomonas aeruginosa,NA,F2084,University Hospital Frankfurt (Frankfurt),S,0.5,S,1,I,4,I,16
+SRR8737597,PRJNA526797,SAMN11110457,287,Pseudomonas aeruginosa,NA,CH5478,Charité Berlin (Berlin),S,0.5,S,0.25,R,16,I,16
+SRR8737598,PRJNA526797,SAMN11110453,287,Pseudomonas aeruginosa,NA,CH5387,Charité Berlin (Berlin),S,0.5,S,1,R,8,I,16
+SRR8737599,PRJNA526797,SAMN11110452,287,Pseudomonas aeruginosa,NA,CH5363,Charité Berlin (Berlin),S,0.25,S,0.25,R,8,R,128
+SRR8737600,PRJNA526797,SAMN11110455,287,Pseudomonas aeruginosa,NA,CH5462,Charité Berlin (Berlin),S,0.5,S,0.5,R,8,R,64
+SRR8737601,PRJNA526797,SAMN11110572,287,Pseudomonas aeruginosa,NA,F1894,University Hospital Frankfurt (Frankfurt),S,0.25,I,2,R,8,R,32
+SRR8737602,PRJNA526797,SAMN11110460,287,Pseudomonas aeruginosa,NA,CH5548,Charité Berlin (Berlin),S,2,I,2,R,32,I,16
+SRR8737603,PRJNA526797,SAMN11110370,287,Pseudomonas aeruginosa,NA,CH2734,Charité Berlin (Berlin),S,2,R,4,S,0.25,I,16
+SRR8737604,PRJNA526797,SAMN11110629,287,Pseudomonas aeruginosa,NA,M70638412,University Hospital Muenster (Muenster),R,64,R,16,R,32,R,64
+SRR8737605,PRJNA526797,SAMN11110628,287,Pseudomonas aeruginosa,NA,M70635118,University Hospital Muenster (Muenster),R,256,R,8,R,16,I,16
+SRR8737606,PRJNA526797,SAMN11110627,287,Pseudomonas aeruginosa,NA,M70608424,University Hospital Muenster (Muenster),S,1,R,128,R,32,I,16
+SRR8737607,PRJNA526797,SAMN11110626,287,Pseudomonas aeruginosa,NA,M70604538,University Hospital Muenster (Muenster),S,1,R,128,R,128,I,16
+SRR8737608,PRJNA526797,SAMN11110553,287,Pseudomonas aeruginosa,NA,F1764,University Hospital Frankfurt (Frankfurt),S,4,I,2,R,16,R,128
+SRR8737609,PRJNA526797,SAMN11110558,287,Pseudomonas aeruginosa,NA,F1796,University Hospital Frankfurt (Frankfurt),R,32,R,32,R,8,I,16
+SRR8737610,PRJNA526797,SAMN11110559,287,Pseudomonas aeruginosa,NA,F1798,University Hospital Frankfurt (Frankfurt),R,32,R,32,R,8,I,16
+SRR8737611,PRJNA526797,SAMN11110556,287,Pseudomonas aeruginosa,NA,F1789,University Hospital Frankfurt (Frankfurt),R,1024,R,32,R,512,R,128
+SRR8737612,PRJNA526797,SAMN11110557,287,Pseudomonas aeruginosa,NA,F1795,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737613,PRJNA526797,SAMN11110677,287,Pseudomonas aeruginosa,NA,MHH1883,Hannover Medical School (Hanover),S,1,S,0.125,S,≤0.125,I,16
+SRR8737614,PRJNA526797,SAMN11110676,287,Pseudomonas aeruginosa,NA,MHH17783,Hannover Medical School (Hanover),S,1,S,0.125,R,256,R,128
+SRR8737615,PRJNA526797,SAMN11110679,287,Pseudomonas aeruginosa,NA,MS1,University Hospital Muenster (Muenster),S,0.5,S,1,S,≤0.5,S,1
+SRR8737616,PRJNA526797,SAMN11110678,287,Pseudomonas aeruginosa,NA,MHH2419,Hannover Medical School (Hanover),S,4,S,1,S,0.5,S,8
+SRR8737617,PRJNA526797,SAMN11110673,287,Pseudomonas aeruginosa,NA,MHH17501,Hannover Medical School (Hanover),S,1,I,2,R,8,R,128
+SRR8737618,PRJNA526797,SAMN11110423,287,Pseudomonas aeruginosa,NA,CH4757,Charité Berlin (Berlin),S,1,S,1,R,64,R,64
+SRR8737619,PRJNA526797,SAMN11110675,287,Pseudomonas aeruginosa,NA,MHH17767,Hannover Medical School (Hanover),R,1024,S,0.5,R,16,R,512
+SRR8737620,PRJNA526797,SAMN11110674,287,Pseudomonas aeruginosa,NA,MHH17546,Hannover Medical School (Hanover),R,16,R,4,R,8,R,128
+SRR8737621,PRJNA526797,SAMN11110681,287,Pseudomonas aeruginosa,NA,MS5,University Hospital Muenster (Muenster),S,0.5,S,0.125,S,0.125,S,1
+SRR8737622,PRJNA526797,SAMN11110680,287,Pseudomonas aeruginosa,NA,MS2,University Hospital Muenster (Muenster),S,1,S,0.25,S,0.5,R,64
+SRR8737623,PRJNA526797,SAMN11110426,287,Pseudomonas aeruginosa,NA,CH4785,Charité Berlin (Berlin),S,1,R,4,R,16,I,16
+SRR8737624,PRJNA526797,SAMN11110427,287,Pseudomonas aeruginosa,NA,CH4840,Charité Berlin (Berlin),S,2,S,0.25,R,16,R,128
+SRR8737625,PRJNA526797,SAMN11110428,287,Pseudomonas aeruginosa,NA,CH4860,Charité Berlin (Berlin),S,1,R,64,R,8,S,4
+SRR8737626,PRJNA526797,SAMN11110429,287,Pseudomonas aeruginosa,NA,CH4862,Charité Berlin (Berlin),R,256,R,8,R,64,S,8
+SRR8737627,PRJNA526797,SAMN11110422,287,Pseudomonas aeruginosa,NA,CH4755,Charité Berlin (Berlin),S,0.25,R,64,R,16,S,4
+SRR8737628,PRJNA526797,SAMN11110468,287,Pseudomonas aeruginosa,NA,CH5666,Charité Berlin (Berlin),R,1024,R,32,R,8,R,128
+SRR8737629,PRJNA526797,SAMN11110469,287,Pseudomonas aeruginosa,NA,CH5688,Charité Berlin (Berlin),R,128,R,32,R,16,I,16
+SRR8737630,PRJNA526797,SAMN11110466,287,Pseudomonas aeruginosa,NA,CH5621,Charité Berlin (Berlin),S,4,R,4,S,2,R,128
+SRR8737631,PRJNA526797,SAMN11110467,287,Pseudomonas aeruginosa,NA,CH5638,Charité Berlin (Berlin),S,1,R,8,R,16,I,16
+SRR8737632,PRJNA526797,SAMN11110729,287,Pseudomonas aeruginosa,NA,ZG314696,Private practice laboratory (Goerlitz),S,0.25,S,0.125,S,1,S,1
+SRR8737633,PRJNA526797,SAMN11110726,287,Pseudomonas aeruginosa,NA,ZG302432,Private practice laboratory (Goerlitz),S,2,S,0.125,S,0.25,S,2
+SRR8737634,PRJNA526797,SAMN11110727,287,Pseudomonas aeruginosa,NA,ZG302442,Private practice laboratory (Goerlitz),S,1,S,0.125,S,0.25,S,1
+SRR8737635,PRJNA526797,SAMN11110730,287,Pseudomonas aeruginosa,NA,ZG314738,Private practice laboratory (Goerlitz),S,2,S,0.5,S,1,S,2
+SRR8737636,PRJNA526797,SAMN11110731,287,Pseudomonas aeruginosa,NA,ZG314777,Private practice laboratory (Goerlitz),S,1,S,0.125,I,4,S,2
+SRR8737637,PRJNA526797,SAMN11110521,287,Pseudomonas aeruginosa,NA,ESP074,University Hospital Palma de Mallorca (Spain),R,128,R,256,R,16,R,32
+SRR8737638,PRJNA526797,SAMN11110520,287,Pseudomonas aeruginosa,NA,ESP073,University Hospital Palma de Mallorca (Spain),S,2,R,32,R,32,R,64
+SRR8737639,PRJNA526797,SAMN11110641,287,Pseudomonas aeruginosa,NA,MHH0426,Hannover Medical School (Hanover),S,1,I,2,S,1,S,8
+SRR8737640,PRJNA526797,SAMN11110640,287,Pseudomonas aeruginosa,NA,MHH0147,Hannover Medical School (Hanover),S,2,S,1,I,4,S,4
+SRR8737641,PRJNA526797,SAMN11110633,287,Pseudomonas aeruginosa,NA,M70646050,University Hospital Muenster (Muenster),S,0.5,I,2,S,2,S,8
+SRR8737642,PRJNA526797,SAMN11110632,287,Pseudomonas aeruginosa,NA,M70641593,University Hospital Muenster (Muenster),S,0.5,S,0.06,I,4,S,2
+SRR8737643,PRJNA526797,SAMN11110635,287,Pseudomonas aeruginosa,NA,M70647319,University Hospital Muenster (Muenster),S,2,S,0.5,S,0.25,R,32
+SRR8737644,PRJNA526797,SAMN11110634,287,Pseudomonas aeruginosa,NA,M70646077,University Hospital Muenster (Muenster),S,0.5,S,0.5,S,0.5,S,0.5
+SRR8737645,PRJNA526797,SAMN11110637,287,Pseudomonas aeruginosa,NA,M70652746,University Hospital Muenster (Muenster),S,0.5,S,0.25,I,4,R,256
+SRR8737646,PRJNA526797,SAMN11110636,287,Pseudomonas aeruginosa,NA,M70649365,University Hospital Muenster (Muenster),S,2,R,32,R,32,S,8
+SRR8737647,PRJNA526797,SAMN11110639,287,Pseudomonas aeruginosa,NA,M70663247,University Hospital Muenster (Muenster),S,1,S,0.25,R,8,S,1
+SRR8737648,PRJNA526797,SAMN11110638,287,Pseudomonas aeruginosa,NA,M70656672,University Hospital Muenster (Muenster),S,0.25,S,0.5,I,4,S,8
+SRR8737649,PRJNA526797,SAMN11110408,287,Pseudomonas aeruginosa,NA,CH4528,Charité Berlin (Berlin),S,1,R,16,I,4,S,8
+SRR8737650,PRJNA526797,SAMN11110409,287,Pseudomonas aeruginosa,NA,CH4548,Charité Berlin (Berlin),R,1024,R,16,S,1,R,128
+SRR8737651,PRJNA526797,SAMN11110406,287,Pseudomonas aeruginosa,NA,CH4509,Charité Berlin (Berlin),S,1,S,0.125,S,0.25,S,2
+SRR8737652,PRJNA526797,SAMN11110407,287,Pseudomonas aeruginosa,NA,CH4520,Charité Berlin (Berlin),S,0.5,S,0.06,S,2,I,16
+SRR8737653,PRJNA526797,SAMN11110404,287,Pseudomonas aeruginosa,NA,CH4446,Charité Berlin (Berlin),S,2,I,2,I,4,S,8
+SRR8737654,PRJNA526797,SAMN11110405,287,Pseudomonas aeruginosa,NA,CH4489,Charité Berlin (Berlin),S,0.5,S,0.25,R,8,S,4
+SRR8737655,PRJNA526797,SAMN11110402,287,Pseudomonas aeruginosa,NA,CH4438,Charité Berlin (Berlin),S,2,R,8,I,4,R,32
+SRR8737656,PRJNA526797,SAMN11110564,287,Pseudomonas aeruginosa,NA,F1821,University Hospital Frankfurt (Frankfurt),R,1024,R,32,R,512,R,64
+SRR8737657,PRJNA526797,SAMN11110567,287,Pseudomonas aeruginosa,NA,F1862,University Hospital Frankfurt (Frankfurt),S,2,I,2,I,4,R,32
+SRR8737658,PRJNA526797,SAMN11110566,287,Pseudomonas aeruginosa,NA,F1853,University Hospital Frankfurt (Frankfurt),R,128,R,16,R,64,R,32
+SRR8737659,PRJNA526797,SAMN11110569,287,Pseudomonas aeruginosa,NA,F1869,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737660,PRJNA526797,SAMN11110568,287,Pseudomonas aeruginosa,NA,F1864,University Hospital Frankfurt (Frankfurt),R,128,R,32,R,512,R,1024
+SRR8737661,PRJNA526797,SAMN11110662,287,Pseudomonas aeruginosa,NA,MHH16459,Hannover Medical School (Hanover),S,4,S,0.5,R,16,R,256
+SRR8737662,PRJNA526797,SAMN11110663,287,Pseudomonas aeruginosa,NA,MHH16513,Hannover Medical School (Hanover),S,1,R,4,R,8,S,4
+SRR8737663,PRJNA526797,SAMN11110664,287,Pseudomonas aeruginosa,NA,MHH16530,Hannover Medical School (Hanover),S,1,S,0.5,R,16,R,32
+SRR8737664,PRJNA526797,SAMN11110665,287,Pseudomonas aeruginosa,NA,MHH16563,Hannover Medical School (Hanover),S,2,S,0.5,I,4,I,16
+SRR8737665,PRJNA526797,SAMN11110666,287,Pseudomonas aeruginosa,NA,MHH16610,Hannover Medical School (Hanover),S,1,R,4,R,8,S,4
+SRR8737666,PRJNA526797,SAMN11110667,287,Pseudomonas aeruginosa,NA,MHH16727,Hannover Medical School (Hanover),S,1,S,0.125,I,4,I,16
+SRR8737667,PRJNA526797,SAMN11110668,287,Pseudomonas aeruginosa,NA,MHH16798,Hannover Medical School (Hanover),S,1,R,4,R,8,S,4
+SRR8737668,PRJNA526797,SAMN11110669,287,Pseudomonas aeruginosa,NA,MHH16951,Hannover Medical School (Hanover),I,8,R,4,R,32,R,128
+SRR8737669,PRJNA526797,SAMN11110670,287,Pseudomonas aeruginosa,NA,MHH17233,Hannover Medical School (Hanover),R,256,R,64,R,8,R,32
+SRR8737670,PRJNA526797,SAMN11110671,287,Pseudomonas aeruginosa,NA,MHH17247,Hannover Medical School (Hanover),S,0.5,S,0.5,R,16,S,4
+SRR8737671,PRJNA526797,SAMN11110527,287,Pseudomonas aeruginosa,NA,ESP081,University Hospital Palma de Mallorca (Spain),S,2,I,2,R,32,I,16
+SRR8737672,PRJNA526797,SAMN11110381,287,Pseudomonas aeruginosa,NA,CH2922,Charité Berlin (Berlin),S,0.5,S,0.25,S,0.5,S,8
+SRR8737673,PRJNA526797,SAMN11110380,287,Pseudomonas aeruginosa,NA,CH2875,Charité Berlin (Berlin),R,32,I,2,R,64,S,8
+SRR8737674,PRJNA526797,SAMN11110379,287,Pseudomonas aeruginosa,NA,CH2860,Charité Berlin (Berlin),S,1,R,8,R,32,R,128
+SRR8737675,PRJNA526797,SAMN11110378,287,Pseudomonas aeruginosa,NA,CH2848,Charité Berlin (Berlin),S,2,S,1,S,2,I,16
+SRR8737676,PRJNA526797,SAMN11110377,287,Pseudomonas aeruginosa,NA,CH2829,Charité Berlin (Berlin),S,1,S,1,S,0.5,S,1
+SRR8737677,PRJNA526797,SAMN11110376,287,Pseudomonas aeruginosa,NA,CH2824,Charité Berlin (Berlin),S,1,S,0.5,R,32,S,8
+SRR8737678,PRJNA526797,SAMN11110375,287,Pseudomonas aeruginosa,NA,CH2764,Charité Berlin (Berlin),S,2,S,0.5,S,0.5,R,64
+SRR8737679,PRJNA526797,SAMN11110374,287,Pseudomonas aeruginosa,NA,CH2756,Charité Berlin (Berlin),S,2,S,0.25,S,1,S,1
+SRR8737680,PRJNA526797,SAMN11110362,287,Pseudomonas aeruginosa,NA,CH2699,Charité Berlin (Berlin),R,64,R,16,R,64,I,16
+SRR8737681,PRJNA526797,SAMN11110363,287,Pseudomonas aeruginosa,NA,CH2705,Charité Berlin (Berlin),R,512,R,32,R,32,R,1024
+SRR8737682,PRJNA526797,SAMN11110368,287,Pseudomonas aeruginosa,NA,CH2724,Charité Berlin (Berlin),S,2,S,0.125,R,8,S,2
+SRR8737683,PRJNA526797,SAMN11110369,287,Pseudomonas aeruginosa,NA,CH2730,Charité Berlin (Berlin),S,0.25,S,0.06,I,4,S,2
+SRR8737684,PRJNA526797,SAMN11110339,287,Pseudomonas aeruginosa,NA,CH2560,Charité Berlin (Berlin),R,512,R,8,S,1,R,64
+SRR8737685,PRJNA526797,SAMN11110367,287,Pseudomonas aeruginosa,NA,CH2718,Charité Berlin (Berlin),S,1,S,0.25,I,4,S,2
+SRR8737686,PRJNA526797,SAMN11110686,287,Pseudomonas aeruginosa,NA,PSAE1635,University of Freiburg (Munich),S,2,I,2,I,4,S,1
+SRR8737687,PRJNA526797,SAMN11110687,287,Pseudomonas aeruginosa,NA,PSAE1641,University of Freiburg (Munich),S,0.5,R,16,R,16,S,4
+SRR8737688,PRJNA526797,SAMN11110524,287,Pseudomonas aeruginosa,NA,ESP077,University Hospital Palma de Mallorca (Spain),R,256,S,1,R,8,R,256
+SRR8737689,PRJNA526797,SAMN11110713,287,Pseudomonas aeruginosa,NA,ZG02488718,Private practice laboratory (Radebeul),S,0.25,S,0.25,R,8,S,2
+SRR8737690,PRJNA526797,SAMN11110712,287,Pseudomonas aeruginosa,NA,ZG02420619,Private practice laboratory (Riesa),S,1,I,2,R,16,S,8
+SRR8737691,PRJNA526797,SAMN11110715,287,Pseudomonas aeruginosa,NA,ZG205565,Private practice laboratory (Goerlitz),S,0.25,I,2,S,1,S,2
+SRR8737692,PRJNA526797,SAMN11110714,287,Pseudomonas aeruginosa,NA,ZG02512057,Private practice laboratory (Radebeul),S,1,S,0.25,R,16,S,2
+SRR8737693,PRJNA526797,SAMN11110717,287,Pseudomonas aeruginosa,NA,ZG205710,Private practice laboratory (Goerlitz),S,0.25,I,2,S,1,S,2
+SRR8737694,PRJNA526797,SAMN11110716,287,Pseudomonas aeruginosa,NA,ZG205694,Private practice laboratory (Goerlitz),S,0.125,S,0.5,S,0.5,S,0.5

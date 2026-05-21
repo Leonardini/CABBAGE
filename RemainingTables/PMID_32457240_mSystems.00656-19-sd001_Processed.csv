@@ -1,0 +1,620 @@
+﻿NCBI Assembly / Sequence Read Archive accession number,Source dataset,Multi-locus sequence type,Polymyxin susceptibility
+GCF_001874725,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_001875025,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_001875045,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_001875055,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_001922465,CDC/FDA Antibiotic Resistance Isolate Bank,11,Susceptible
+GCF_002056385,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_002056475,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_002180075,CDC/FDA Antibiotic Resistance Isolate Bank,258,Non-susceptible
+GCF_002180155,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_002180175,CDC/FDA Antibiotic Resistance Isolate Bank,11,Susceptible
+GCF_002180295,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_002192335,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_002197225,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_002197505,CDC/FDA Antibiotic Resistance Isolate Bank,258,Non-susceptible
+GCF_002202255,CDC/FDA Antibiotic Resistance Isolate Bank,11,Susceptible
+GCF_002968475,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_002968495,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_003073335,CDC/FDA Antibiotic Resistance Isolate Bank,11,Susceptible
+GCF_003073675,CDC/FDA Antibiotic Resistance Isolate Bank,512,Susceptible
+GCF_003288375,CDC/FDA Antibiotic Resistance Isolate Bank,258,Susceptible
+GCF_003324315,CDC/FDA Antibiotic Resistance Isolate Bank,11,Non-susceptible
+GCF_003571705,CDC/FDA Antibiotic Resistance Isolate Bank,340,Non-susceptible
+SRR1166945,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166946,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166947,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166948,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166949,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166950,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166951,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166952,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166953,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166954,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",418,Susceptible
+SRR1166955,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166956,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166957,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166958,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",379,Susceptible
+SRR1166959,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166960,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166961,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",379,Non-susceptible
+SRR1166962,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166963,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166964,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166965,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",379,Susceptible
+SRR1166966,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",379,Non-susceptible
+SRR1166967,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166968,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166969,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166970,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166971,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166972,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166973,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166974,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166975,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1166977,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166978,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166979,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166980,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1166981,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167010,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1167011,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1167012,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1167013,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167014,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167015,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167016,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167017,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167018,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167019,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1167020,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167021,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Non-susceptible
+SRR1167022,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",512,Susceptible
+SRR1167023,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",512,Susceptible
+SRR1167024,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167025,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167026,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167027,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+SRR1167028,"DeLeo FR, Chen L, Porcella SF, et al. PNAS 2014; 111:4988–4993. ",258,Susceptible
+GCF_002235045,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Non-susceptible
+GCF_002235055,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235095,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235105,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235115,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235155,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235235,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235245,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235265,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235295,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235315,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235325,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235355,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235375,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235395,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235415,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235435,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235455,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235475,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Non-susceptible
+GCF_002235495,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235515,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235535,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235555,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235575,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235595,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235615,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235635,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235655,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235675,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235695,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235705,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235735,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235755,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Non-susceptible
+GCF_002235795,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235815,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235825,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235875,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235895,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Non-susceptible
+GCF_002235915,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235935,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235945,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002235975,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002235985,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002236015,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002236055,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",258,Susceptible
+GCF_002236085,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Non-susceptible
+GCF_002236145,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236155,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236185,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236195,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Non-susceptible
+GCF_002236205,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236245,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236265,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236275,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Non-susceptible
+GCF_002236305,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236315,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236345,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236365,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236385,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236405,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236425,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_002236445,"Rimoldi SG, Gentile B, Pagani C, et al. BMC Infect Dis 2017; 17:666–11. ",512,Susceptible
+GCF_001701355,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701365,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701395,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Susceptible
+GCF_001701415,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701445,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701475,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701495,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",11,Non-susceptible
+GCF_001701505,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701525,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701555,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701815,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701835,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",11,Non-susceptible
+GCF_001701845,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Susceptible
+GCF_001701895,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",11,Non-susceptible
+GCF_001701915,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",437,Non-susceptible
+GCF_001701925,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001701975,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001702005,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+GCF_001702035,"Pitt ME, Elliott AG, Cao MD, et al. Microbial Genomics 2018; 4.",258,Non-susceptible
+SRR1508883,"Stoesser N, Giess A, Batty EM, et al.. Antimicrobial Agents and Chemotherapy 2014; 58:7347–7357. ",340,Susceptible
+SRR1508882,"Stoesser N, Giess A, Batty EM, et al.. Antimicrobial Agents and Chemotherapy 2014; 58:7347–7357. ",340,Susceptible
+SRR1508855,"Stoesser N, Giess A, Batty EM, et al.. Antimicrobial Agents and Chemotherapy 2014; 58:7347–7357. ",11,Susceptible
+SRR8286437,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286438,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286440,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286441,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286442,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286443,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286444,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286445,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286446,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286447,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286448,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286449,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286450,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286451,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286453,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286454,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286455,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286456,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286457,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286458,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286459,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286460,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286461,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286462,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286463,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286464,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Non-susceptible
+SRR8286465,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286466,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286475,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286476,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286477,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286478,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286479,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286480,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286481,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286482,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286483,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286484,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286488,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286489,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286491,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286492,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286494,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286495,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286496,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286497,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286498,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286499,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286500,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286501,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286502,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286503,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286504,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286505,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286507,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286508,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286509,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286512,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286513,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286514,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286515,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286516,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286517,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286518,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286519,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286520,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286521,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286522,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286523,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286524,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286525,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286526,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286527,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286528,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286532,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286533,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286534,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286535,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286536,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286539,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286541,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286542,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR8286544,"van Dorp L, Wang Q, Shaw LP, et al. Microbial Genomics 2019; 5. ",11,Susceptible
+SRR848923,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849528,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Non-susceptible
+SRR849529,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849530,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Non-susceptible
+SRR849531,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849532,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849533,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849534,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849536,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849537,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849538,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849539,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849540,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849542,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849543,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Non-susceptible
+SRR849545,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849546,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849547,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849548,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849549,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849550,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849551,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Non-susceptible
+SRR849552,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849553,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849554,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849555,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849556,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849557,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849597,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849598,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849600,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849602,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849650,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Non-susceptible
+SRR849679,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849681,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849682,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Non-susceptible
+SRR849784,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849786,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849787,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849802,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849803,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849805,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849806,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849807,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849808,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849809,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849826,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849827,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849840,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Non-susceptible
+SRR849841,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR849872,"Wright MS, Suzuki Y, Jones MB, et al. Antimicrobial Agents and Chemotherapy 2014; 59:536–543. ",258,Susceptible
+SRR3222204,PATRIC,437,Susceptible
+GCA_000406765,PATRIC,258,Susceptible
+GCA_000417265,PATRIC,258,Susceptible
+GCA_000417225,PATRIC,258,Susceptible
+GCA_000417085,PATRIC,258,Susceptible
+CP020108,PATRIC,258,Susceptible
+CP021859,PATRIC,258,Non-susceptible
+CP021833,PATRIC,258,Susceptible
+CP021950,PATRIC,11,Susceptible
+CP020071,PATRIC,258,Susceptible
+CP021751,PATRIC,258,Susceptible
+SRR9858912,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858825,Columbia University Irving Medical Center,258,Susceptible
+SRR9858957,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858953,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858831,Columbia University Irving Medical Center,258,Susceptible
+SRR9858881,Columbia University Irving Medical Center,258,Susceptible
+SRR9858766,Columbia University Irving Medical Center,258,Susceptible
+SRR9858653,Columbia University Irving Medical Center,258,Susceptible
+SRR9858802,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858934,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858746,Columbia University Irving Medical Center,258,Susceptible
+SRR9858894,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858955,Columbia University Irving Medical Center,258,Susceptible
+SRR9858664,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858673,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858770,Columbia University Irving Medical Center,258,Susceptible
+SRR9858773,Columbia University Irving Medical Center,258,Susceptible
+SRR9858879,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858833,Columbia University Irving Medical Center,258,Susceptible
+SRR9858830,Columbia University Irving Medical Center,258,Susceptible
+SRR9858777,Columbia University Irving Medical Center,258,Susceptible
+SRR9858744,Columbia University Irving Medical Center,258,Susceptible
+SRR9858807,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858710,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858711,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858801,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858896,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858893,Columbia University Irving Medical Center,258,Susceptible
+SRR9858972,Columbia University Irving Medical Center,258,Susceptible
+SRR9858706,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858970,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858968,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858803,Columbia University Irving Medical Center,258,Susceptible
+SRR9858927,Columbia University Irving Medical Center,258,Susceptible
+SRR9858682,Columbia University Irving Medical Center,258,Susceptible
+SRR9858775,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858772,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858679,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858925,Columbia University Irving Medical Center,258,Susceptible
+SRR9858897,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858900,Columbia University Irving Medical Center,258,Susceptible
+SRR9858723,Columbia University Irving Medical Center,258,Susceptible
+SRR9858911,Columbia University Irving Medical Center,258,Susceptible
+SRR9858657,Columbia University Irving Medical Center,258,Susceptible
+SRR9858742,Columbia University Irving Medical Center,258,Susceptible
+SRR9858834,Columbia University Irving Medical Center,258,Susceptible
+SRR9858956,Columbia University Irving Medical Center,258,Susceptible
+SRR9858882,Columbia University Irving Medical Center,258,Susceptible
+SRR9858778,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858698,Columbia University Irving Medical Center,258,Susceptible
+SRR9858699,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858796,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858763,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858813,Columbia University Irving Medical Center,258,Susceptible
+SRR9858875,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858745,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858684,Columbia University Irving Medical Center,258,Susceptible
+SRR9858701,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858880,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858751,Columbia University Irving Medical Center,258,Susceptible
+SRR9858821,Columbia University Irving Medical Center,258,Susceptible
+SRR9858835,Columbia University Irving Medical Center,258,Susceptible
+SRR9858747,Columbia University Irving Medical Center,258,Susceptible
+SRR9858666,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858665,Columbia University Irving Medical Center,258,Susceptible
+SRR6892771,Columbia University Irving Medical Center,258,Susceptible
+SRR9858721,Columbia University Irving Medical Center,258,Susceptible
+SRR9858731,Columbia University Irving Medical Center,258,Susceptible
+SRR9858683,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858836,Columbia University Irving Medical Center,258,Susceptible
+SRR9858780,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858945,Columbia University Irving Medical Center,3359,Susceptible
+SRR9858841,Columbia University Irving Medical Center,3359,Non-susceptible
+SRR9858696,Columbia University Irving Medical Center,258,Susceptible
+SRR9858791,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858952,Columbia University Irving Medical Center,258,Susceptible
+SRR9858878,Columbia University Irving Medical Center,258,Susceptible
+SRR9858914,Columbia University Irving Medical Center,258,Susceptible
+SRR9858799,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858693,Columbia University Irving Medical Center,258,Susceptible
+SRR9858691,Columbia University Irving Medical Center,258,Susceptible
+SRR9858888,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858948,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858792,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858885,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858892,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858973,Columbia University Irving Medical Center,258,Susceptible
+SRR9858644,Columbia University Irving Medical Center,258,Susceptible
+SRR9858978,Columbia University Irving Medical Center,258,Susceptible
+SRR9858782,Columbia University Irving Medical Center,258,Susceptible
+SRR9858839,Columbia University Irving Medical Center,258,Susceptible
+SRR9858817,Columbia University Irving Medical Center,258,Susceptible
+SRR9858819,Columbia University Irving Medical Center,258,Susceptible
+SRR9858828,Columbia University Irving Medical Center,258,Susceptible
+SRR9858966,Columbia University Irving Medical Center,258,Susceptible
+SRR9858867,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858743,Columbia University Irving Medical Center,258,Susceptible
+SRR9858749,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858779,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858725,Columbia University Irving Medical Center,258,Susceptible
+SRR9858727,Columbia University Irving Medical Center,258,Susceptible
+SRR9858903,Columbia University Irving Medical Center,258,Susceptible
+SRR9858933,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858851,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858852,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858848,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858687,Columbia University Irving Medical Center,258,Susceptible
+SRR9858690,Columbia University Irving Medical Center,258,Susceptible
+SRR9858733,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858694,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858936,Columbia University Irving Medical Center,258,Susceptible
+SRR9858800,Columbia University Irving Medical Center,258,Susceptible
+SRR9858734,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858786,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858971,Columbia University Irving Medical Center,258,Susceptible
+SRR9858658,Columbia University Irving Medical Center,258,Susceptible
+SRR9858652,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858656,Columbia University Irving Medical Center,258,Susceptible
+SRR9858918,Columbia University Irving Medical Center,258,Susceptible
+SRR9858944,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858943,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858843,Columbia University Irving Medical Center,258,Susceptible
+SRR9858708,Columbia University Irving Medical Center,258,Susceptible
+SRR9858954,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858863,Columbia University Irving Medical Center,258,Susceptible
+SRR9858862,Columbia University Irving Medical Center,340,Non-susceptible
+SRR9858931,Columbia University Irving Medical Center,258,Susceptible
+SRR9858974,Columbia University Irving Medical Center,258,Susceptible
+SRR9858976,Columbia University Irving Medical Center,258,Susceptible
+SRR9858874,Columbia University Irving Medical Center,258,Susceptible
+SRR9858920,Columbia University Irving Medical Center,258,Susceptible
+SRR9858712,Columbia University Irving Medical Center,258,Susceptible
+SRR9858707,Columbia University Irving Medical Center,258,Non-susceptible
+SRR6892752,Columbia University Irving Medical Center,258,Susceptible
+SRR9858771,Columbia University Irving Medical Center,258,Non-susceptible
+SRR6892692,Columbia University Irving Medical Center,258,Susceptible
+SRR6892689,Columbia University Irving Medical Center,258,Susceptible
+SRR6892737,Columbia University Irving Medical Center,258,Susceptible
+SRR6892740,Columbia University Irving Medical Center,258,Susceptible
+SRR6892739,Columbia University Irving Medical Center,258,Susceptible
+SRR6892708,Columbia University Irving Medical Center,258,Non-susceptible
+SRR6892707,Columbia University Irving Medical Center,258,Susceptible
+SRR6892712,Columbia University Irving Medical Center,258,Non-susceptible
+SRR6892676,Columbia University Irving Medical Center,258,Susceptible
+SRR6892808,Columbia University Irving Medical Center,258,Susceptible
+SRR6892806,Columbia University Irving Medical Center,258,Susceptible
+SRR6892804,Columbia University Irving Medical Center,258,Susceptible
+SRR6892802,Columbia University Irving Medical Center,258,Susceptible
+SRR6892803,Columbia University Irving Medical Center,258,Susceptible
+SRR6892800,Columbia University Irving Medical Center,258,Non-susceptible
+SRR6892801,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858916,Columbia University Irving Medical Center,258,Susceptible
+SRR9858871,Columbia University Irving Medical Center,258,Susceptible
+SRR9858818,Columbia University Irving Medical Center,258,Susceptible
+SRR9858923,Columbia University Irving Medical Center,258,Susceptible
+SRR9858924,Columbia University Irving Medical Center,258,Susceptible
+SRR9858921,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858922,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858719,Columbia University Irving Medical Center,258,Susceptible
+SRR9858887,Columbia University Irving Medical Center,258,Susceptible
+SRR9858938,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858891,Columbia University Irving Medical Center,258,Susceptible
+SRR9858686,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858951,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858804,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858722,Columbia University Irving Medical Center,258,Susceptible
+SRR9858977,Columbia University Irving Medical Center,258,Susceptible
+SRR9858797,Columbia University Irving Medical Center,258,Susceptible
+SRR9858904,Columbia University Irving Medical Center,258,Susceptible
+SRR9858906,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858660,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858908,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858853,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858659,Columbia University Irving Medical Center,258,Susceptible
+SRR9858849,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858844,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858790,Columbia University Irving Medical Center,258,Susceptible
+SRR9858729,Columbia University Irving Medical Center,258,Susceptible
+SRR9858648,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858979,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858651,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858928,Columbia University Irving Medical Center,258,Susceptible
+SRR9858946,Columbia University Irving Medical Center,258,Susceptible
+SRR9858732,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858688,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858689,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858672,Columbia University Irving Medical Center,258,Susceptible
+SRR9858695,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858884,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858883,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858840,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858788,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858756,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858692,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858784,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858755,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858898,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858940,Columbia University Irving Medical Center,258,Susceptible
+SRR9858889,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858654,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858980,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858737,Columbia University Irving Medical Center,11,Non-susceptible
+SRR9858845,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858757,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858785,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858942,Columbia University Irving Medical Center,1481,Non-susceptible
+SRR9858847,Columbia University Irving Medical Center,1481,Non-susceptible
+SRR9858655,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858915,Columbia University Irving Medical Center,258,Susceptible
+SRR9858776,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858748,Columbia University Irving Medical Center,258,Susceptible
+SRR9858724,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858870,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858663,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858668,Columbia University Irving Medical Center,258,Susceptible
+SRR9858967,Columbia University Irving Medical Center,258,Susceptible
+SRR9858768,Columbia University Irving Medical Center,258,Susceptible
+SRR9858700,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858661,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858823,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858805,Columbia University Irving Medical Center,258,Susceptible
+SRR9858808,Columbia University Irving Medical Center,258,Susceptible
+SRR9858861,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858857,Columbia University Irving Medical Center,258,Susceptible
+SRR9858854,Columbia University Irving Medical Center,258,Susceptible
+SRR9858798,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858767,Columbia University Irving Medical Center,258,Susceptible
+SRR9858873,Columbia University Irving Medical Center,258,Susceptible
+SRR9858869,Columbia University Irving Medical Center,258,Susceptible
+SRR9858832,Columbia University Irving Medical Center,258,Susceptible
+SRR9858961,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858964,Columbia University Irving Medical Center,258,Susceptible
+SRR9858783,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858960,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858958,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858965,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858641,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858899,Columbia University Irving Medical Center,258,Susceptible
+SRR9858902,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858856,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858895,Columbia University Irving Medical Center,258,Susceptible
+SRR9858859,Columbia University Irving Medical Center,258,Susceptible
+SRR9858868,Columbia University Irving Medical Center,258,Susceptible
+SRR9858681,Columbia University Irving Medical Center,258,Susceptible
+SRR9858795,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858824,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858762,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858764,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858765,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858816,Columbia University Irving Medical Center,258,Susceptible
+SRR9858932,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858720,Columbia University Irving Medical Center,258,Susceptible
+SRR9858789,Columbia University Irving Medical Center,258,Susceptible
+SRR9858939,Columbia University Irving Medical Center,258,Susceptible
+SRR9858827,Columbia University Irving Medical Center,258,Susceptible
+SRR9858975,Columbia University Irving Medical Center,258,Susceptible
+SRR9858913,Columbia University Irving Medical Center,258,Susceptible
+SRR9858728,Columbia University Irving Medical Center,258,Susceptible
+SRR9858726,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858877,Columbia University Irving Medical Center,258,Susceptible
+SRR9858829,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858674,Columbia University Irving Medical Center,258,Susceptible
+SRR9858910,Columbia University Irving Medical Center,258,Susceptible
+SRR9858675,Columbia University Irving Medical Center,258,Susceptible
+SRR9858935,Columbia University Irving Medical Center,258,Susceptible
+SRR9858642,Columbia University Irving Medical Center,258,Susceptible
+SRR9858917,Columbia University Irving Medical Center,258,Susceptible
+SRR6892763,Columbia University Irving Medical Center,258,Susceptible
+SRR6892761,Columbia University Irving Medical Center,258,Susceptible
+SRR6892756,Columbia University Irving Medical Center,258,Susceptible
+SRR6892706,Columbia University Irving Medical Center,258,Susceptible
+SRR6892709,Columbia University Irving Medical Center,258,Susceptible
+SRR6892780,Columbia University Irving Medical Center,258,Susceptible
+SRR6892786,Columbia University Irving Medical Center,258,Non-susceptible
+SRR6892785,Columbia University Irving Medical Center,258,Susceptible
+SRR6892784,Columbia University Irving Medical Center,258,Non-susceptible
+SRR6892766,Columbia University Irving Medical Center,258,Non-susceptible
+SRR6892687,Columbia University Irving Medical Center,258,Susceptible
+SRR6892778,Columbia University Irving Medical Center,258,Susceptible
+SRR6892794,Columbia University Irving Medical Center,258,Susceptible
+SRR6892795,Columbia University Irving Medical Center,258,Susceptible
+SRR6892796,Columbia University Irving Medical Center,258,Susceptible
+SRR6892744,Columbia University Irving Medical Center,258,Susceptible
+SRR9858704,Columbia University Irving Medical Center,258,Susceptible
+SRR9858705,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858667,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858671,Columbia University Irving Medical Center,258,Susceptible
+SRR9858730,Columbia University Irving Medical Center,258,Susceptible
+SRR6892702,Columbia University Irving Medical Center,258,Susceptible
+SRR9858929,Columbia University Irving Medical Center,258,Susceptible
+SRR9858872,Columbia University Irving Medical Center,258,Susceptible
+SRR9858909,Columbia University Irving Medical Center,258,Susceptible
+SRR9858760,Columbia University Irving Medical Center,258,Susceptible
+SRR9858643,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858949,Columbia University Irving Medical Center,1481,Susceptible
+SRR9858866,Columbia University Irving Medical Center,1481,Non-susceptible
+SRR9858753,Columbia University Irving Medical Center,258,Susceptible
+SRR9858677,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858905,Columbia University Irving Medical Center,3359,Susceptible
+SRR9858926,Columbia University Irving Medical Center,3359,Non-susceptible
+SRR9858650,Columbia University Irving Medical Center,3359,Susceptible
+SRR9858812,Columbia University Irving Medical Center,3359,Susceptible
+SRR9858842,Columbia University Irving Medical Center,258,Susceptible
+SRR9858810,Columbia University Irving Medical Center,258,Susceptible
+SRR9858738,Columbia University Irving Medical Center,258,Susceptible
+SRR9858735,Columbia University Irving Medical Center,258,Susceptible
+SRR9858740,Columbia University Irving Medical Center,258,Susceptible
+SRR9858736,Columbia University Irving Medical Center,258,Susceptible
+SRR9858837,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858741,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858820,Columbia University Irving Medical Center,258,Susceptible
+SRR9858714,Columbia University Irving Medical Center,258,Non-susceptible
+SRR9858713,Columbia University Irving Medical Center,258,Non-susceptible

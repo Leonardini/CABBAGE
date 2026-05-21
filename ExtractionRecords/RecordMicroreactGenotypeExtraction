@@ -1,0 +1,11 @@
+> W=getAllGenotypes('.')
+[1] "PMID_24957517_12915_2014_781_MOESM1_ESM_Processed.csv"
+[1] "Found accessions for 189 out of 189 entries"                                                              
+[1] "PMID_30465642_data_Processed.csv"                                                                         
+[1] "Found accessions for 616 out of 616 entries"                                                              
+[1] "PMID_31003929_mmc1_Processed.csv"                                                                         
+[1] "Found accessions for 13454 out of 13454 entries"                                                          
+[1] "PMID_31038449_mgen-5-266-s002_Processed.csv"                                                              
+[1] "Found accessions for 270 out of 270 entries"                                                              
+[1] "PMID_31107206_Merged_Processed.csv"                                                                       
+[1] "Found accessions for 121 out of 121 entries"

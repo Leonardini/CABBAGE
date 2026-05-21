@@ -1,0 +1,156 @@
+﻿SRA ACCESSION,Sex,Foreign Travel,Organism Identified,ST,O,H,AGGR,Carbapenemase,AMP8,Î²-Lactamases,GEN2,TOB2,AMK8,STR8,STR16,Aminoglycosides,NAL16,CIP0.064,CIP0.5,Fluoroquinolones,AZM,Macrolides,TMP2,Trimethoprim,TET8,Tetracyclines,SUL256,Sulphonamides,CHL16,Chlorapehnicol
+SRR5470347,U,No data available ,Escherichia coli,2959,O17-O77,H18,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470266,M,No data available ,Escherichia coli,P3228,O126,H27,+,-,-,-,,,,R,R,"aph(6)-Id,strA-strB",R,R,,gyrA_EC2[83:S-L],-,,R,dfrA-7,R,tet(A),R,sul-2,R,catA-1
+SRR5470265,F,Unknown Destination,Escherichia coli,200,O175,H28,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470264,F,No travel,Escherichia coli,40,O111SSI,H21,+,-,-,,,,,R,I,"aph(6)-Id,strA-strB",,,,-,-,,,-,,-,R,sul-2,,-
+SRR5470263,F,Turkey,Escherichia coli,1380,O17-O77,H18,+,-,-,-,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,,-,,-,,-,,-
+SRR5470252,M,No data available ,Escherichia coli,38,-,H30,+,-,R,CTX-M-14;TEM-1,,,,R,R,"aadA-1b;aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-1,R,tet(D),R,sul-2,,catA-1
+SRR5470250,F,Morocco,Escherichia coli,10,O86,H2,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470249,F,Indonesia,Escherichia coli,-,-,H33,+,-,R,TEM-1,,,,,,aadA-1b,R,,,gyrA_EC2[83:S-V],-,,R,dfrA-1,R,tet(A)-1,R,sul-2,,-
+SRR5470248,M,No travel,Escherichia coli,69,O15,H6,+,-,R,TEM-1,,,,R,I,"aph(6)-Id,strA-strB;aadA-5",,,,-,R,erm(B);mph-(A),R,dfrA-8;dfrA-17,R,tet(A),R,sul-2;sul-1,,-
+SRR5470247,M,Madagascar,Escherichia coli,3032,O131,H31,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB;aadA-8b;aadA-2",,,,-,-,,R,dfrA-12,R,tet(A)-1,R,sul-1;sul-2,,-
+SRR5470246,F,No data available ,Escherichia coli,1380,O17-O77,H18,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470245,F,Colombia,Escherichia coli,200,O175,H27,+,-,-,-,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,,-,,-,,-,,-
+SRR5470244,U,No data available ,Escherichia coli,501,O86,H17,+,-,R,CTX-M-15,,,,R,R,"aph(6)-Id,strA-strB;aadA-5",R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[80:S-I],R,erm(B);mph-(A),R,dfrA-17,,-,R,sul-2,,-
+SRR5470242,M,Pakistan,Escherichia coli,975,O78,H10,+,-,R,TEM-1,,,,,,aadA-8b;aadA-2,,,,-,-,,R,dfrA-12,R,tet(A),R,sul-2;sul-1,,-
+SRR5470241,M,No data available ,Escherichia coli,200,O175,H31,+,-,R,DHA-1,,,,,,-,,,,qnrB-4,-,mph-(A),R,dfrA-17,,-,,sul-1,,-
+SRR5470240,F,Macau,Escherichia coli,841,O65,H12,+,-,R,TEM-1,,,,,,-,,,,-,-,,,-,R,tet(A),,-,,-
+SRR5470239,F,Cuba,Escherichia coli,2186,O182,H23,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470237,M,No travel,Escherichia coli,4213,O55,H21,+,-,-,-,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5470236,M,No data available ,Escherichia coli,200,O126,H27,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470235,F,India,Escherichia coli,4213,O55,H21,+,-,-,-,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5470234,M,No travel,Escherichia coli,34,O92,H33,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",R,,,gyrA_EC2[83:S-A],-,,R,dfrA-1,,-,R,sul-2,,-
+SRR5470233,F,No data available ,Escherichia coli,200,O126,H27,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470232,M,No travel,Escherichia coli,1891,O78,H7,+,-,R,CTX-M-15;TEM-1,,,,,,-,R,R,,gyrA_EC2[83:S-L],R,erm(B);mph-(A),,-,,-,,-,,-
+SRR5470231,F,Egypt,Escherichia coli,200,O131,H25,+,-,R,CTX-M-15;TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,,-,,-,R,sul-2,,-
+SRR5470230,M,No data available ,Escherichia coli,200,O175,H31,+,-,R,DHA-1,,,,,,-,,R,,qnrB-4,R,mph-(A),R,dfrA-17,,-,,sul-1,,-
+SRR5470229,F,Cape verde,Escherichia coli,34,O92,H33,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470227,M,Egypt,Escherichia coli,34,O92,H33,+,-,R,TEM-1,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,,-,,-,R,sul-2,,-
+SRR5470226,M,Thailand,Escherichia coli,414,O17-O44,H18,+,-,-,-,,,,,,-,,,,-,-,,R,dfrA-5,R,tet(A)-1,R,sul-1,,-
+SRR5470225,F,India,Escherichia coli,315,O86,H30,+,-,R,CTX-M-15;OXA-1;TEM-1,R,R,,R,,"aph(6)-Id,strA-strB;aac(3)-IIa;aac(6')-Ib-cr;aadA-5",R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[80:S-I],R,mph-(A),R,dfrA-1;dfrA-17,R,tet(D),R,sul-2;sul-1,,-
+SRR5470224,M,India,Escherichia coli,P3084,O11,H11,+,-,R,CTX-M-15;OXA-1,,R,,,,aac(6')-Ib-cr;aadA-5,R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[57:S-T;80:S-I],-,,R,dfrA-17,R,tet(A)-1,R,sul-1,R,catA-1
+SRR5470222,M,No data available ,Escherichia coli,200,O175,H27,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,,-,,-,R,sul-2,,-
+SRR5470221,F,No data available ,Escherichia coli,10,O86,H2,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470220,F,India,Escherichia coli,1380,O17-O77,H18,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470219,M,"Tanzania, united republic of",Escherichia coli,P3239,-,H16,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,R,mph-(A),R,dfrA-14,,-,R,sul-2,,-
+SRR5470218,M,No data available ,Escherichia coli,3570,O86,H27,+,-,-,,,,,R,I,"aph(6)-Id,strA-strB",,,,-,-,,,-,,-,R,sul-2,,-
+SRR5470217,U,No data available ,Escherichia coli,P3234,O176,H33,+,-,-,-,,,,,,-,R,,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5470216,F,Unknown Destination,Escherichia coli,P3161,O86,H2,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-8,R,tet(A),R,sul-2,,-
+SRR5470215,U,No data available ,Escherichia coli,678,O104,H17,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-1,R,tet(A)-1,R,sul-2;sul-1,R,catA-1
+SRR5470166,F,India,Escherichia coli,295,-,H10,+,-,R,CTX-M-15,,,,,,-,R,,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5470165,M,No data available ,Escherichia coli,200,O126,H27,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470164,M,Morocco,Escherichia coli,678,O104,H17,+,-,R,TEM-1,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,R,dfrA-7,,-,,-,,-
+SRR5470162,U,No data available ,Escherichia coli,10,O78,H2,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-7,R,tet(A)-1,R,sul-1;sul-2,,-
+SRR5470161,M,No data available ,Escherichia coli,4213,O55,H21,+,-,-,-,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5470160,M,No data available ,Escherichia coli,1380,O17-O77,H18,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5470159,U,No data available ,Escherichia coli,10,O78,H2,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-7,R,tet(A)-1,R,sul-1;sul-2,,-
+SRR5470158,M,India,Escherichia coli,130,O176,H34,+,-,R,DHA-1,,,,,,-,R,R,,gyrA_EC2[83:S-L];parC_EC2[57:S-T];qnrB-4,R,mph-(A),R,dfrA-17,,-,,sul-1,,-
+SRR5470157,M,Egypt,Escherichia coli,678,O181,H17,+,-,R,TEM-1,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,R,dfrA-7,,-,,-,,-
+SRR5470155,M,Pakistan,Escherichia coli,38,O51,H30,+,OXA-181,R,CMY-16;CTX-M-15;OXA-1;TEM-1,,R,,,,aadA-1b;aac(6')-Ib-cr,R,R,R,gyrA_EC2[83:S-L];parC_EC1[80:S-I;84:E-V];qnrS-1,-,,R,dfrA-1,R,tet(A)-1;tet(D),R,sul-2,R,catA-1
+SRR5470154,F,India,Escherichia coli,678,O104,H17,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5035021,M,No data available ,Escherichia coli,295,-,H10,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5035015,M,Spain,Escherichia coli,200,O175,H27,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,R,,qnrB-19,-,,R,dfrA-8,,-,R,sul-2,,-
+SRR5035009,F,No data available ,Escherichia coli,295,-,H10,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5034998,F,Hungary,Escherichia coli,P3076,-,H33,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5034997,F,India,Escherichia coli,678,O104,H17,+,-,R,CTX-M-15;TEM-1,,,,R,R,"aph(6)-Id,strA-strB",R,R,R,gyrA_EC2[83:S-V];qnrS-1,R,mph-(A),R,dfrA-7,R,tet(A)-1,R,sul-2,,-
+SRR5034997,F,Pakistan,Escherichia coli,38,-,H30,+,-,R,CTX-M-15;TEM-1,R,R,,R,R,"aph(6)-Id,strA-strB;aac(3)-IIa",R,R,,gyrA_EC2[83:S-L];parC_EC2[57:S-T],-,,R,dfrA-5,R,tet(A),R,sul-2,,-
+SRR5034994,M,No travel,Escherichia coli,295,-,H10,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5034981,M,Pakistan,Escherichia coli,3570,-,H10,+,-,R,TEM-1,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,R,dfrA-5,,-,R,sul-1,R,catA-1
+SRR5031195,F,No travel,Escherichia coli,746,-,H19,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5031167,F,No data available ,Escherichia coli,-,-,H30,+,-,R,CTX-M-15;TEM-1,,,,R,R,"aadA-1b;aph(6)-Id,strA-strB",R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[80:S-I],-,,R,dfrA-1,R,tet(D),R,sul-2,R,catA-1
+SRR5030830,F,Namibia,Escherichia coli,200,O175,H28,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5030812,F,Turkey,Escherichia coli,746,-,H19,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5030794,F,Egypt,Escherichia coli,-,O55,H19,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-1,,-,R,sul-1;sul-2,,-
+SRR5030787,F,Pakistan,Escherichia coli,227,-,H21,+,-,R,CTX-M-15,,,,R,R,"aadA-1b;aph(6)-Id,strA-strB",R,,,gyrA_EC2[83:S-V],-,,R,dfrA-1,R,tet(A),R,sul-2,,-
+SRR5024249,F,No data available ,Escherichia coli,4213,O55,H21,+,-,-,-,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5024242,M,Greece,Escherichia coli,4213,O55,H21,+,-,-,-,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5024242,F,Turkey,Escherichia coli,69,O25,H18,+,-,-,-,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5024189,F,Asian continent,Escherichia coli,159,O15,H19,+,-,R,TEM-1,,,,,,"aph(6)-Id,strA-strB",R,,,gyrA_EC2[83:S-A],-,,,-,R,tet(A),,-,,-
+SRR5023954,F,India,Escherichia coli,4305,O6,H10,+,-,R,CTX-M-15,,,,,,-,R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[80:S-I],-,,,-,,-,,-,,-
+SRR5023893,M,Middle East ,Escherichia coli,10,O92,H17,-,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5018318,F,No travel,Escherichia coli,10,-,H2,+,-,-,,,,,,R,"aph(6)-Id,strA-strB",,,,-,-,mdf(A)[v];mph-(A);strA,R,dfrA-14,,-,R,sul-2,,-
+SRR5006410,F,No travel,Escherichia coli,200,O126,H27,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5006351,F,Macau,Escherichia coli,2959,O17-O77,H18,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5006351,F,No data available ,Escherichia coli,4213,O55,H21,+,-,-,-,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR5005541,F,Turkey,Escherichia coli,975,O78,H10,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR5005419,M,France,Escherichia coli,34,O92,H33,+,-,R,TEM-1,,,,,,-,R,,,gyrA_EC2[83:S-V],R,mph-(A),R,dfrA-1,,-,R,sul-2,,-
+SRR5005419,F,No data available ,Escherichia coli,38,O11,H30,+,-,R,CTX-M-15;OXA-1,,R,,R,R,"aac(6')-Ib-cr;aadA-1b;aph(6)-Id,strA-strB",R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[57:S-T;80:S-I],R,erm(B);mph-(A),R,dfrA-1,,-,R,sul-2,,-
+SRR4897829,M,No data available ,Escherichia coli,34,O92,H33,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR4897754,F,Mexico,Escherichia coli,414,O17-O44,H18,+,-,-,-,,,,,,-,,,,-,-,,R,dfrA-5,R,tet(A)-1,R,sul-1,,-
+SRR4897740,F,No data available ,Escherichia coli,1380,O17-O77,H18,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR4897696,F,No data available ,Escherichia coli,10,O78,H2,+,-,R,TEM-1,,,,R,R,-,,,,-,-,,R,dfrA-7,R,tet(A)-1,R,sul-2;sul-1,,-
+SRR4897691,F,Turkey,Escherichia coli,10,O3,H2,+,-,-,-,,,,,,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-1,R,tet(A)-1,R,sul-1,,-
+SRR4897658,F,Unknown Destination,Escherichia coli,642,O127,H4,+,-,R,CTX-M-15,,,,,,aadA-5,,R,,qnrS-1,R,mph-(A),R,dfrA-17,,-,R,sul-1,,-
+SRR4897658,M,No data available ,Escherichia coli,40,O111SSI,H21,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR4897325,F,Puerto rico,Escherichia coli,34,O92,H33,+,-,R,TEM-1,,,,R,I,"aph(6)-Id,strA-strB",,R,,qnrB-19,-,,R,dfrA-8,R,tet(A),R,sul-2,,-
+SRR4897325,F,Turkey,Escherichia coli,200,O175,H28,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR4897286,M,Morocco,Escherichia coli,10,O3,H2,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-1,R,tet(A)-1,R,sul-2;sul-1,R,catA-1
+SRR4897286,M,No data available ,Escherichia coli,200,O175,H31,+,-,R,TEM-1,,,,,,aadA-5,,,,-,-,,R,dfrA-17,,-,R,sul-1,,-
+SRR4897128,M,No data available ,Escherichia coli,38,O99,H30,+,-,R,CTX-M-15;TEM-1,R,R,,R,R,"aph(6)-Id,strA-strB;aac(3)-IIa;aadA-1b",R,R,,gyrA_EC2[83:S-L],-,,R,dfrA-1,R,tet(D),R,sul-2,R,catA-1
+SRR4897052,F,Thailand,Escherichia coli,200,O175,H31,+,-,R,TEM-1,,,,,,-,,R,,qnrS-1,-,mph-(A),,-,R,tet(A)-1,,-,,-
+SRR4788322,M,India,Escherichia coli,4305,O6,H10,+,-,R,DHA-1,,,,,,-,R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[80:S-I];qnrB-4,R,mph-(A),R,dfrA-17,,-,,sul-1,,-
+SRR4788322,M,Pakistan,Escherichia coli,34,O92,H33,+,-,R,CTX-M-15,,,,,,-,R,R,R,gyrA_EC2[83:S-V];qnrS-1,-,,R,dfrA-1,R,tet(A)-1,R,sul-2,,-
+SRR4788299,F,India,Escherichia coli,38,O10,H30,+,-,R,CTX-M-14;DHA-1;TEM-1,,,,,,-,,,,qnrB-4,R,mph-(A),R,dfrA-1;dfrA-17,R,tet(D),,sul-1,R,catA-1
+SRR4788224,F,Northern Ireland,Escherichia coli,200,O175,H31,+,-,R,DHA-1,,,,R,I,"aph(6)-Id,strA-strB",,,,qnrB-4,R,mph-(A),R,dfrA-17,R,tet(A)-1,R,sul-2;sul-1,,-
+SRR4788224,M,Thailand,Escherichia coli,34,O92,H33,+,-,R,TEM-1,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,R,dfrA-1,,-,R,sul-2,,-
+SRR4788201,M,Mexico,Escherichia coli,P3112,O65,H11,+,-,R,OXA-1;TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,R,,parC_EC2[56:A-T];qnrB-19,-,,R,dfrA-8,R,tet(A),R,sul-2,R,catA-1
+SRR4788162,F,Tunisia,Escherichia coli,200,O126,H27,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR4788122,F,No data available ,Escherichia coli,746,-,H19,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR4788122,M,No data available ,Escherichia coli,10,O99,H4,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR4787797,M,No data available ,Escherichia coli,278,O181,H10,+,-,-,-,,,,,,-,R,,,gyrA_EC2[87:D-N],-,,,-,,-,,-,,-
+SRR4787774,F,Sierra leone,Escherichia coli,3032,-,H31,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB;aadA-8b;aadA-2",,,,-,-,,R,dfrA-12,R,tet(A)-1,R,sul-2;sul-1,R,catA-1
+SRR4787770,M,No data available ,Escherichia coli,34,O99,H10,+,-,R,TEM-1,,,,R,,aadA-1b,R,R,,gyrA_EC2[83:S-L],-,,R,dfrA-1,,-,R,sul-2,,-
+SRR4787298,M,India,Escherichia coli,P3040,O15,H34,+,-,R,CTX-M-15;OXA-1,,R,,,,aac(6')-Ib-cr,R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[57:S-T;80:S-I],-,,,-,R,tet(A)-1,,-,,-
+SRR4787196,F,No data available ,Escherichia coli,34,O92,H33,+,-,R,TEM-1,,,,R,I,"aph(6)-Id,strA-strB",,R,,qnrB-19,R,mph-(A),R,dfrA-14,,-,R,sul-2,,-
+SRR4787196,M,No data available ,Escherichia coli,130,O176,H34,+,-,R,TEM-1,,,,,,-,R,R,,gyrA_EC2[83:S-L];parC_EC2[57:S-T],-,,R,dfrA-5,R,tet(A)-1,R,sul-1,,-
+SRR4787165,F,India,Escherichia coli,5601,-,H19,+,-,-,-,,,,,,-,R,,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR4184844,F,India,Escherichia coli,34,O92,H33,+,-,R,CTX-M-15;TEM-1,,,,,,-,R,R,R,gyrA_EC2[83:S-V];qnrS-1,R,mph-(A),,-,R,tet(A)-1,,-,,-
+SRR3581398,M,No data available ,Escherichia coli,88,-,H11,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,R,mph-(A),R,dfrA-7,R,tet(A)-1,R,sul-2,,-
+SRR3581397,F,Portugal,Escherichia coli,200,O126,H27,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3581393,M,No data available ,Escherichia coli,40,O111SSI,H21,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3581362,F,Egypt,Escherichia coli,P3075,O59,H19,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3579381,M,No travel,Escherichia coli,38,O25,H30,+,-,R,CTX-M-15,,,,R,R,"aadA-1b;aph(6)-Id,strA-strB",R,R,,gyrA_EC2[83:S-V],-,,R,dfrA-1,,-,R,sul-2,,-
+SRR3579302,F,India,Escherichia coli,130,O17-O77,H34,+,-,R,CTX-M-15,,,,R,R,"aph(6)-Id,strA-strB",R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[57:S-T;80:S-I;84:E-G],-,,R,dfrA-1,R,tet(A),R,sul-2,R,catA-1
+SRR3579204,M,India,Escherichia coli,200,O175,H31,+,-,R,TEM-1,,,,,,-,,R,,qnrS-1,R,mph-(A),,-,R,tet(A)-1,,-,,-
+SRR3578958,M,No data available ,Escherichia coli,200,O175,H31,+,-,R,DHA-1,,,,,,-,,,,qnrB-4,R,mph-(A),R,dfrA-17,,-,,sul-1,,-
+SRR3578948,F,No data available ,Escherichia coli,1664,O142,H12,+,-,R,CTX-M-15;TEM-1,,,,,,-,R,R,R,gyrA_EC2[83:S-L;87:D-Y];parC_EC2[80:S-I],R,erm(B);mph-(A),R,dfrA-1,R,tet(A),,-,,-
+SRR3578937,F,Kenya,Escherichia coli,841,O65,H12,+,-,R,TEM-1,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,R,tet(A),,-,,-
+SRR3578934,M,No data available ,Escherichia coli,457,O11,H25,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-7,R,tet(A)-1,R,sul-1;sul-2,,-
+SRR3578918,F,No data available ,Escherichia coli,10,O99,H17,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3578911,F,No data available ,Escherichia coli,678,O104,H17,+,-,-,-,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,,-,,-,,-,,-
+SRR3578910,U,Unknown Destination,Escherichia coli,34,O92,H33,+,-,R,TEM-1,,,,,,-,R,R,,gyrA_EC2[83:S-V],R,mph-(A),R,dfrA-1,,-,R,sul-2,,-
+SRR3578796,M,No data available ,Escherichia coli,-,O33,H16,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3578792,F,United states,Escherichia coli,34,O92,H33,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3578766,M,No data,Escherichia coli,69,O17-O77,H18,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-8,R,tet(A),R,sul-2,,-
+SRR3578667,M,Egypt,Escherichia coli,200,O175,H31,+,-,R,DHA-1,,,,,,-,,R,,qnrB-4,R,mph-(A),R,dfrA-17,,-,,sul-1,,-
+SRR3578662,F,No data available ,Escherichia coli,38,O3,H30,+,-,R,CTX-M-15;OXA-1,,R,,,,aac(6')-Ib-cr;aadA-1b,R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[57:S-T;80:S-I],-,,R,dfrA-1,R,tet(A)-1,,-,,-
+SRR3578658,F,No data available ,Escherichia coli,10,O3,H2,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,,-,R,tet(A),R,sul-2,,-
+SRR3578644,M,American Samoa,Escherichia coli,31,O15,H18,+,-,R,CTX-M-15;TEM-1,,,,R,,aadA-1,R,R,R,gyrA_EC2[83:S-L];parC_EC2[57:S-T];qnrS-1,-,,,-,,-,R,sul-1,,-
+SRR3578644,M,American Samoa,Escherichia coli,2067,O89,H5,-,-,R,CTX-M-15;OXA-1,,R,,,,aadA-1b;ant(2'')-Ia,R,,,gyrA_EC2[87:D-N],-,,R,dfrA-18,R,tet(A),R,sul-1,R,catA-1;catB-3
+SRR3578628,M,Kenya,Escherichia coli,457,O11,H25,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-7;dfrA-14,R,tet(A)-1,R,sul-1;sul-2,,-
+SRR3578627,U,No data available ,Escherichia coli,295,O84,H27,+,-,R,OXA-1,,,,,,"aph(6)-Id,strA-strB",R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[80:S-I],-,,R,dfrA-14,R,tet(A),R,sul-2,,-
+SRR3578615,F,Morocco,Escherichia coli,678,O181,H17,+,-,-,-,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,,-,,-,,-,,-
+SRR3578613,M,India,Escherichia coli,P3065,O54,H42,+,-,,-,,,,,,-,R,R,,gyrA_EC2[83:S-L];parC_EC2[80:S-I],-,,,-,,-,,-,,-
+SRR3578602,M,No data available ,Escherichia coli,40,O154,H21,+,-,R,TEM-1,,,,,,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-14,R,tet(A)-1,R,sul-2,,-
+SRR3578158,M,No data available ,Escherichia coli,678,O104,H17,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-7,,-,R,sul-2,,-
+SRR3574337,M,Pakistan,Escherichia coli,295,O33,H16,+,-,R,CTX-M-15;TEM-1,,,,R,R,"aph(6)-Id,strA-strB",R,R,,gyrA_EC2[83:S-A];qnrS-1,-,,R,dfrA-14;dfrA-1,R,tet(A)-1,R,sul-2,,-
+SRR3574331,F,Unknown Destination,Escherichia coli,678,O181,H17,+,-,R,CTX-M-15;TEM-1,R,R,,R,R,"aph(6)-Id,strA-strB;aac(3)-IIa",R,,,gyrA_EC2[83:S-A],-,,R,dfrA-7,R,tet(A)-1,R,sul-2,,-
+SRR3574317,M,India,Escherichia coli,381,O148,H9,-,-,R,-,,,,,,-,R,,,gyrA_EC2[83:S-L],-,,,-,,-,,-,,-
+SRR3574315,F,No travel,Escherichia coli,23,O78,H12,+,-,R,CTX-M-15;TEM-1,,,,,,-,,,,-,R,mph-(A),,-,,-,,-,,-
+SRR3574310,F,Unknown Destination,Escherichia coli,3032,O126,H31,+,-,R,TEM-1,,,,,,aadA-8b;aadA-2,,,,-,R,mph-(A),R,dfrA-12,R,tet(A)-1,R,sul-1,,-
+SRR3574308,M,Pakistan,Escherichia coli,10,O176,H33,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",R,R,,gyrA_EC2[83:S-A];qnrS-1,-,,R,dfrA-14,,-,R,sul-2,,-
+SRR3574300,F,No data available ,Escherichia coli,40,O111SSI,H21,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3574284,F,No data available ,Escherichia coli,10,O33,H19,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3574280,F,No data available ,Escherichia coli,200,O126,H27,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3574271,M,No data available ,Escherichia coli,40,O111SSI,H21,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3574255,M,India,Escherichia coli,841,O65,H12,+,-,R,TEM-1,,,,,,-,R,R,,gyrA_EC2[83:S-L],-,,,-,R,tet(A),,-,,-
+SRR3574249,M,No data available ,Escherichia coli,200,O126,H27,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3574247,M,No data available ,Escherichia coli,73,O6,H1,+,-,R,TEM-1,,,,,,-,,,,-,-,,,-,,-,,-,,-
+SRR3574244,M,India,Escherichia coli,4305,O6,H10,+,-,R,CTX-M-15,,,,,,-,R,R,,gyrA_EC2[83:S-V];parC_EC2[80:S-I],-,,,-,,-,,-,,-
+SRR3574232,F,Northern Ireland,Escherichia coli,P3154,-,H10,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",R,,,gyrA_EC2[83:S-L],-,,R,dfrA-8,R,tet(A)-1,R,sul-2,,-
+SRR3574231,F,No travel,Escherichia coli,P3157,O99,H10,+,-,-,-,,,,,,-,R,,,gyrA_EC2[83:S-A],-,,R,dfrA-17,,-,-,-,,-
+SRR3574028,M,No travel,Escherichia coli,200,O175,H31,+,-,R,DHA-1,,,,,,-,,R,,qnrB-4,R,mph-(A),R,dfrA-17,,-,,sul-1,,-
+SRR3574027,F,No data available ,Escherichia coli,315,O86,H30,+,-,R,CTX-M-15,,,,R,R,"aadA-1b;aph(6)-Id,strA-strB",R,R,R,gyrA_EC2[83:S-L;87:D-N];parC_EC2[80:S-I],-,,R,dfrA-1,,-,R,sul-2,,-
+Not available,M,"Tanzania, united republic of",Escherichia coli,295,O33,H16,+,-,-,-,,,,,,"aph(6)-Id,strA-strB",,,,-,-,,R,dfrA-14,,-,R,sul-2,,-
+Not available,F,No data available ,Escherichia coli,3032,O126,H27,+,-,R,TEM-1,,,,R,R,"aph(6)-Id,strA-strB",R,R,,gyrA_EC2[83:S-L],-,,R,dfrA-7,R,tet(A)-1,R,sul-2,R,catA-1
+Not available,U,No data available ,Escherichia coli,2959,O17-O77,H18,+,-,-,-,,,,,,-,,,,-,-,,,-,,-,,-,,-

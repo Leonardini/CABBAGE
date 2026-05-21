@@ -53,12 +53,9 @@ concatenateAllFiles = function() {
   setwd(initDir)
 }
 
-### Performs all genotype-phenotype joins to produce the final *_Merged_Processed.csv files
-### for every paper and database source. Many joins require bespoke key reformatting before
-### calling joinGenoPheno (e.g. stripping prefixes, padding numbers, extracting identifiers
-### from FTP paths). Covers SelectedTables, RemainingTables, PATRIC, NARMS, CDC, COMPARE-ML,
-### PathogenWatch, and Microreact sources. Must be run after concatenateAllFiles.
-joinAllGenoPheno = function() {
+### Performs all genotype-phenotype joins for papers in SelectedTables/.
+### Many joins require bespoke key reformatting before calling joinGenoPheno.
+joinSelectedPapers = function() {
   initDir = getwd()
   setwd(paste0(WORKING_DIR, "SelectedTables"))
   Q0 = joinGenoPheno("PMID_34867917_filereport_read_run_PRJNA600010_Genotype_Processed.csv", 
@@ -302,6 +299,13 @@ joinAllGenoPheno = function() {
   C35 = concatenateFiles(c("PMID_30643125_PartA_Merged_Processed.csv", 
                            "PMID_30643125_PartB_Phenotype_Processed.csv"),
                          "PMID_30643125_Merged_Processed.csv")
+  setwd(initDir)
+}
+
+### Performs all genotype-phenotype joins for papers in RemainingTables/.
+### Many joins require bespoke key reformatting before calling joinGenoPheno.
+joinRemainingPapers = function() {
+  initDir = getwd()
   setwd(paste0(WORKING_DIR, "RemainingTables"))
   Tab0 = read_csv("PMID_23299977_Genotype_Processed.csv") %>%
     mutate(short_ftp = submitted_ftp %>%
@@ -504,16 +508,35 @@ joinAllGenoPheno = function() {
                       "PMID_31086182_PartA_Phenotype_Processed.csv",
                       "secondary_sample_accession", "BioSample", 
                       outFilename = "PMID_31086182_PartA_Merged_Processed.csv")
-  C38 = concatenateFiles(c("PMID_31086182_PartB_Phenotype_Processed.csv", 
+  C38 = concatenateFiles(c("PMID_31086182_PartB_Phenotype_Processed.csv",
                            "PMID_31086182_PartA_Merged_Processed.csv"),
                          "PMID_31086182_Merged_Processed.csv")
+  concatenateFiles(paste0(WORKING_DIR, "Mappings/", c("AllMappingsRemainingTables.csv",
+                                                       "AllMappingsSelectedTables.csv")),
+                   paste0(WORKING_DIR, "Mappings/", "AllMappingsTables.csv"))
+  setwd(initDir)
+}
+
+### Performs all genotype-phenotype joins for the PATRIC database.
+### Joins AMR data via BioSample accessions and deduplicates the final
+### PATRIC_Merged_Processed.csv.
+joinPATRIC = function() {
+  initDir = getwd()
   setwd(paste0(WORKING_DIR, "Databases/PATRIC"))
-  Qa = concatenateFiles(paste0(WORKING_DIR, "Mappings/", c("AllMappingsRemainingTables.csv", 
-                                                           "AllMappingsSelectedTables.csv")), 
-                        paste0(WORKING_DIR, "Mappings/", "AllMappingsTables.csv"))
-  Qb = joinGenoPheno(paste0(WORKING_DIR, "Mappings/PATRICMappings.csv"), 
+  fullMapping = read_csv(paste0(WORKING_DIR, "Mappings/PATRIC_genomes_AMR_Reduced_Mapped.csv"),
+                         guess_max = Inf, show_col_types = FALSE)
+  tempMapping = bind_rows(fullMapping %>%
+      select(sample_accession, run_accession) %>%
+      separate_rows(sample_accession, sep = ";"),
+    fullMapping %>%
+      select(sample_accession = secondary_sample_accession, run_accession) %>%
+      separate_rows(sample_accession, sep = ";")
+  ) %>%
+    distinct()
+  write_csv(tempMapping, paste0(WORKING_DIR, "Mappings/PATRICMappings.csv"))
+  Qb = joinGenoPheno(paste0(WORKING_DIR, "Mappings/PATRICMappings.csv"),
                             "PATRIC_genomes_AMR_Reduced.csv",
-                            "ID", "biosample_accession", outFilename = "PATRIC_PartA_Merged_Processed.csv")
+                            "sample_accession", "biosample_accession", outFilename = "PATRIC_PartA_Merged_Processed.csv")
   Qc = read_csv("PATRIC_genomes_AMR_Reduced.csv", guess_max = Inf)
   Qd = Qc %>%
     filter(is.na(assembly_accession) & is.na(genbank_accessions) & is.na(refseq_accessions) & !is.na(biosample_accession))
@@ -529,8 +552,8 @@ joinAllGenoPheno = function() {
   Qf = read_csv("PATRIC_Merged_Processed.csv", guess_max = Inf) %>%
     select(-N, -Database, - file, -measurement) %>%
     distinct(.keep_all = TRUE)
-  badIndices = which(duplicated(Qf %>% select(c(1:8, 11:46))))
-  badAccessions = Qf %>% 
+  badIndices = which(duplicated(Qf %>% select(-resistant_phenotype, -measurement_sign)))
+  badAccessions = Qf %>%
     slice(badIndices) %>%
     pull(biosample_accession)
   altAccessions1 = paste0(WORKING_DIR, "Databases/NDARO/StaphylococcusAureus.324.amr.metadata.filtered_Processed.csv") %>%
@@ -545,6 +568,13 @@ joinAllGenoPheno = function() {
   write_csv(Qf, "PATRIC_Merged_Processed.csv")
   # Qg = widenResistance(fname = "PATRIC_Merged_Processed.csv",
   #                     repColumns = c(1:7, 11:46), pivotColumn = 8, splitColumns = 9:10, dropColumns = FALSE)
+  setwd(initDir)
+}
+
+### Performs all genotype-phenotype joins for the NARMS database (Campylobacter,
+### E. coli O157, Shigella, and Salmonella), joining on NCBI accession number.
+joinNARMS = function() {
+  initDir = getwd()
   setwd(paste0(WORKING_DIR, "Databases/NARMS"))
   Qh = joinGenoPheno("NARMS_Campylobacter_filereport_read_run_PRJNA239251_Genotype_Processed.csv", 
                      "NARMS_Campylobacter_IsolateData.csv",
@@ -566,7 +596,13 @@ joinAllGenoPheno = function() {
                      "NARMS_TyphoidalSalmonella_IsolateData.csv",
                      "sample_accession", "NCBI.Accession.Number", 
                      outFilename = "NARMS_TyphoidalSalmonella_Merged_Processed.csv")
-  setwd(paste0(WORKING_DIR, "Databases/pubMLST"))
+  setwd(initDir)
+}
+
+### Performs all genotype-phenotype joins for the CDC IsolateBank database,
+### resolving BioSample accessions via the EBI API.
+joinCDC = function() {
+  initDir = getwd()
   setwd(paste0(WORKING_DIR, "Databases/CDC"))
   Qn = read_csv("CDC_IsolateBank_MIC Data - All Panels.csv") %>%
     filter(!is.na())
@@ -574,6 +610,13 @@ joinAllGenoPheno = function() {
   ### Initially only converted the accession numbers that were not found in other processed files; now do all! 
   Qp = convertAccessions("CDC_Phenotypes_Processed.csv", cName = "BioSampleAccessionNum", short = TRUE, 
                     previousMappingsFile = paste0(WORKING_DIR, "Mappings/CDCMappings.csv"))
+  setwd(initDir)
+}
+
+### Performs all genotype-phenotype joins for the COMPARE-ML AMR database.
+### Depends on AllMappingsTables.csv produced by joinPATRIC().
+joinCOMPARE = function() {
+  initDir = getwd()
   setwd(paste0(WORKING_DIR, "Databases/COMPARE_ML_AMR"))
   Qr = joinGenoPheno(paste0(WORKING_DIR, "Mappings/COMPAREMappings.csv"), 
                     "AllAntibiograms_WidenedRes_Processed.csv",
@@ -584,6 +627,12 @@ joinAllGenoPheno = function() {
   Qu = concatenateFiles(c("AllAntibiograms_WidenedRes_PartA_Merged_Processed.csv", 
                           "AllAntibiograms_WidenedRes_PartB_Merged_Processed.csv"),
                         "COMPARE_ML_AMR_WidenedRes_Merged_Processed.csv")
+  setwd(initDir)
+}
+
+### Performs all genotype-phenotype joins for the Microreact database (PMID_31107206).
+joinMicroreact = function() {
+  initDir = getwd()
   setwd(paste0(WORKING_DIR, "Databases/microreact"))
   Qv = read_csv("PMID_31107206_000269_2_Processed.csv")
   Qw = Qv %>%
@@ -598,6 +647,13 @@ joinAllGenoPheno = function() {
   Qy = concatenateFiles(c("PMID_31107206_PartA_Merged_Processed.csv", 
                           "PMID_31107206_000269_2_PartB_Phenotype_Processed.csv"),
                         "PMID_31107206_Merged_Processed.csv")
+  setwd(initDir)
+}
+
+### Performs all genotype-phenotype joins for the PathogenWatch database
+### (S. aureus collections with ENA RUN and ERS sample accessions).
+joinPathogenWatch = function() {
+  initDir = getwd()
   setwd(paste0(WORKING_DIR, "Databases/PathogenWatch"))
   aTab = read_csv("pathogenwatch-saureus-4o6bnl6rl7bf-tong-et-al-2015_Merged_Processed.csv")
   bTab = aTab %>% 
@@ -618,6 +674,23 @@ joinAllGenoPheno = function() {
                            "pathogenwatch-saureus-4o6bnl6rl7bf-tong-et-al-2015_PartB_Mapped_Processed.csv"),
                          "pathogenwatch-saureus-4o6bnl6rl7bf-tong-et-al-2015_Merged_Mapped_Processed.csv")
   setwd(initDir)
+}
+
+### Performs all genotype-phenotype joins to produce the final *_Merged_Processed.csv files
+### for every paper and database source. Many joins require bespoke key reformatting before
+### calling joinGenoPheno (e.g. stripping prefixes, padding numbers, extracting identifiers
+### from FTP paths). Covers SelectedTables, RemainingTables, PATRIC, NARMS, CDC, COMPARE-ML,
+### PathogenWatch, and Microreact sources. Must be run after concatenateAllFiles.
+### Note: joinCOMPARE() depends on AllMappingsTables.csv produced by joinRemainingPapers().
+joinAllGenoPheno = function() {
+  joinSelectedPapers()
+  joinRemainingPapers()
+  joinPATRIC()
+  joinNARMS()
+  joinCDC()
+  joinCOMPARE()
+  joinMicroreact()
+  joinPathogenWatch()
 }
 
 ### Splits the PMID_31005733 SRA run table by organism: S. aureus rows get a Methicillin = "R"

@@ -191,11 +191,11 @@ processPATRIC = function() {
 ### Extracts assembly accessions from PATRIC_genomes_AMR_Reduced.csv (taken as the last
 ### space-separated token of the Rest column), deduplicates, and writes PATRICAccessions.csv.
 processPATRICFull = function() {
-  miniTab = read_csv("PATRIC/PATRIC_genomes_AMR_Reduced.csv")
+  miniTab = read_csv("PATRIC/PATRIC_genomes_AMR_Reduced.csv", guess_max = Inf)
   miniTab = miniTab %>% 
     select(1:(ncol(miniTab) - 1))
   Tab = miniTab %>% 
-    mutate(Accession = str_split(Rest, " ") %>% sapply(., function(x) {x[length(x)]})) %>%
+    mutate(Accession = str_split(Rest, " ") %>% sapply(., last)) %>%
     select(Genus, Species, Accession) %>%
     distinct()
   write_csv(Tab, "PATRICAccessions.csv")

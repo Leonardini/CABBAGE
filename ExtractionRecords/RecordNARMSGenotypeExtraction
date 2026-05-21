@@ -1,0 +1,11 @@
+> W=getAllGenotypes('.')
+[1] "NARMS_Campylobacter_Merged_Processed.csv"
+[1] "Found accessions for 2708 out of 2708 entries"     
+[1] "NARMS_EscherichiaColi_Merged_Processed.csv"                                                               
+[1] "Found accessions for 775 out of 775 entries"      
+[1] "NARMS_NonTyphoidalSalmonella_Merged_Processed.csv"                                                        
+[1] "Found accessions for 12046 out of 12046 entries"     
+[1] "NARMS_Shigella_Merged_Processed.csv"                                                                      
+[1] "Found accessions for 706 out of 706 entries"  
+[1] "NARMS_TyphoidalSalmonella_Merged_Processed.csv"                                                           
+[1] "Found accessions for 1896 out of 1896 entries" 

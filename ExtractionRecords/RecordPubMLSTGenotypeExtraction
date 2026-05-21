@@ -1,0 +1,9 @@
+> W=getAllGenotypes('.')
+[1] "HaemophilusInfluenzae_BIGSdb_006704_3061001494_52375_filtered_Processed.csv"
+[1] "Found accessions for 80 out of 80 entries"        
+[1] "NeisseriaGonorrhoeae_BIGSdb_007081_9819442260_92072_filtered_Processed.csv"                               
+[1] "Found accessions for 10397 out of 10397 entries"      
+[1] "StaphylococcusAureus_BIGSdb_006851_7123686100_76417_filtered_Processed.csv"                               
+[1] "Found accessions for 12 out of 12 entries"                  
+[1] "StreptococcusPneumoniae_BIGSdb_006851_0644820791_30477_filtered_Processed.csv"                            
+[1] "Found accessions for 93 out of 93 entries" 

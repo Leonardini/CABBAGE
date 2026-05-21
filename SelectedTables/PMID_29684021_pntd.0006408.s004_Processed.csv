@@ -1,0 +1,199 @@
+﻿Sample accession number,Lane accession number,Sanger_lane,Organism,Age of patient,Gender of patient,Genotype,Year of isolation,Patient status,AMR Genes,QRDR mutations,Plasmid replicons,Chloramphenicol,Cotrimoxazole,Ampicillin,Nalidixic acid,Ciprofloxacin,Cephalosporins
+ERS1545626,ERR2213822,22027_3#5,S. Typhi,unknown,unknown,2.0.0,2016,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545622,ERR2213818,22027_3#1,S. Typhi,unknown,unknown,2.2.0,2016,outpatient,-,-,-,S,S,S,S,S,S
+ERS1545631,ERR2213827,22027_3#10,S. Typhi,unknown,unknown,3.3.0,2016,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545197,ERR2213854,22027_3#37,S. Typhi,unknown,unknown,3.3.0,2016,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545223,ERR2213879,22027_3#62,S. Typhi,unknown,unknown,3.3.0,2016,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545201,ERR2213857,22027_3#40,S. Typhi,unknown,unknown,3.3.1,2016,outpatient,-,"gyrA S83F, parE A364V",-,S,S,S,IS,IS,S
+ERS1545632,ERR2213828,22027_3#11,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545633,ERR2213829,22027_3#12,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545634,ERR2213830,22027_3#13,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545635,ERR2213831,22027_3#14,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545636,ERR2213832,22027_3#15,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545637,ERR2213833,22027_3#16,S. Typhi,unknown,unknown,4.3.1,2016,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545638,ERR2213834,22027_3#17,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545639,ERR2213835,22027_3#18,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545640,ERR2213836,22027_3#19,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545623,ERR2213819,22027_3#2,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545641,ERR2213837,22027_3#20,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545642,ERR2213838,22027_3#21,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545643,ERR2213839,22027_3#22,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545644,ERR2213840,22027_3#23,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545645,ERR2213841,22027_3#24,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545646,ERR2213842,22027_3#25,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545647,ERR2213843,22027_3#26,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545648,ERR2213844,22027_3#27,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545649,ERR2213845,22027_3#28,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545650,ERR2213846,22027_3#29,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545624,ERR2213820,22027_3#3,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545651,ERR2213847,22027_3#30,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545652,ERR2213848,22027_3#31,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545653,ERR2213849,22027_3#32,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545654,ERR2213850,22027_3#33,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545655,ERR2213851,22027_3#34,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545656,ERR2213852,22027_3#35,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545657,ERR2213853,22027_3#36,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545200,ERR2213856,22027_3#39,S. Typhi,unknown,unknown,4.3.1,2016,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545625,ERR2213821,22027_3#4,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545202,ERR2213858,22027_3#41,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545203,ERR2213859,22027_3#42,S. Typhi,unknown,unknown,4.3.1,2016,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545204,ERR2213860,22027_3#43,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545205,ERR2213861,22027_3#44,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545206,ERR2213862,22027_3#45,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545207,ERR2213863,22027_3#46,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545208,ERR2213864,22027_3#47,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545209,ERR2213865,22027_3#48,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545211,ERR2213867,22027_3#50,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545212,ERR2213868,22027_3#51,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83Y,-,S,S,S,IS,IS,S
+ERS1545213,ERR2213869,22027_3#52,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545214,ERR2213870,22027_3#53,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545216,ERR2213872,22027_3#55,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545217,ERR2213873,22027_3#56,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545218,ERR2213874,22027_3#57,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545219,ERR2213875,22027_3#58,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545220,ERR2213876,22027_3#59,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545627,ERR2213823,22027_3#6,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545221,ERR2213877,22027_3#60,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545222,ERR2213878,22027_3#61,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545628,ERR2213824,22027_3#7,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545629,ERR2213825,22027_3#8,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545630,ERR2213826,22027_3#9,S. Typhi,unknown,unknown,4.3.1,2016,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545621,ERR1842968,20949_8#40,S. Typhi,unknown,unknown,3.3.1,2015,outpatient,-,"gyrA S83F, parE A364V",-,S,S,S,IS,IS,S
+ERS1545589,ERR1842964,20949_8#8,S. Typhi,unknown,unknown,4.3.1,2010,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545568,ERR1837290,20621_8#78,S. Typhi,unknown,unknown,4.3.1,2015,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545567,ERR1837289,20621_8#77,S. Typhi,unknown,unknown,4.3.1,2015,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545566,ERR1837288,20621_8#76,S. Typhi,unknown,unknown,4.3.1,2014,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545565,ERR1837287,20621_8#75,S. Typhi,unknown,unknown,4.3.1,2014,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545564,ERR1837286,20621_8#74,S. Typhi,unknown,unknown,3.2.2,2014,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545563,ERR1837285,20621_8#73,S. Typhi,unknown,unknown,4.3.1,2014,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545562,ERR1837284,20621_8#72,S. Typhi,unknown,unknown,4.3.1,2014,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545561,ERR1837283,20621_8#71,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545560,ERR1837282,20621_8#70,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545558,ERR1837281,20621_8#69,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545557,ERR1837280,20621_8#68,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,S,S
+ERS1545555,ERR1837279,20621_8#67,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,gyrA S83Y,-,S,S,S,IS,IS,S
+ERS1545554,ERR1837278,20621_8#66,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545551,ERR1837275,20621_8#63,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545550,ERR1837274,20621_8#62,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545549,ERR1837273,20621_8#61,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545548,ERR1837272,20621_8#60,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545547,ERR1837271,20621_8#59,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,-,-,S,S,S,S,S,S
+ERS1545546,ERR1837270,20621_8#58,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545545,ERR1837269,20621_8#57,S. Typhi,unknown,unknown,4.3.1,2013,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545544,ERR1837268,20621_8#56,S. Typhi,unknown,unknown,3.3.0,2012,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545543,ERR1837267,20621_8#55,S. Typhi,unknown,unknown,4.3.1,2012,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545542,ERR1837266,20621_8#54,S. Typhi,unknown,unknown,4.3.1,2012,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545541,ERR1837265,20621_8#53,S. Typhi,unknown,unknown,4.3.1,2012,outpatient,-,gyrA S83F,pHCM2,S,S,S,IS,IS,S
+ERS1545540,ERR1837264,20621_8#52,S. Typhi,unknown,unknown,4.3.1,2012,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545539,ERR1837263,20621_8#51,S. Typhi,unknown,unknown,4.3.1,2012,outpatient,"catA1,dfrA7,sul1,blaTEM-1,strA,strB,sul2",gyrA S83F,-,IS,IS,IS,IS,IS,S
+ERS1545538,ERR1837262,20621_8#50,S. Typhi,unknown,unknown,4.3.1,2012,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545537,ERR1837261,20621_8#49,S. Typhi,unknown,unknown,4.3.1,2012,outpatient,"catA1,dfrA7,sul1,blaTEM-1,strA,strB,sul2",gyrA S83F,-,IS,IS,IS,IS,IS,S
+ERS1545536,ERR1837260,20621_8#48,S. Typhi,unknown,unknown,4.3.1,2012,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545535,ERR1837259,20621_8#47,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,"catA1,dfrA7,sul1,blaTEM-1,strA,strB,sul2",gyrA S83Y,-,IS,IS,IS,IS,IS,S
+ERS1545534,ERR1837258,20621_8#46,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545533,ERR1837257,20621_8#45,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,-,-,S,S,S,S,S,S
+ERS1545532,ERR1837256,20621_8#44,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,pHCM2,S,S,S,IS,S,S
+ERS1545531,ERR1837255,20621_8#43,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545530,ERR1837254,20621_8#42,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545529,ERR1837253,20621_8#41,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,pHCM2,S,S,S,IS,IS,S
+ERS1545528,ERR1837252,20621_8#40,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545527,ERR1837251,20621_8#39,S. Typhi,unknown,unknown,3.2.2,2011,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545526,ERR1837250,20621_8#38,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545525,ERR1837249,20621_8#37,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545524,ERR1837248,20621_8#36,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545523,ERR1837247,20621_8#35,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545522,ERR1837246,20621_8#34,S. Typhi,unknown,unknown,4.3.1,2011,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545521,ERR1837245,20621_8#33,S. Typhi,unknown,unknown,3.3.0,2010,outpatient,-,"gyrA S83F, parE A364V",-,S,S,S,IS,IS,S
+ERS1545520,ERR1837244,20621_8#32,S. Typhi,unknown,unknown,4.3.1,2010,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545519,ERR1837243,20621_8#31,S. Typhi,unknown,unknown,4.3.1,2010,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545518,ERR1837242,20621_8#30,S. Typhi,unknown,unknown,2.2.0,2010,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545517,ERR1837241,20621_8#29,S. Typhi,unknown,unknown,3.2.2,2010,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545516,ERR1837240,20621_8#28,S. Typhi,unknown,unknown,2.2.0,2010,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545515,ERR1837239,20621_8#27,S. Typhi,unknown,unknown,4.3.1,2010,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545514,ERR1837238,20621_8#26,S. Typhi,unknown,unknown,3.3.0,2010,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545513,ERR1837237,20621_8#25,S. Typhi,unknown,unknown,2.2.0,2010,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545512,ERR1837236,20621_8#24,S. Typhi,unknown,unknown,4.3.1,2010,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545511,ERR1837235,20621_8#23,S. Typhi,unknown,unknown,3.2.2,2010,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545509,ERR1837233,20621_8#21,S. Typhi,unknown,unknown,3.3.0,2010,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545508,ERR1837232,20621_8#20,S. Typhi,unknown,unknown,3.2.2,2010,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545507,ERR1837231,20621_8#19,S. Typhi,unknown,unknown,4.3.1,2010,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545506,ERR1837230,20621_8#18,S. Typhi,unknown,unknown,2.2.0,2010,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545505,ERR1837229,20621_8#17,S. Typhi,unknown,unknown,3.3.0,2010,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545504,ERR1837228,20621_8#16,S. Typhi,unknown,unknown,4.3.1,2010,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545503,ERR1837227,20621_8#15,S. Typhi,unknown,unknown,4.3.1,2010,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545502,ERR1837226,20621_8#14,S. Typhi,unknown,unknown,4.3.1,2009,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545501,ERR1837225,20621_8#13,S. Typhi,unknown,unknown,4.3.1,2009,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545500,ERR1837224,20621_8#12,S. Typhi,unknown,unknown,4.3.1,2009,outpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545499,ERR1837223,20621_8#11,S. Typhi,unknown,unknown,2.2.0,2009,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545498,ERR1837222,20621_8#10,S. Typhi,unknown,unknown,2.3.4,2009,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545497,ERR1837221,20621_8#9,S. Typhi,unknown,unknown,4.3.1,2009,outpatient,-,"gyrA S83F, parC E84G",pHCM2,S,S,S,IS,S,S
+ERS1545496,ERR1837220,20621_8#8,S. Typhi,unknown,unknown,4.3.1,2009,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545495,ERR1837219,20621_8#7,S. Typhi,unknown,unknown,4.3.1,2009,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545494,ERR1837218,20621_8#6,S. Typhi,unknown,unknown,2.2.0,2009,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545493,ERR1837217,20621_8#5,S. Typhi,unknown,unknown,3.3.0,2009,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545492,ERR1837216,20621_8#4,S. Typhi,unknown,unknown,4.3.1,2009,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545491,ERR1837215,20621_8#3,S. Typhi,unknown,unknown,4.3.1,2009,outpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545490,ERR1837214,20621_8#2,S. Typhi,unknown,unknown,3.3.0,2009,outpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545489,ERR1837213,20621_8#1,S. Typhi,unknown,unknown,3.3.0,2009,outpatient,-,-,-,S,S,S,S,IS,S
+ERS1545488,ERR1837212,20087_8#79,S. Typhi,10 years,M,4.3.1,2014,inpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545487,ERR1837211,20087_8#78,S. Typhi,5 years,M,4.3.1,2012,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545486,ERR1837210,20087_8#77,S. Typhi,6 years,F,3.3.0,2012,inpatient,-,parE A364V,-,S,S,S,IS,S,S
+ERS1545481,ERR1837205,20087_8#72,S. Typhi,6 years,M,4.3.1,2009,inpatient,-,-,-,S,S,S,S,IS,S
+ERS1545479,ERR1837203,20087_8#70,S. Typhi,2 years,F,4.3.1,2009,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545478,ERR1837202,20087_8#69,S. Typhi,12 years,M,4.1.0,2009,inpatient,-,-,-,S,S,S,S,IS,S
+ERS1545477,ERR1837201,20087_8#68,S. Typhi,11 years,F,4.3.1,2010,inpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545472,ERR1837196,20087_8#63,S. Typhi,14 years,F,2.2.0,2010,inpatient,-,-,-,S,S,S,S,IS,S
+ERS1545469,ERR1837193,20087_8#60,S. Typhi,14 years,F,2.2.0,2010,inpatient,-,-,-,S,S,S,S,S,S
+ERS1545468,ERR1837192,20087_8#59,S. Typhi,5 years,M,4.3.1,2010,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545467,ERR1837191,20087_8#58,S. Typhi,3 years,M,4.3.1,2010,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545466,ERR1837190,20087_8#57,S. Typhi,5 years,M,4.3.1,2010,inpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545465,ERR1837189,20087_8#56,S. Typhi,11 years,F,4.3.1,2010,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545464,ERR1837188,20087_8#55,S. Typhi,12 years,M,4.3.1,2010,inpatient,"catA1,dfrA7,sul1,blaTEM-1,strA,strB,sul2",gyrA S83Y,-,IS,IS,IS,IS,IS,S
+ERS1545463,ERR1837187,20087_8#54,S. Typhi,11months,M,4.3.1,2010,inpatient,-,gyrA S83Y,-,S,S,S,IS,IS,S
+ERS1545460,ERR1837184,20087_8#51,S. Typhi,2 years,F,4.3.1,2011,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545459,ERR1837183,20087_8#50,S. Typhi,2 years,M,4.3.1,2011,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545458,ERR1837182,20087_8#49,S. Typhi,5 years,F,4.3.1,2011,inpatient,-,"gyrA S83F, gyrA D87G, parC E84G",pHCM2,S,S,S,IS,IS,S
+ERS1545456,ERR1837180,20087_8#47,S. Typhi,8 years,F,4.3.1,2011,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545455,ERR1837179,20087_8#46,S. Typhi,12 years,M,4.3.1,2011,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545454,ERR1837178,20087_8#45,S. Typhi,1 year,M,2.3.4,2011,inpatient,-,-,-,S,S,S,S,IS,S
+ERS1545453,ERR1837177,20087_8#44,S. Typhi,6 years,M,4.3.1,2011,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545452,ERR1837176,20087_8#43,S. Typhi,1 year,F,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545451,ERR1837175,20087_8#42,S. Typhi,2 years,M,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545450,ERR1837174,20087_8#41,S. Typhi,1 year,F,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545449,ERR1837173,20087_8#40,S. Typhi,2 years,M,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545448,ERR1837172,20087_8#39,S. Typhi,5 years,M,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545447,ERR1837171,20087_8#38,S. Typhi,4 years,M,3.3.0,2013,inpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545445,ERR1837169,20087_8#36,S. Typhi,1 year,M,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545444,ERR1837168,20087_8#35,S. Typhi,3 years,M,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545443,ERR1837167,20087_8#34,S. Typhi,4 years,F,4.3.1,2013,inpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545442,ERR1837166,20087_8#33,S. Typhi,10 years,M,4.3.1,2013,inpatient,-,gyrA S83Y,-,S,S,S,IS,IS,S
+ERS1545441,ERR1837165,20087_8#32,S. Typhi,12 years,M,4.3.1,2013,inpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545440,ERR1837164,20087_8#31,S. Typhi,6 years,M,3.3.1,2013,inpatient,-,"gyrA S83F, parE A364V",-,S,S,S,IS,IS,S
+ERS1545439,ERR1837163,20087_8#30,S. Typhi,4 years,M,4.1.0,2013,inpatient,-,-,-,S,S,S,S,IS,S
+ERS1545438,ERR1837162,20087_8#29,S. Typhi,10 months,M,4.3.1,2013,inpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545437,ERR1837161,20087_8#28,S. Typhi,11 years,M,4.3.1,2013,inpatient,-,-,-,S,S,S,S,S,S
+ERS1545436,ERR1837160,20087_8#27,S. Typhi,3 years,M,4.1.0,2013,inpatient,-,-,-,S,S,S,S,S,S
+ERS1545435,ERR1837159,20087_8#26,S. Typhi,1 year,F,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545434,ERR1837158,20087_8#25,S. Typhi,1 year,M,4.3.1,2013,inpatient,-,"gyrA S83F, gyrA D87N, parC S80I",-,S,S,S,IS,IS,S
+ERS1545433,ERR1837157,20087_8#24,S. Typhi,2 years,M,4.3.1,2013,inpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545432,ERR1837156,20087_8#23,S. Typhi,7 years,F,4.3.1,2014,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545431,ERR1837155,20087_8#22,S. Typhi,11 years,M,4.3.1,2014,inpatient,-,gyrA S83F,-,S,S,S,IS,S,S
+ERS1545430,ERR1837154,20087_8#21,S. Typhi,7 years,F,4.3.1,2014,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545428,ERR1837152,20087_8#19,S. Typhi,3 years,F,4.3.1,2014,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545427,ERR1837151,20087_8#18,S. Typhi,12 years,M,2.2.0,2014,inpatient,-,-,-,S,S,S,S,S,S
+ERS1545426,ERR1837150,20087_8#17,S. Typhi,7 years,M,4.3.1,2014,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545425,ERR1837149,20087_8#16,S. Typhi,3 years,F,3.3.0,2014,inpatient,-,parE A364V,-,S,S,S,IS,S,S
+ERS1545424,ERR1837148,20087_8#15,S. Typhi,1 year,M,4.3.1,2014,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545423,ERR1837147,20087_8#14,S. Typhi,8 years,M,4.3.1,2015,inpatient,"catA1,dfrA7,sul1,blaTEM-1,strA,strB,sul2",gyrA S83F,pHCM2,IS,IS,IS,IS,IS,S
+ERS1545422,ERR1837146,20087_8#13,S. Typhi,2 years,M,4.3.1,2015,inpatient,"catA1,dfrA7,sul1,blaTEM-1,strA,strB,sul2",gyrA S83F,pHCM2,IS,IS,IS,IS,S,S
+ERS1545420,ERR1837144,20087_8#11,S. Typhi,10 years,F,3.3.0,2015,inpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545419,ERR1837143,20087_8#10,S. Typhi,5 years,F,4.3.1,2015,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545418,ERR1837142,20087_8#9,S. Typhi,3 years,M,4.3.1,2015,inpatient,"blaTEM-1,strA,strB,sul2",-,-,S,S,IS,S,IS,S
+ERS1545417,ERR1837141,20087_8#8,S. Typhi,7 months,F,3.3.0,2015,inpatient,-,"gyrA S83F, parE A364V",-,S,S,S,IS,IS,S
+ERS1545416,ERR1837140,20087_8#7,S. Typhi,6 years,M,3.3.0,2015,inpatient,-,parE A364V,-,S,S,S,IS,IS,S
+ERS1545415,ERR1837139,20087_8#6,S. Typhi,3 years,F,4.3.1,2008,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545414,ERR1837138,20087_8#5,S. Typhi,13 years,M,4.3.1,2008,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545413,ERR1837137,20087_8#4,S. Typhi,4 years,F,3.3.0,2008,inpatient,-,-,-,S,S,S,S,IS,S
+ERS1545412,ERR1837136,20087_8#3,S. Typhi,11 years,M,3.2.2,2008,inpatient,-,-,-,S,S,S,S,IS,S
+ERS1545411,ERR1837135,20087_8#2,S. Typhi,1 years,M,4.3.1,2008,inpatient,-,gyrA S83F,-,S,S,S,IS,IS,S
+ERS1545410,ERR1837134,20087_8#1,S. Typhi,10 days,F,3.3.0,2008,inpatient,-,parE A364V,-,S,S,S,IS,S,S

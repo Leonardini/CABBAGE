@@ -1,0 +1,247 @@
+run_accession,study_accession,BioSample,tax_id,scientific_name,submitted_ftp,Strain_Number,Origin,Year,Phenotype,Reference
+SRR5126097,PRJNA186035,SAMN06074063,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-246,Human,2006,NAL,"Campioni et al., 2012."
+SRR5126098,PRJNA186035,SAMN06074065,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-242,Food,2005,Sensitive,"Campioni et al., 2012."
+SRR5126099,PRJNA186035,SAMN06074064,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-244,Human,2006,NAL,"Campioni et al., 2012."
+SRR5126100,PRJNA186035,SAMN06074060,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-251,Human,2006,NAL,"Campioni et al., 2012."
+SRR5126101,PRJNA186035,SAMN06074062,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-247,Human,2006,Sensitive,"Campioni et al., 2012."
+SRR5126102,PRJNA186035,SAMN06074061,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-249,Human,2006,NAL,"Campioni et al., 2012."
+SRR5126104,PRJNA186035,SAMN06074059,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-253,Human,2009,NAL,"Campioni et al., 2012."
+SRR5126105,PRJNA186035,SAMN06074057,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-260,Human,2009,NAL,"Campioni et al., 2012."
+SRR5126106,PRJNA186035,SAMN06074055,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-267,Human,2009,NAL,"Campioni et al., 2012."
+SRR5126107,PRJNA186035,SAMN06074058,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-255,Human,2009,NAL,"Campioni et al., 2012."
+SRR5126108,PRJNA186035,SAMN06074051,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-272,Human,2010,Sensitive,"Campioni et al., 2012."
+SRR5126109,PRJNA186035,SAMN06074054,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-269,Food,2010,NAL,"Campioni et al., 2012."
+SRR5126110,PRJNA186035,SAMN06074056,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-263,Human,2009,NAL,"Campioni et al., 2012."
+SRR5126111,PRJNA186035,SAMN06074053,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-270,Human,2010,NAL,"Campioni et al., 2012."
+SRR5126112,PRJNA186035,SAMN06074052,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-271,Human,2010,Sensitive,"Campioni et al., 2012."
+SRR5126113,PRJNA186035,SAMN06074049,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-274,Human,2010,Sensitive,"Campioni et al., 2012."
+SRR5126114,PRJNA186035,SAMN06074050,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-273,Human,2010,NAL,"Campioni et al., 2012."
+SRR5126115,PRJNA186035,SAMN06074108,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-34/04,Chicken,2004,NAL,"Campioni et al., 2014."
+SRR5126116,PRJNA186035,SAMN06074048,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-285,Human,2012,NAL,This study
+SRR5126183,PRJNA186035,SAMN06074040,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-153,Human,2001,Sensitive,"Campioni et al., 2012."
+SRR5126184,PRJNA186035,SAMN06074043,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-147,Food,2000,Sensitive,"Campioni et al., 2012."
+SRR5126185,PRJNA186035,SAMN06074045,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-143,Human,2000,NAL,"Campioni et al., 2012."
+SRR5126186,PRJNA186035,SAMN06074042,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-150,Food,2000,Sensitive,"Campioni et al., 2012."
+SRR5126187,PRJNA186035,SAMN06074044,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-144,Human,2000,NAL,"Campioni et al., 2012."
+SRR5126188,PRJNA186035,SAMN06074016,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-142,Food,2000,NAL,"Campioni et al., 2012."
+SRR5126189,PRJNA186035,SAMN06074041,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-151,Human,2001,NAL,"Campioni et al., 2012."
+SRR5126190,PRJNA186035,SAMN06074038,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-156,Human,2001,Sensitive,"Campioni et al., 2012."
+SRR5126191,PRJNA186035,SAMN06074039,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-154,Human,2001,Sensitive,"Campioni et al., 2012."
+SRR5126197,PRJNA186035,SAMN06074037,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-158,Human,2001,Sensitive,"Campioni et al., 2012."
+SRR5126198,PRJNA186035,SAMN06074033,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-168,Food,2001,NAL,"Campioni et al., 2012."
+SRR5126199,PRJNA186035,SAMN06074034,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-165,Food,2001,Sensitive,"Campioni et al., 2012."
+SRR5126200,PRJNA186035,SAMN06074029,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-183,Human,2002,Sensitive,"Campioni et al., 2012."
+SRR5126201,PRJNA186035,SAMN06074036,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-162,Food,2001,Sensitive,"Campioni et al., 2012."
+SRR5126202,PRJNA186035,SAMN06074031,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-173,Human,2002,Sensitive,"Campioni et al., 2012."
+SRR5126203,PRJNA186035,SAMN06074035,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-164,Food,2001,Sensitive,"Campioni et al., 2012."
+SRR5126205,PRJNA186035,SAMN06074032,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-171,Human,2002,Sensitive,"Campioni et al., 2012."
+SRR5126206,PRJNA186035,SAMN06074026,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-187,Human,2002,NAL,"Campioni et al., 2012."
+SRR5126207,PRJNA186035,SAMN06074024,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-192,Food,2002,Sensitive,"Campioni et al., 2012."
+SRR5126208,PRJNA186035,SAMN06074025,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-191,Food,2002,NAL,"Campioni et al., 2012."
+SRR5126209,PRJNA186035,SAMN06074028,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-185,Human,2002,Sensitive,"Campioni et al., 2012."
+SRR5126210,PRJNA186035,SAMN06074027,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-186,Human,2002,Sensitive,"Campioni et al., 2012."
+SRR5126211,PRJNA186035,SAMN06074023,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-193,Human,2003,Sensitive,"Campioni et al., 2012."
+SRR5126212,PRJNA186035,SAMN06074021,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-198,Food,2003,NAL,"Campioni et al., 2012."
+SRR5126214,PRJNA186035,SAMN06074020,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-199,Food,2003,NAL,"Campioni et al., 2012."
+SRR5126215,PRJNA186035,SAMN06074075,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-211,Human,2004,Sensitive,"Campioni et al., 2012."
+SRR5126216,PRJNA186035,SAMN06074077,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-201,Food,2003,Sensitive,"Campioni et al., 2012."
+SRR5126217,PRJNA186035,SAMN06074019,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-200,Food,2003,NAL,"Campioni et al., 2012."
+SRR5126218,PRJNA186035,SAMN06074076,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-206,Human,2004,Sensitive,"Campioni et al., 2012."
+SRR5126219,PRJNA186035,SAMN06074073,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-223,Human,2004,NAL,"Campioni et al., 2012."
+SRR5126220,PRJNA186035,SAMN06074074,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-214,Human,2004,NAL,"Campioni et al., 2012."
+SRR5126221,PRJNA186035,SAMN06074068,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-234,Human,2004,NAL,"Campioni et al., 2012."
+SRR5126222,PRJNA186035,SAMN06074071,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-230,Food,2004,NAL,"Campioni et al., 2012."
+SRR5126223,PRJNA186035,SAMN06074069,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-233,Human,2004,NAL,"Campioni et al., 2012."
+SRR5126224,PRJNA186035,SAMN06074070,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-231,Food,2004,NAL,"Campioni et al., 2012."
+SRR5126225,PRJNA186035,SAMN06074072,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-227,Food,2004,NAL,"Campioni et al., 2012."
+SRR5126226,PRJNA186035,SAMN06074067,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-239,Human,2005,Sensitive,"Campioni et al., 2012."
+SRR5126227,PRJNA186035,SAMN06074066,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-241,Food,2005,Sensitive,"Campioni et al., 2012."
+SRR5126459,PRJNA186035,SAMN06073963,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-60,Food,1996,Sensitive,"Campioni et al., 2012."
+SRR5126929,PRJNA186035,SAMN06073962,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-66,Human,1996,Sensitive,"Campioni et al., 2012."
+SRR5126930,PRJNA186035,SAMN06073961,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-67,Food,1996,Sensitive,"Campioni et al., 2012."
+SRR5126931,PRJNA186035,SAMN06073956,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-75,Food,1996,Sensitive,"Campioni et al., 2012."
+SRR5126932,PRJNA186035,SAMN06074015,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-76,Food,1996,Sensitive,"Campioni et al., 2012."
+SRR5126933,PRJNA186035,SAMN06073958,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-73,Food,1996,Sensitive,"Campioni et al., 2012."
+SRR5126934,PRJNA186035,SAMN06073957,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-74,Food,1996,Sensitive,"Campioni et al., 2012."
+SRR5126935,PRJNA186035,SAMN06074013,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-80,Human,1997,Sensitive,"Campioni et al., 2012."
+SRR5126936,PRJNA186035,SAMN06073960,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-68,Human,1996,Sensitive,"Campioni et al., 2012."
+SRR5126937,PRJNA186035,SAMN06074014,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-77,Human,1996,Sensitive,"Campioni et al., 2012."
+SRR5126938,PRJNA186035,SAMN06073959,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-70,Human,1996,Sensitive,"Campioni et al., 2012."
+SRR5126939,PRJNA186035,SAMN06074011,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-85,Food,1997,Sensitive,"Campioni et al., 2012."
+SRR5126940,PRJNA186035,SAMN06074012,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-84,Food,1997,Sensitive,"Campioni et al., 2012."
+SRR5126941,PRJNA186035,SAMN06074010,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-86,Food,1997,Sensitive,"Campioni et al., 2012."
+SRR5126942,PRJNA186035,SAMN06074007,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-89,Human,1998,Sensitive,"Campioni et al., 2012."
+SRR5126943,PRJNA186035,SAMN06074008,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-88,Food,1997,Sensitive,"Campioni et al., 2012."
+SRR5126944,PRJNA186035,SAMN06074009,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-87,Food,1997,Sensitive,"Campioni et al., 2012."
+SRR5126945,PRJNA186035,SAMN06074006,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-94,Human,1998,Sensitive,"Campioni et al., 2012."
+SRR5126946,PRJNA186035,SAMN06074005,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-96,Human,1998,Sensitive,"Campioni et al., 2012."
+SRR5126947,PRJNA186035,SAMN06074003,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-114,Food,1998,Sensitive,"Campioni et al., 2012."
+SRR5126948,PRJNA186035,SAMN06074004,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-100,Human,1998,Sensitive,"Campioni et al., 2012."
+SRR5126949,PRJNA186035,SAMN06074000,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-117,Human,1999,Sensitive,"Campioni et al., 2012."
+SRR5126950,PRJNA186035,SAMN06074001,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-116,Food,1998,Sensitive,"Campioni et al., 2012."
+SRR5126951,PRJNA186035,SAMN06074002,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-115,Food,1998,Sensitive,"Campioni et al., 2012."
+SRR5126952,PRJNA186035,SAMN06073996,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-125,Food,1999,Sensitive,"Campioni et al., 2012."
+SRR5126953,PRJNA186035,SAMN06073997,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-124,Human,1999,Sensitive,"Campioni et al., 2012."
+SRR5126954,PRJNA186035,SAMN06073999,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-119,Human,1999,Sensitive,"Campioni et al., 2012."
+SRR5126955,PRJNA186035,SAMN06073995,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-126,Food,1999,NAL,"Campioni et al., 2012."
+SRR5126956,PRJNA186035,SAMN06073998,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-120,Human,1999,Sensitive,"Campioni et al., 2012."
+SRR5126957,PRJNA186035,SAMN06073994,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-127,Food,1999,NAL,"Campioni et al., 2012."
+SRR5126958,PRJNA186035,SAMN06073988,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-133,Food,1999,Sensitive,"Campioni et al., 2012."
+SRR5126959,PRJNA186035,SAMN06073990,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-131,Food,1999,Sensitive,"Campioni et al., 2012."
+SRR5126960,PRJNA186035,SAMN06073989,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-132,Food,1999,Sensitive,"Campioni et al., 2012."
+SRR5126961,PRJNA186035,SAMN06073992,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-129,Food,1999,Sensitive,"Campioni et al., 2012."
+SRR5126962,PRJNA186035,SAMN06074018,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-136,Human,2000,NAL,"Campioni et al., 2012."
+SRR5126963,PRJNA186035,SAMN06073987,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-134,Food,1999,Sensitive,"Campioni et al., 2012."
+SRR5126964,PRJNA186035,SAMN06073993,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-128,Food,1999,Sensitive,"Campioni et al., 2012."
+SRR5126965,PRJNA186035,SAMN06073986,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-135,Food,1999,NAL,"Campioni et al., 2012."
+SRR5126966,PRJNA186035,SAMN06073991,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-130,Food,1999,Sensitive,"Campioni et al., 2012."
+SRR5126967,PRJNA186035,SAMN06074017,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-139,Human,2000,NAL,"Campioni et al., 2012."
+SRR5126968,PRJNA186035,SAMN06073080,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4,Human,1986,Sensitive,"Campioni et al., 2012."
+SRR5126969,PRJNA186035,SAMN06073824,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-9,Human,1994,Sensitive,"Campioni et al., 2012."
+SRR5126970,PRJNA186035,SAMN06073814,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-10,Human,1994,Sensitive,"Campioni et al., 2012."
+SRR5126971,PRJNA186035,SAMN06073863,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-6,Human,1994,Sensitive,"Campioni et al., 2012."
+SRR5126972,PRJNA186035,SAMN06073851,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-7,Human,1994,Sensitive,"Campioni et al., 2012."
+SRR5126973,PRJNA186035,SAMN06073832,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-8,Human,1994,Sensitive,"Campioni et al., 2012."
+SRR5126974,PRJNA186035,SAMN06073876,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-5,Human,1992,Sensitive,"Campioni et al., 2012."
+SRR5126975,PRJNA186035,SAMN06073805,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-11,Human,1994,Sensitive,"Campioni et al., 2012."
+SRR5126976,PRJNA186035,SAMN06073780,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-15,Human,1995,Sensitive,"Campioni et al., 2012."
+SRR5126977,PRJNA186035,SAMN06073985,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-16,Human,1995,Sensitive,"Campioni et al., 2012."
+SRR5126978,PRJNA186035,SAMN06073984,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-17,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126979,PRJNA186035,SAMN06073797,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-12,Food,1994,Sensitive,"Campioni et al., 2012."
+SRR5126980,PRJNA186035,SAMN06073788,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-13,Food,1994,Sensitive,"Campioni et al., 2012."
+SRR5126981,PRJNA186035,SAMN06073983,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-18,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126982,PRJNA186035,SAMN06073982,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-22,Human,1995,Sensitive,"Campioni et al., 2012."
+SRR5126983,PRJNA186035,SAMN06073981,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-23,Human,1995,Sensitive,"Campioni et al., 2012."
+SRR5126984,PRJNA186035,SAMN06073980,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-27,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126985,PRJNA186035,SAMN06073978,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-29,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126986,PRJNA186035,SAMN06073977,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-30,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126987,PRJNA186035,SAMN06073979,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-28,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126988,PRJNA186035,SAMN06073976,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-32,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126989,PRJNA186035,SAMN06073975,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-33,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126990,PRJNA186035,SAMN06073974,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-35,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126991,PRJNA186035,SAMN06073972,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-37,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126993,PRJNA186035,SAMN06073973,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-36,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126994,PRJNA186035,SAMN06073971,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-38,Food,1995,Sensitive,"Campioni et al., 2012."
+SRR5126995,PRJNA186035,SAMN06073969,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-41,Human,1996,Sensitive,"Campioni et al., 2012."
+SRR5126996,PRJNA186035,SAMN06073968,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-43,Human,1996,STR,"Campioni et al., 2012."
+SRR5126997,PRJNA186035,SAMN06073967,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-48,Human,1996,Sensitive,"Campioni et al., 2012."
+SRR5126998,PRJNA186035,SAMN06073966,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-50,Human,1996,NAL,"Campioni et al., 2012."
+SRR5126999,PRJNA186035,SAMN06073965,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-56,Food,1996,Sensitive,"Campioni et al., 2012."
+SRR5127000,PRJNA186035,SAMN06073964,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-59,Human,1996,Sensitive,"Campioni et al., 2012."
+SRR5159825,PRJNA186035,SAMN06074208,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-5535,Human,2014,NAL,This study
+SRR5159854,PRJNA186035,SAMN06074202,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3473,Food,2016,NAL,This study
+SRR5159883,PRJNA186035,SAMN06074214,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4280,Human,2014,NAL,This study
+SRR5160144,PRJNA186035,SAMN06074213,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4451,Human,2014,NAL,This study
+SRR5160149,PRJNA186035,SAMN06074193,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4511,Food,2016,NAL,This study
+SRR5160152,PRJNA186035,SAMN06074211,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-5012,Human,2014,"NAL, CIP",This study
+SRR5160221,PRJNA186035,SAMN06074210,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-5346,Food,2014,NAL,This study
+SRR5160233,PRJNA186035,SAMN06074201,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3474,Food,2016,NAL,This study
+SRR5160237,PRJNA186035,SAMN06074198,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4501,Food,2016,NAL,This study
+SRR5160242,PRJNA186035,SAMN06074215,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4245,Human,2014,NAL,This study
+SRR5160269,PRJNA186035,SAMN06074200,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3475,Food,2016,NAL,This study
+SRR5160271,PRJNA186035,SAMN06074188,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-221/2013,Farm_Environment,2013,NAL,This study
+SRR5160272,PRJNA186035,SAMN06074192,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4512,Food,2016,Sensitive,This study
+SRR5160274,PRJNA186035,SAMN06074216,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3209,Human,2014,Sensitive,This study
+SRR5160276,PRJNA186035,SAMN06074194,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4510,Food,2016,NAL,This study
+SRR5160277,PRJNA186035,SAMN06074203,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3472,Food,2016,NAL,This study
+SRR5160280,PRJNA186035,SAMN06074209,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-5413,Human,2014,NAL,This study
+SRR5160281,PRJNA186035,SAMN06074195,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4509,Food,2016,NAL,This study
+SRR5160284,PRJNA186035,SAMN06074177,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1931,Human,2014,NAL,This study
+SRR5160289,PRJNA186035,SAMN06074182,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1396,Human,2014,"NAL, CIP",This study
+SRR5160290,PRJNA186035,SAMN06074190,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1329/93,Chicken,1993,Sensitive,This study
+SRR5160291,PRJNA186035,SAMN06074185,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-801,Human,2014,NAL,This study
+SRR5160292,PRJNA186035,SAMN06074181,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1551,Human,2014,NAL,This study
+SRR5160293,PRJNA186035,SAMN06074187,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-460,Food,2014,NAL,This study
+SRR5160294,PRJNA186035,SAMN06074183,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1356,Human,2014,Sensitive,This study
+SRR5160295,PRJNA186035,SAMN06074179,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1733,Food,2014,NAL,This study
+SRR5160296,PRJNA186035,SAMN06074184,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-961,Human,2014,NAL,This study
+SRR5160297,PRJNA186035,SAMN06074178,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1794,Chicken,2014,NAL,This study
+SRR5160298,PRJNA186035,SAMN06074189,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-76/2013,Human,2013,NAL,This study
+SRR5160299,PRJNA186035,SAMN06074186,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-795,Human,2014,NAL,This study
+SRR5160301,PRJNA186035,SAMN06074173,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-2232,Human,2014,NAL,This study
+SRR5160302,PRJNA186035,SAMN06074171,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-2818,Human,2014,NAL,This study
+SRR5160303,PRJNA186035,SAMN06074172,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-2252,Food,2014,NAL,This study
+SRR5160307,PRJNA186035,SAMN06074168,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3171,Human,2014,Sensitive,This study
+SRR5160308,PRJNA186035,SAMN06074170,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-2819,Food,2014,NAL,This study
+SRR5160309,PRJNA186035,SAMN06074218,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3177,Human,2014,Sensitive,This study
+SRR5160310,PRJNA186035,SAMN06074217,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3207,Human,2014,Sensitive,This study
+SRR5160311,PRJNA186035,SAMN06074161,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-2639/68,Human,1968,NAL,This study
+SRR5160312,PRJNA186035,SAMN06074158,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-569/81,Chicken,1981,Sensitive,This study
+SRR5160313,PRJNA186035,SAMN06074160,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3243/69,Human,1969,Sensitive,This study
+SRR5160314,PRJNA186035,SAMN06074155,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-172/85,Human,1985,Sensitive,This study
+SRR5160317,PRJNA186035,SAMN06074159,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-17/80,Chicken,1980,Sensitive,This study
+SRR5160318,PRJNA186035,SAMN06074157,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-3494/82,Human,1982,Sensitive,This study
+SRR5160319,PRJNA186035,SAMN06074153,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-STAL LMS,Human,1986,Sensitive,This study
+SRR5160321,PRJNA186035,SAMN06074149,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-A65/88,Human,1988,Sensitive,This study
+SRR5160322,PRJNA186035,SAMN06074152,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4258/86,Human,1986,Sensitive,This study
+SRR5160323,PRJNA186035,SAMN06074150,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-144/88,Food,1988,Sensitive,This study
+SRR5160324,PRJNA186035,SAMN06074151,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-337/R65/86,Human,1986,Sensitive,This study
+SRR5160326,PRJNA186035,SAMN06074146,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-94/89,Human,1989,Sensitive,This study
+SRR5160382,PRJNA186035,SAMN06074143,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-103/89,Human,1989,Sensitive,This study
+SRR5160384,PRJNA186035,SAMN06074141,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-327/90,Chicken,1990,Sensitive,This study
+SRR5160385,PRJNA186035,SAMN06074139,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-896/93,Food,1993,Sensitive,This study
+SRR5160386,PRJNA186035,SAMN06074144,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-98/89,Human,1989,Sensitive,This study
+SRR5160388,PRJNA186035,SAMN06074138,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-881/93,Chicken,1993,Sensitive,This study
+SRR5160389,PRJNA186035,SAMN06074191,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1328/93,Chicken,1993,Sensitive,This study
+SRR5160408,PRJNA186035,SAMN06074106,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-67/04,Chicken,2004,NAL,"Campioni et al., 2014."
+SRR5160409,PRJNA186035,SAMN06074107,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-55/04,Farm_Environment,2004,NAL,"Campioni et al., 2014."
+SRR5160413,PRJNA186035,SAMN06074104,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-294/04,Chicken,2004,Sensitive,"Campioni et al., 2014."
+SRR5160414,PRJNA186035,SAMN06074105,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-69/04,Chicken,2004,NAL,"Campioni et al., 2014."
+SRR5160416,PRJNA186035,SAMN06074101,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-302/04,Chicken,2004,Sensitive,"Campioni et al., 2014."
+SRR5160417,PRJNA186035,SAMN06074096,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-73/05,Chicken,2005,NAL,"Campioni et al., 2014."
+SRR5160418,PRJNA186035,SAMN06074098,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-67/05,Chicken,2005,NAL,"Campioni et al., 2014."
+SRR5160419,PRJNA186035,SAMN06074102,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-298/04,Chicken,2004,Sensitive,"Campioni et al., 2014."
+SRR5160420,PRJNA186035,SAMN06074097,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-69/05,Chicken,2005,Sensitive,"Campioni et al., 2014."
+SRR5160421,PRJNA186035,SAMN06074099,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-312/04,Farm_Environment,2004,Sensitive,"Campioni et al., 2014."
+SRR5160422,PRJNA186035,SAMN06074103,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-296/04,Chicken,2004,Sensitive,"Campioni et al., 2014."
+SRR5160423,PRJNA186035,SAMN06074095,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-226/05,Chicken,2005,Sensitive,"Campioni et al., 2014."
+SRR5160424,PRJNA186035,SAMN06074100,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-304/04,Chicken,2004,Sensitive,"Campioni et al., 2014."
+SRR5160425,PRJNA186035,SAMN06074094,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-275/05,Chicken,2005,NAL,"Campioni et al., 2014."
+SRR5160519,PRJNA186035,SAMN06074083,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-150/06,Farm_Environment,2006,NAL,"Campioni et al., 2014."
+SRR5160520,PRJNA186035,SAMN06074085,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-110/06,Chicken,2006,Sensitive,"Campioni et al., 2014."
+SRR5160521,PRJNA186035,SAMN06074090,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-27/06,Chicken,2006,NAL,"Campioni et al., 2014."
+SRR5160522,PRJNA186035,SAMN06074088,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-88/06,Farm_Environment,2006,Sensitive,"Campioni et al., 2014."
+SRR5160523,PRJNA186035,SAMN06074087,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-98/06,Farm_Environment,2006,NAL,"Campioni et al., 2014."
+SRR5160524,PRJNA186035,SAMN06074091,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-413/05,Chicken,2005,NAL,"Campioni et al., 2014."
+SRR5160525,PRJNA186035,SAMN06074089,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-31/06,Chicken,2006,Sensitive,"Campioni et al., 2014."
+SRR5160526,PRJNA186035,SAMN06074093,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-332/05,Chicken,2005,NAL,"Campioni et al., 2014."
+SRR5160527,PRJNA186035,SAMN06074086,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-102/06,Chicken,2006,NAL,"Campioni et al., 2014."
+SRR5160531,PRJNA186035,SAMN06074092,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-348/05,Chicken,2005,NAL,"Campioni et al., 2014."
+SRR5160532,PRJNA186035,SAMN06074084,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-112/06,Chicken,2006,Sensitive,"Campioni et al., 2014."
+SRR5160545,PRJNA186035,SAMN06074082,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-355/06,Chicken,2006,Sensitive,"Campioni et al., 2014."
+SRR5160549,PRJNA186035,SAMN06074134,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-191/07,Chicken,2007,NAL,"Campioni et al., 2014."
+SRR5160633,PRJNA186035,SAMN06074079,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-135/07,Chicken,2007,NAL,"Campioni et al., 2014."
+SRR5160634,PRJNA186035,SAMN06074081,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-387/06,Chicken,2006,NAL,"Campioni et al., 2014."
+SRR5160635,PRJNA186035,SAMN06074136,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-143/07,Farm_Environment,2007,NAL,"Campioni et al., 2014."
+SRR5160638,PRJNA186035,SAMN06074078,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-139/07,Chicken,2007,NAL,"Campioni et al., 2014."
+SRR5160639,PRJNA186035,SAMN06074135,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-189/07,Chicken,2007,Sensitive,"Campioni et al., 2014."
+SRR5160640,PRJNA186035,SAMN06074080,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-131/07,Chicken,2007,NAL,"Campioni et al., 2014."
+SRR5160641,PRJNA186035,SAMN06074131,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-255/07,Chicken,2007,NAL,"Campioni et al., 2014."
+SRR5160643,PRJNA186035,SAMN06074133,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-199/07,Chicken,2007,NAL,"Campioni et al., 2014."
+SRR5160644,PRJNA186035,SAMN06074122,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-327/08,Farm_Environment,2008,NAL,"Campioni et al., 2014."
+SRR5160645,PRJNA186035,SAMN06074132,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-217/07,Chicken,2007,Sensitive,"Campioni et al., 2014."
+SRR5160646,PRJNA186035,SAMN06074129,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-27/08,Chicken,2008,NAL,"Campioni et al., 2014."
+SRR5160647,PRJNA186035,SAMN06074121,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-331/08,Farm_Environment,2008,NAL,"Campioni et al., 2014."
+SRR5160648,PRJNA186035,SAMN06074120,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-11/09,Farm_Environment,2009,NAL,"Campioni et al., 2014."
+SRR5160649,PRJNA186035,SAMN06074124,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-257/08,Chicken,2008,Sensitive,"Campioni et al., 2014."
+SRR5160650,PRJNA186035,SAMN06074119,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-21/09,Chicken,2009,NAL,"Campioni et al., 2014."
+SRR5160658,PRJNA186035,SAMN06074117,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-107/09,Farm_Environment,2009,NAL,"Campioni et al., 2014."
+SRR5160660,PRJNA186035,SAMN06074111,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-179/10,Farm_Environment,2010,NAL,"Campioni et al., 2014."
+SRR5160663,PRJNA186035,SAMN06074113,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-217/09,Chicken,2009,NAL,"Campioni et al., 2014."
+SRR5160665,PRJNA186035,SAMN06074112,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-229/09,Chicken,2009,NAL,"Campioni et al., 2014."
+SRR5160666,PRJNA186035,SAMN06074109,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-197/10,Farm_Environment,2010,NAL,"Campioni et al., 2014."
+SRR5160668,PRJNA186035,SAMN06074162,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-219/10,Farm_Environment,2010,NAL,"Campioni et al., 2014."
+SRR5232056,PRJNA186035,SAMN06074128,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-129/08,Chicken,2008,NAL,"Campioni et al., 2014."
+SRR5232061,PRJNA186035,SAMN06074126,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-203/08,Chicken,2008,NAL,"Campioni et al., 2014."
+SRR5232062,PRJNA186035,SAMN06074127,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-133/08,Chicken,2008,NAL,"Campioni et al., 2014."
+SRR5232080,PRJNA186035,SAMN06074125,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-227/08,Chicken,2008,NAL,"Campioni et al., 2014."
+SRR5232081,PRJNA186035,SAMN06074123,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-317/08,Farm_Environment,2008,NAL,"Campioni et al., 2014."
+SRR5232082,PRJNA186035,SAMN06074116,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-113/09,Farm_Environment,2009,NAL,"Campioni et al., 2014."
+SRR5232083,PRJNA186035,SAMN06074118,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-37/09,Chicken,2009,Sensitive,"Campioni et al., 2014."
+SRR5232084,PRJNA186035,SAMN06074115,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-141/09,Farm_Environment,2009,NAL,"Campioni et al., 2014."
+SRR5232085,PRJNA186035,SAMN06074114,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-165/09,Chicken,2009,NAL,"Campioni et al., 2014."
+SRR5381280,PRJNA186035,SAMN06611255,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-252,Food,2007,NAL,"Campioni et al., 2012."
+SRR5819637,PRJNA186035,SAMN06073080,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4,Human,1986,Sensitive,"Campioni et al., 2012."
+SRR5819643,PRJNA186035,SAMN06074181,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1551,Human,2014,NAL,This study
+SRR5819786,PRJNA186035,SAMN06073080,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-4,Human,1986,Sensitive,"Campioni et al., 2012."
+SRR5819791,PRJNA186035,SAMN06074181,149539,Salmonella enterica subsp. enterica serovar Enteritidis,NA,SE-1551,Human,2014,NAL,This study
